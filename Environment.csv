@@ -2,21 +2,21 @@ id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
 73322e8d-5c70-4f53-bc20-5bbbf87e6654,environmental.ai,expired,84,80,13,EuroDNS S.A.,15/12/2017 22:43,08/05/2025 22:43
 b1c48f1c-c197-401e-b23a-99de046e528c,environmental.at,resell,84,80,13,EWBCD GmbH ( https://nic.at/registrar/750 ),,
 794d47a6-0f60-4727-97bf-a2d8b35fb87b,environmental.co,expiring,84,80,13,"GoDaddy.com, LLC",20/07/2010 18:00,19/07/2025 23:59
-64e961ac-c9ad-4c44-9933-2270e7d43057,environmental.dev,available,84,80,13,,,
-b14983ef-5f9c-4017-8952-e4b694a2a2aa,environmental.expert,available,84,80,13,,,
+64e961ac-c9ad-4c44-9933-2270e7d43057,environmental.dev,premium,84,80,13,,,
+b14983ef-5f9c-4017-8952-e4b694a2a2aa,environmental.expert,premium,84,80,13,,,
 7bdd6e9a-8ffd-49db-8e17-fcc0f6082810,environmental.gg,available,84,80,13,,,
 e4a076ce-79b5-4055-baec-1ae114f082f4,environmental.it,resell,84,80,13,,03/05/2023 09:00,03/05/2026 00:00
 2f728906-7cee-4f1d-9341-8ccb03680200,environmental.ninja,available,84,80,13,,,
-d1f0e0c1-a71c-4ace-ba7c-f1b0178dccb5,environmental.online,available,84,80,13,,,
-3624ff74-0cbe-4d15-91b2-59a6460276ea,environmental.site,available,84,80,13,,,
+d1f0e0c1-a71c-4ace-ba7c-f1b0178dccb5,environmental.online,premium,84,80,13,,,
+3624ff74-0cbe-4d15-91b2-59a6460276ea,environmental.site,premium,84,80,13,,,
 3f6d6c8e-4c94-4340-b525-2664f0ff6ea6,environmental.so,available,84,80,13,,,
-541d68c5-824d-418f-9291-27148beb973c,environmental.space,available,84,80,13,,,
-673667ab-a6ac-41fc-8964-ba913a242bfa,environmental.store,available,84,80,13,,,
-32a175bc-98e9-4eba-8376-6f04610c8d54,environmental.tech,available,84,80,13,,,
+541d68c5-824d-418f-9291-27148beb973c,environmental.space,premium,84,80,13,,,
+673667ab-a6ac-41fc-8964-ba913a242bfa,environmental.store,premium,84,80,13,,,
+32a175bc-98e9-4eba-8376-6f04610c8d54,environmental.tech,premium,84,80,13,,,
 c5a32fc7-25c9-4840-b3a2-4e72b75fb153,environmental.zone,available,84,80,13,,,
 834abffe-c2db-4a04-b2f3-0124107a9533,greenbuilding.ai,expiring,76,88,14,"GoDaddy.com, LLC",02/08/2023 02:54,02/08/2025 02:54
-b329dae8-2e24-46a9-81d9-006044081e11,greenbuilding.app,available,76,88,14,,,
-7dc814e8-c615-46f6-9137-271f14e74bf1,greenbuilding.at,available,76,88,14,,,
+b329dae8-2e24-46a9-81d9-006044081e11,greenbuilding.app,premium,76,88,14,,,
+7dc814e8-c615-46f6-9137-271f14e74bf1,greenbuilding.at,premium,76,88,14,,,
 9bd55a9f-5b70-47fe-a4e2-db6d95108f2b,greenbuilding.com,resell,76,88,14,"Network Solutions, LLC",18/02/1997 05:00,19/02/2026 05:00
 2f237104-52d1-4147-b798-87efe9de1e92,greenbuilding.expert,available,76,88,14,,,
 ad1251dd-2c68-42bd-b942-abf6a4a94998,greenbuilding.gg,available,76,88,14,,,
@@ -37,14 +37,14 @@ b777e586-849b-4188-95db-15d0800dc95c,sustainability.so,available,,44,14,,,
 38e9f5a3-24d3-4ad9-b5f9-4ce13d978211,sustainability.store,available,,44,14,,,
 20ce72a6-d88c-4f80-9ad5-4599ef3b5d77,sustainability.us,resell,,44,14,Go China Domains Inc,02/07/2008 18:04,01/07/2026 23:59
 b9195c69-ef26-435b-acc4-0e05961b02ec,sustainability.zone,resell,,44,14,"GoDaddy.com, LLC",10/06/2023 18:11,10/06/2026 18:11
-34062282-5b12-4094-ba82-018dedb958bc,services.at,available,72,92,8,,,
-4a85e913-c8a6-4708-90dc-f736d27e9a21,services.cloud,available,72,92,8,,,
+34062282-5b12-4094-ba82-018dedb958bc,services.at,premium,72,92,8,,,
+4a85e913-c8a6-4708-90dc-f736d27e9a21,services.cloud,premium,72,92,8,,,
 022913c9-7fd9-4de1-be91-1ca8236fa9bd,services.co,resell,72,92,8,Hello Internet Corp.,25/02/2010 00:55,24/02/2026 23:59
-3fe05864-07d9-4f83-b2b0-b45f83646628,services.online,available,72,92,8,,,
-8b854c9a-c05e-4fc6-b080-761d5753cf41,services.site,available,72,92,8,,,
-cc2b561f-1640-4620-b0ae-c235e5079085,services.space,available,72,92,8,,,
-224a0751-cdda-4221-a952-af441532c412,services.store,available,72,92,8,,,
-e75868ea-a536-435c-a269-be3e87321d88,services.tech,available,72,92,8,,,
+3fe05864-07d9-4f83-b2b0-b45f83646628,services.online,premium,72,92,8,,,
+8b854c9a-c05e-4fc6-b080-761d5753cf41,services.site,premium,72,92,8,,,
+cc2b561f-1640-4620-b0ae-c235e5079085,services.space,premium,72,92,8,,,
+224a0751-cdda-4221-a952-af441532c412,services.store,premium,72,92,8,,,
+e75868ea-a536-435c-a269-be3e87321d88,services.tech,premium,72,92,8,,,
 f0d930d7-d244-4d9a-bc23-852d2eaef636,carbonoffsetting.ai,available,66,68,17,,,
 0fd66bd7-5347-44a8-82a0-a697d28555ac,carbonoffsetting.app,available,66,68,17,,,
 8ed16590-d557-410d-8285-620036267b94,carbonoffsetting.at,available,66,68,17,,,
@@ -74,29 +74,29 @@ a006a7c4-e7e4-4089-b972-47b7f0168ed6,consulting.cloud,resell,72,84,10,Tucows Dom
 206389f2-7fb8-46e7-aebf-36ca8f62d1d7,consulting.expert,available,72,84,10,,,
 f4582d06-fa6e-4141-8f80-98985aa30b76,consulting.gg,resell,72,84,10,"NameCheap, Inc (https://www.namecheap.com)",,
 8fe92a99-e4ad-4987-8eab-0cd02d0cf4f9,consulting.io,resell,72,84,10,Dynadot11 LLC,08/12/2018 10:18,08/12/2025 10:18
-ed1426e6-577b-4462-90a9-3221a0cd9e70,consulting.me,available,72,84,10,,,
-0e778dac-b547-4c65-96d4-d4ed7e50031d,consulting.online,available,72,84,10,,,
+ed1426e6-577b-4462-90a9-3221a0cd9e70,consulting.me,premium,72,84,10,,,
+0e778dac-b547-4c65-96d4-d4ed7e50031d,consulting.online,premium,72,84,10,,,
 537047a6-5d0d-4437-8b13-dc507575483a,consulting.pro,resell,72,84,10,"Spaceship, Inc.",06/05/2023 15:15,06/05/2026 15:15
-5458ba97-849a-4cd8-b9c3-4d79211dbefe,consulting.site,available,72,84,10,,,
+5458ba97-849a-4cd8-b9c3-4d79211dbefe,consulting.site,premium,72,84,10,,,
 5fa0715f-cc42-461b-80a1-58cc8af3b945,consulting.space,available,72,84,10,,,
-00f6622a-efbd-49d6-85a5-7feda882bde2,consulting.store,available,72,84,10,,,
-60e49390-85c3-4245-96c8-f5927a1a8a20,consulting.xyz,available,72,84,10,,,
+00f6622a-efbd-49d6-85a5-7feda882bde2,consulting.store,premium,72,84,10,,,
+60e49390-85c3-4245-96c8-f5927a1a8a20,consulting.xyz,premium,72,84,10,,,
 0cf4f843-ec67-46a0-9080-915035fa6aeb,management.app,resell,76,84,10,"GoDaddy.com, LLC",08/05/2018 17:10,08/05/2026 17:10
-610f593e-14fd-4cb0-ab50-cf2cb78f8fc4,management.cloud,available,76,84,10,,,
+610f593e-14fd-4cb0-ab50-cf2cb78f8fc4,management.cloud,premium,76,84,10,,,
 5f90bd5a-e7eb-463e-acef-ed9dc551d1bb,management.co,resell,76,84,10,Hello Internet Corp.,24/02/2010 22:49,23/02/2026 23:59
 4da35666-49f1-4040-a3da-b200e9155053,management.com,resell,76,84,10,"NameCheap, Inc.",06/06/1997 04:00,05/06/2026 04:00
-576abe10-44e7-4cfc-a46e-f4411e3d3a39,management.dev,available,76,84,10,,,
-06fb067c-563e-47d7-9903-ca43304da860,management.expert,available,76,84,10,,,
+576abe10-44e7-4cfc-a46e-f4411e3d3a39,management.dev,premium,76,84,10,,,
+06fb067c-563e-47d7-9903-ca43304da860,management.expert,premium,76,84,10,,,
 62550ad5-4086-4fa1-b997-c6463b8f3091,management.gg,resell,76,84,10,Dynadot Inc. (https://www.dynadot.com),,
 e00d3085-4a5b-4715-aa43-057d10669695,management.io,resell,76,84,10,"Name.com, Inc.",17/05/2024 21:03,17/05/2026 21:03
 6c620f56-b63b-4674-b288-ab49cef371a2,management.me,resell,76,84,10,Dynadot Inc,13/09/2015 02:35,13/09/2025 02:35
-f240a3ef-5324-4e77-af54-3f339bff729b,management.online,available,76,84,10,,,
+f240a3ef-5324-4e77-af54-3f339bff729b,management.online,premium,76,84,10,,,
 9481735c-16c7-403f-b5b2-f4c5bd451b54,management.org,expiring,76,84,10,"GoDaddy.com, LLC",24/07/1998 04:00,23/07/2025 04:00
 5d44fc0b-3483-4e4c-a410-a23676c59dcc,management.pro,resell,76,84,10,"EnCirca, Inc.",22/06/2007 00:00,22/06/2026 00:00
-7b1a92c0-c930-4323-91d2-0d659d73ae76,management.site,available,76,84,10,,,
-729f67c4-8cb6-4cee-a7a8-7e0cf31607c9,management.space,available,76,84,10,,,
-ed40715b-4b23-4093-a52d-9a50d2f72234,management.store,available,76,84,10,,,
-70fc5802-d3c4-46d2-b1f2-079e670d8711,management.tech,available,76,84,10,,,
+7b1a92c0-c930-4323-91d2-0d659d73ae76,management.site,premium,76,84,10,,,
+729f67c4-8cb6-4cee-a7a8-7e0cf31607c9,management.space,premium,76,84,10,,,
+ed40715b-4b23-4093-a52d-9a50d2f72234,management.store,premium,76,84,10,,,
+70fc5802-d3c4-46d2-b1f2-079e670d8711,management.tech,premium,76,84,10,,,
 49f2c8f4-91e9-415b-81bc-85f876eac10c,sustainable.ai,resell,84,76,11,Dynadot Inc,16/12/2017 02:10,13/09/2025 02:10
 4caf5cc9-52cc-4a0c-a7e7-5df7dd519074,sustainable.at,sold,84,76,11,Hetzner Online GmbH ( https://nic.at/registrar/225 ),,
 f1c69882-f310-4c88-a911-2beb47cfdb71,sustainable.cloud,resell,84,76,11,GoDaddy,11/05/2019 07:28,11/05/2026 07:28
@@ -113,10 +113,10 @@ a55f56e0-9f8c-477a-84c9-c4bf13e854a6,sustainable.store,available,84,76,11,,,
 6652b71f-2d17-4331-93ec-4cf801cd1d6e,sustainable.us,expired,84,76,11,IONOS SE,01/06/2004 21:13,31/05/2025 23:59
 1b341a02-d2d6-4bf8-9ff6-dd032d93f3fb,assessment.cloud,available,66,80,10,,,
 39d80e6e-b483-4d9c-81e2-bccbe6b5ff07,assessment.co,resell,66,80,10,"Register.com, Inc.",14/09/2010 16:36,13/09/2025 23:59
-94ccf4c6-1146-4b8d-97eb-f23e9d3416ed,assessment.dev,available,66,80,10,,,
+94ccf4c6-1146-4b8d-97eb-f23e9d3416ed,assessment.dev,premium,66,80,10,,,
 4cda6934-0081-4089-9268-a1cc50927556,assessment.gg,available,66,80,10,,,
 d832ee94-d598-4a81-b7ae-7c54708c5e09,assessment.io,expiring,66,80,10,"GoDaddy.com, LLC",11/07/2019 10:06,11/07/2025 10:06
-de699395-a155-4774-af34-317533f89818,assessment.site,available,66,80,10,,,
+de699395-a155-4774-af34-317533f89818,assessment.site,premium,66,80,10,,,
 4db2059a-0db9-4845-96d2-ed8c2f9a5fc3,assessment.so,available,66,80,10,,,
 df09a8d8-1c57-4194-8695-bebf7c22a8b9,assessment.us,resell,66,80,10,"Spaceship, Inc.",09/07/2010 18:01,08/07/2026 23:59
 3bacc356-ee84-4ab4-9b4c-65fad0eca149,waste.ac,available,104,22,5,,,
@@ -508,7 +508,7 @@ e44de28c-ea12-4e3b-b85e-72e9e3e6c03b,efficiency.so,available,68,72,10,,,
 2ca09ca7-2657-4c70-85bf-fa46ecf7af7c,energy.expert,available,82,80,6,,,
 443c46b4-4b3f-47ec-9da2-d60f3b231bc8,energy.gg,resell,82,80,6,"NameCheap, Inc (https://www.namecheap.com)",,
 6c685f19-af10-459b-977f-44d1f575f94f,energy.io,resell,82,80,6,"Spaceship, Inc.",29/01/2007 01:41,29/01/2026 01:41
-44985b36-1855-4f17-acfb-86ca08c8c82d,energy.online,available,82,80,6,,,
+44985b36-1855-4f17-acfb-86ca08c8c82d,energy.online,premium,82,80,6,,,
 0f4dafbd-442c-42ed-a500-35d5d2439cbf,energy.so,resell,82,80,6,NameCheap,18/08/2020 03:02,18/08/2025 03:02
 ec34bf4a-d522-4e77-b4b9-8ea35c11cee4,energy.space,available,82,80,6,,,
 a3ebf7c4-3b76-41b8-8427-ccf7e50191bb,energy.tech,resell,82,80,6,Dotserve Inc,16/02/2021 19:40,16/02/2029 23:59
@@ -843,159 +843,159 @@ c3aa3b2b-62b8-482d-961d-0cf26da480b0,green.zip,available,108,40,5,,,
 60291aab-d2fd-4d8a-9d68-47af73150142,testing.io,expiring,86,80,7,"GoDaddy.com, LLC",16/07/2020 17:10,16/07/2025 17:10
 15d4adf1-b099-47a7-a221-b33c5691797b,testing.it,resell,86,80,7,,09/08/2016 09:00,09/08/2025 00:00
 c875812b-5e9c-4d47-8ce1-68a825a2385d,testing.me,resell,86,80,7,"GoDaddy.com, LLC",20/09/2010 15:39,20/09/2025 15:39
-494fca7a-afa1-4615-b9b0-de1d482ad869,testing.online,available,86,80,7,,,
-3acd7a60-0b80-4068-81ab-608b73dbcbc8,testing.site,available,86,80,7,,,
+494fca7a-afa1-4615-b9b0-de1d482ad869,testing.online,premium,86,80,7,,,
+3acd7a60-0b80-4068-81ab-608b73dbcbc8,testing.site,premium,86,80,7,,,
 dd51d7a8-9923-420a-b872-c1af51707f4e,testing.space,available,86,80,7,,,
-98984fee-d068-4e38-a652-51f5788ccee8,testing.tech,available,86,80,7,,,
+98984fee-d068-4e38-a652-51f5788ccee8,testing.tech,premium,86,80,7,,,
 300764df-2b22-4323-a381-da2293f1fce2,testing.us,resell,86,80,7,"Network Solutions, LLC",07/07/2007 18:09,06/07/2026 23:59
 ef3873be-1893-45d6-8971-7fb940b4070f,carbon.dev,expired,54,100,6,Namecheap Inc.,25/05/2024 01:59,25/05/2025 01:59
 41bd9f8e-1713-4f1c-b954-15ecb6855fb2,carbon.site,available,54,100,6,,,
 6a285c1c-c0d0-4275-82be-41c5b2808603,carbon.space,available,54,100,6,,,
 59844690-7ff1-409e-a997-bac88d454825,carbon.store,resell,54,100,6,"Go Daddy, LLC",28/03/2021 17:33,28/03/2026 23:59
 a2902d70-5978-48df-949d-9b829220b42a,carbon.tech,available,54,100,6,,,
-235578e3-913d-4966-8c07-9cd42fc90b39,control.app,expiring,96,80,7,"Sav.com, LLC",29/07/2022 19:02,29/07/2025 19:02
-2e89e705-9201-492b-bac4-68716b769914,control.at,available,96,80,7,,,
-b7b79ae6-3763-4e52-9235-89fe0ee040ea,control.cloud,available,96,80,7,,,
-129b54d7-6956-463b-a3a5-e7d0b18965b6,control.io,expiring,96,80,7,EuroDNS S.A.,18/07/2011 21:56,18/07/2025 21:56
-ff63e0bd-cc61-445a-907c-8e58b0907471,control.me,available,96,80,7,,,
-9e0d95f2-db6b-452c-9a06-01f2114bcf6a,control.net,resell,96,80,7,"GoDaddy.com, LLC",07/07/2004 18:20,07/07/2026 18:20
-2942f14a-ece0-4505-8fd6-3ffa042acd83,control.so,resell,96,80,7,NameCheap,27/04/2021 12:48,27/04/2026 12:48
-f53888e9-b8b1-4796-9b55-dfcc0b6869c3,control.space,available,96,80,7,,,
-85ffc35f-a35b-4e25-9373-8c1bb204140e,control.store,available,96,80,7,,,
-ffd99423-f285-4968-ab29-8fd9cfe5ca7c,control.us,expired,96,80,7,UdomainName.com LLC,27/06/2016 18:01,26/06/2025 23:59
-5425f847-5839-4e04-8674-f6cfdb207f68,control.xyz,sold,96,80,7,Dynadot LLC,17/08/2020 00:55,17/08/2030 23:59
-a8879e9f-4cfa-4210-8467-52bfd73e1eee,monitoring.cloud,available,72,88,10,,,
-639df76a-cd8a-4e5e-ac81-bbf1a434732e,monitoring.co,resell,72,88,10,Dynadot Inc,25/03/2021 17:02,25/03/2026 17:02
-e7fbb50b-0d79-4a9b-8633-aedab862f0af,monitoring.me,expiring,72,88,10,EuroDNS S.A.,18/07/2008 17:58,18/07/2025 17:58
-3406cc9d-fa84-4e6a-bff2-2238b402d642,monitoring.pro,resell,72,88,10,"GoDaddy.com, LLC",19/11/2008 00:00,19/11/2025 00:00
-b6aa459c-1886-4194-950e-6c20f2fd2b2c,monitoring.site,available,72,88,10,,,
-c92be1be-bed5-46eb-a64e-0968a5ce5dd7,monitoring.so,available,72,88,10,,,
-faab738d-fe13-4778-91fc-e3867b60086a,monitoring.space,available,72,88,10,,,
-7f9f740f-0415-47e5-8c76-582f3129d1db,monitoring.store,available,72,88,10,,,
-7235e284-0888-4532-b9e7-65bebec3c41d,monitoring.tech,available,72,88,10,,,
-d267ae30-8b57-4e62-ad32-4888f2a6c2af,compliance.expert,available,62,96,10,,,
-ac2e9c2b-aeaf-4dc4-994e-53d33592f94d,compliance.it,resell,62,96,10,,06/05/2012 09:04,24/05/2026 00:00
-caae6992-e4d6-411a-8bb7-867f8e1395a2,compliance.site,available,62,96,10,,,
-8d7370ca-e34a-4fad-b895-9c2463c7d59b,compliance.space,available,62,96,10,,,
-31477f18-8435-49f8-ab10-51628498a944,compliance.xyz,sold,62,96,10,Dynadot LLC,30/10/2017 02:00,30/10/2030 23:59
-69f5c39a-d914-45d7-96d3-54e0fe67980f,building.at,available,74,92,8,,,
-dc6fb056-8343-4293-b28e-4a4a3a00f210,building.dev,available,74,92,8,,,
-47cc19d1-a944-410f-bec3-befc6b4124dd,building.me,expiring,74,92,8,"Spaceship, Inc.",28/07/2008 16:43,28/07/2025 16:43
-a9138dd1-5202-4fe0-b7df-107a380dcf0b,building.space,available,74,92,8,,,
-5378c834-6df5-4bcf-a13c-75fd2a33190e,building.store,available,74,92,8,,,
-e5a3c85f-5652-49bc-ac53-76772abc68f1,reduction.app,available,62,76,9,,,
-aa2ea57f-8efc-4f59-9d96-042f6ba5c5bb,reduction.at,available,62,76,9,,,
-a47d227f-7ece-43cc-b944-2dbf973be34b,reduction.expert,available,62,76,9,,,
-4adf74e4-2604-4741-b8a3-8cfc8f775c0a,reduction.gg,available,62,76,9,,,
-ee314e58-7f3d-4c47-b142-d83a4b32e374,reduction.it,resell,62,76,9,,16/03/2010 11:00,06/04/2026 00:00
-6b6e671b-5c23-4d5c-8a0f-8cd3a790a70e,reduction.me,expiring,62,76,9,Hosting Concepts B.V. d/b/a Registrar.eu,14/07/2024 05:08,14/07/2025 05:08
-f48f0564-7b4b-4ccb-a8f2-8b48f15c9cd0,reduction.net,resell,62,76,9,"Sav.com, LLC",11/12/2020 19:31,11/12/2025 19:31
-61f7a4b1-cf25-49d4-b46f-2bc5a6294268,reduction.ninja,available,62,76,9,,,
-4a80a54e-4c8c-414c-9358-054bcb20940d,reduction.site,resell,62,76,9,Namecheap,03/07/2024 11:30,03/07/2026 23:59
-841fe30b-3245-4061-ada3-0735da17806b,reduction.so,available,62,76,9,,,
-1db428e7-bcd7-46ad-a4b6-73e4cfcc06aa,reduction.space,available,62,76,9,,,
-e104f84e-1643-48ab-9006-029e58eae484,reduction.us,resell,62,76,9,Sav.com LLC,16/08/2024 21:14,16/08/2025 21:14
-61580f09-e436-42cf-af7f-ab6cdc8bac24,reduction.zone,available,62,76,9,,,
-40c3251c-5c87-41f9-8ead-4ffe9e57217d,planning.at,available,70,80,8,,,
-1b409849-a0c6-4809-a908-964bcc8a8611,planning.co,available,70,80,8,,,
-617a5d8d-22e6-4bf4-9574-97271beaf35b,planning.dev,available,70,80,8,,,
-60075a2a-0ed7-44db-8bb1-80d55db72908,planning.expert,expired,70,80,8,"Go Canada Domains, LLC",11/05/2014 16:00,11/05/2025 16:00
-cc26bf98-9400-4a27-acca-a0e71c33e666,planning.it,expiring,70,80,8,,05/03/1996 00:00,28/07/2025 00:00
-2085a21e-b97c-4d6a-baf4-217f9af989e7,planning.me,expiring,70,80,8,OVH SAS,17/07/2008 15:00,17/07/2025 15:00
-5bf8c83a-e137-447f-a6c0-c9e28c54855f,planning.ninja,available,70,80,8,,,
-3006c72d-99b1-4eef-b3fb-3b3d2224504f,planning.pro,resell,70,80,8,"GoDaddy.com, LLC",13/12/2007 00:00,13/12/2025 00:00
-23efa104-80fd-470c-a06c-e04a84ae0d00,planning.site,available,70,80,8,,,
-aebf540a-b1e7-459d-a975-0435933f0542,planning.so,expired,70,80,8,Dotname Korea Corp.,01/06/2011 00:00,01/06/2019 00:00
-87a0e4d7-0b8a-4b20-8f61-03bad745df41,planning.space,resell,70,80,8,"Go Daddy, LLC",14/03/2024 22:59,14/03/2026 23:59
-37f9a367-4288-4bb4-87cb-755f25a9526c,planning.store,available,70,80,8,,,
-07c1bae1-8802-4b59-9830-e9932da773bf,planning.tech,available,70,80,8,,,
-06645f06-407a-468e-9e3f-a5b7c79ccfa2,procurement.app,expired,,88,11,united-domains AG,04/05/2018 16:00,04/05/2025 16:00
-9067d049-2c82-4372-9ced-27c3f8a3ab9e,procurement.at,sold,,88,11,A1 Telekom Austria AG ( https://nic.at/registrar/16 ),,
-21262110-1f2e-48fd-9928-5914bd9f6b85,procurement.gg,available,,88,11,,,
-dbf33547-180a-4000-8772-8d80e294fa2c,procurement.pro,resell,,88,11,"GKG.NET, INC.",12/01/2016 01:05,12/01/2026 01:05
-78c706a3-bd39-4723-862c-7206fee1ad11,procurement.site,available,,88,11,,,
-13aa6bbc-385f-4cd8-832b-769c8fdc6bab,procurement.so,expired,,88,11,Asal Solutions_LR,06/06/2024 09:03,06/06/2025 09:03
-e5befdcb-4d4d-4cb1-b06f-afd035bf5c77,procurement.store,expired,,88,11,Communigal Communications Ltd,16/05/2024 00:11,16/05/2025 23:59
-2b84e24e-cd09-42da-a893-2ae9019753e3,soil.ac,available,92,21,4,,,
-92d4832d-0727-4eb6-b455-a30c247e3c40,soil.accountant,available,92,21,4,,,
-937fcd3f-8045-47a7-a312-1927a45a1682,soil.accountants,available,92,21,4,,,
-9d268ef3-fe4d-481c-bd61-3fdd735c6824,soil.actor,available,92,21,4,,,
-9471213c-882e-479b-b4f0-9867f8d3215e,soil.adult,available,92,21,4,,,
-07102150-a8f5-4000-93cb-cf0aaf88f45a,soil.ag,available,92,21,4,,,
-dd2abf67-0fc4-417e-8bb6-4617a88aaded,soil.agency,resell,92,21,4,"Sav.com, LLC - 6",11/03/2025 15:15,11/03/2026 15:15
-f1d94729-a3a9-4d9b-bad3-1ead517e7ef5,soil.airforce,available,92,21,4,,,
-7c6ef961-963c-4789-ba47-7db3ea5240ed,soil.apartments,available,92,21,4,,,
-ef522f54-f5a9-4eb2-8419-846b00835f71,soil.archi,available,92,21,4,,,
-966ade3e-ea7f-4dca-9339-412f4911d0b6,soil.army,available,92,21,4,,,
-0505e39d-7b29-4159-a4d0-5456fd0f3a43,soil.art,available,92,21,4,,,
-3d47f02e-8497-4097-90cf-d2017f46af38,soil.associates,available,92,21,4,,,
-0869904e-22ee-4deb-aaa9-c629b0d703b1,soil.at,sold,92,21,4,DomainQuadrat Marketing GmbH ( https://nic.at/registrar/581 ),,
-c6cc49e6-dd01-461b-9fe3-543f333af18b,soil.attorney,available,92,21,4,,,
-3121dc3b-3303-4578-91b1-ab1f7d3ab348,soil.auction,available,92,21,4,,,
-a7b1e354-8015-46fe-86e3-4439f8cf9577,soil.audio,available,92,21,4,,,
-ee94a68d-a07c-4e6c-9061-cb08cdae9bf4,soil.auto,available,92,21,4,,,
-14c1a723-a53d-40c5-a40b-499a6b50dbfb,soil.autos,available,92,21,4,,,
-9a65d120-5fbe-4ce2-bd6b-a61f6f032e96,soil.band,available,92,21,4,,,
-e5fbbbe4-c646-4d45-945f-f10b68db2f60,soil.bar,resell,92,21,4,"Spaceship, Inc.",06/06/2025 16:54,06/06/2026 16:54
-375012f0-798e-4b2c-b7c1-3504c42a6eaf,soil.bargains,available,92,21,4,,,
-b4ac29fd-7546-4740-b42f-0c0569e7e587,soil.bayern,available,92,21,4,,,
-496156cc-4297-45b6-b005-08663f7421e7,soil.beauty,available,92,21,4,,,
-d786a36c-d638-4e0e-9f92-8080667d4cd0,soil.beer,available,92,21,4,,,
-cbf529c5-c72a-4072-b776-9d0b52b98812,soil.berlin,available,92,21,4,,,
-46175238-a44b-407b-9606-4c9d3fb232b9,soil.best,available,92,21,4,,,
-e85b4df8-fbf7-4534-9b17-be39d6152aad,soil.bet,available,92,21,4,,,
-d3ab192a-cd0d-4a6b-b19b-3ed5e1b35a34,soil.bid,available,92,21,4,,,
-c1a61d03-9373-4c0a-89dc-f209922f7fa1,soil.bike,available,92,21,4,,,
-fc79cffe-e55a-4381-ab9a-e652cbdfefd7,soil.bingo,available,92,21,4,,,
-4abfd82f-018f-4c5a-a989-bffcc4ce2678,soil.black,available,92,21,4,,,
-bd6e9755-a2e7-4335-98ae-a64918c09bec,soil.blackfriday,available,92,21,4,,,
-5b17d635-8c75-4526-a963-6e8b14e11ed4,soil.blog,available,92,21,4,,,
-ac064687-2365-4187-a9dc-3b604875e1d3,soil.blue,available,92,21,4,,,
-2ea9caf9-e483-4592-a49f-603cc2765afc,soil.boats,available,92,21,4,,,
-0d3e394c-0cd3-4595-8cfd-9ef0c245ba43,soil.boo,available,92,21,4,,,
-b9c033cc-1cd0-4860-9004-cbab1aa6d085,soil.boston,available,92,21,4,,,
-0f271cc0-20a9-4e8d-b0ce-75a17d4c2c2f,soil.boutique,available,92,21,4,,,
-710db912-f7d6-4b7c-b5b0-74a4df2c3d0a,soil.business,resell,92,21,4,GoDaddy Online Services Cayman Islands Ltd.,16/04/2015 19:51,16/04/2026 19:51
-66c964db-2e0d-4fcb-8d4d-9306c258b279,soil.buzz,available,92,21,4,,,
-51cf673b-c5be-4503-8805-a37a2f265a7d,soil.bz,available,92,21,4,,,
-34b76721-e6e5-4694-af2a-de605fbae926,soil.cab,available,92,21,4,,,
-ce88f36f-ce21-4c96-9506-0f6afb3b571a,soil.cafe,available,92,21,4,,,
-413c95eb-32eb-45fd-847e-0bc30f43470f,soil.cam,resell,92,21,4,Dreamscape Networks International Pte Ltd,05/07/2024 07:50,05/07/2026 23:59
-06da4076-48b8-4c9c-ae7f-3d7adc56db41,soil.camera,available,92,21,4,,,
-4d935b81-0e87-48f7-ab61-4b0f23f72845,soil.camp,available,92,21,4,,,
-d8c415e5-174a-4293-952d-9c8aed9a6472,soil.capital,available,92,21,4,,,
-d49d29f4-c6e3-41bc-a44d-4e7abad42b02,soil.car,available,92,21,4,,,
-352bf602-9301-48fe-959f-9a983d8f9a35,soil.cards,available,92,21,4,,,
-8bc7d27c-c691-48fb-82b1-fe6e712b7a12,soil.careers,available,92,21,4,,,
-99555ec5-a858-4743-a296-b2fbf84c6cf7,soil.cars,available,92,21,4,,,
-93172342-c8c9-43c0-8224-6717adf1c2a3,soil.casa,available,92,21,4,,,
-150db957-63cb-49b1-b0e5-97aceaa06caf,soil.casino,available,92,21,4,,,
-aeb82b40-70ab-48a5-a1c8-bcbb0750423b,soil.catering,available,92,21,4,,,
-f7a8f175-bc09-4cdc-9107-100a662a6ef2,soil.cc,resell,92,21,4,"Spaceship, Inc.",30/08/2014 08:17,30/08/2026 08:17
-cce25fb7-eb00-46c3-9c68-920a4c8a9b71,soil.center,available,92,21,4,,,
-cb440f1c-c7bb-4775-8cfc-3ed2f4bef3f2,soil.ceo,available,92,21,4,,,
-2d0a03a0-2a96-445e-935f-19e338c28d23,soil.cfd,available,92,21,4,,,
-856fb250-215e-4428-a585-afb0d0f84285,soil.charity,available,92,21,4,,,
-043354c9-6c3b-43eb-9597-808a9cc15c1f,soil.chat,expired,92,21,4,"Sav.com, LLC",11/07/2024 17:24,11/07/2025 17:24
-f3903a1f-578e-4d26-b799-0edfd48b1db0,soil.christmas,available,92,21,4,,,
-ab4952a5-5b02-4f62-ac2a-ea4baba27308,soil.church,available,92,21,4,,,
-9b874091-9acc-471c-8888-226118971975,soil.city,available,92,21,4,,,
-89f7eecf-50c2-45db-9519-b234c643acab,soil.claims,available,92,21,4,,,
-e1bc1103-ebde-4d3d-9ed8-8661dc822e93,soil.cleaning,available,92,21,4,,,
-53c69d62-2c2e-40f6-94ad-0f0eed9880d9,soil.click,available,92,21,4,,,
-7408cbd8-69cd-438f-bb4b-893434debdc7,soil.clinic,available,92,21,4,,,
-74e6617e-3b88-4848-bab0-580367227330,soil.clothing,available,92,21,4,,,
-8c38654f-6823-41ca-95e6-4ab2d8bcba1e,soil.cloud,available,92,21,4,,,
-60c26759-39a6-4c28-a8cb-5b8dcde9fa94,soil.codes,available,92,21,4,,,
-36728d4c-a46c-400f-802f-97ba7f79cdc3,soil.coffee,available,92,21,4,,,
-6600fa8d-a741-40c4-9044-20d77ec5c923,soil.college,available,92,21,4,,,
-bd49c8b1-e896-446c-9e1e-98e06c2f1ca6,soil.company,resell,92,21,4,GoDaddy Online Services Cayman Islands Ltd.,16/04/2015 19:31,16/04/2026 19:31
-ad103775-bf26-4807-a801-1da40f3fc8b6,soil.computer,available,92,21,4,,,
-49836fe3-a9fd-4c64-8554-2b08d98a26c5,soil.condos,available,92,21,4,,,
-5c4d582a-8b39-40ce-a983-b0559783e530,soil.construction,available,92,21,4,,,
-9bc7ded1-12c8-4fe5-bd7c-e68a96624b81,soil.contact,available,92,21,4,,,
-862ad27a-919f-4313-a4b3-f32abc1d3a3a,soil.contractors,resell,92,21,4,GoDaddy Online Services Cayman Islands Ltd.,16/04/2015 19:13,16/04/2026 19:13
-e107feed-ce64-4b15-a545-77105af0e384,soil.cooking,available,92,21,4,,,
-f16d2954-48b7-4714-bca4-424c164a6b1c,soil.cool,available,92,21,4,,,
-20fa0c1b-dde1-42b1-902a-92e8e4d03bdf,soil.country,available,92,21,4,,,
-9244c288-d323-4775-9949-7700b281ec19,soil.coupons,available,92,21,4,,,
+a5afedf5-8fd3-45e8-93d9-48e6ebc5a37d,control.accountant,available,96,26,7,,,
+17db60dd-54d5-424d-bdf5-454a1d6a928c,control.accountants,available,96,26,7,,,
+f2cf6e3e-c256-49d8-9a7b-f5982053eb28,control.actor,available,96,26,7,,,
+46fca210-9925-414e-a282-c3728be6acd3,control.adult,available,96,26,7,,,
+4b641b8d-a516-4783-9662-a8f85e47b3c7,control.agency,resell,96,26,7,"Sav.com, LLC - 26",28/08/2023 15:15,28/08/2026 15:15
+082a1f3f-4194-4292-8a97-e29e40eb2584,control.airforce,available,96,26,7,,,
+19fd9cd7-48fe-4e02-a667-f00bb3c9e63b,control.apartments,available,96,26,7,,,
+235578e3-913d-4966-8c07-9cd42fc90b39,control.app,resell,96,26,7,"Sav.com, LLC",29/07/2022 19:02,29/07/2026 19:02
+36d567cb-6733-48e6-b147-b657e6d64a3a,control.archi,available,96,26,7,,,
+7d42eb95-399c-46db-a29d-841c9c9645d6,control.army,available,96,26,7,,,
+e0ca863f-d5cf-417d-9023-9c2cdab02ef3,control.art,available,96,26,7,,,
+4cc7befd-8546-4517-aa01-e76ad1f632ce,control.associates,available,96,26,7,,,
+2e89e705-9201-492b-bac4-68716b769914,control.at,available,96,26,7,,,
+f8e93653-fa63-480f-96dc-3e8b1e0f7135,control.attorney,available,96,26,7,,,
+808166f3-0cf8-44e8-8c9b-d368e2921c7e,control.auction,available,96,26,7,,,
+c9028485-3ce2-4144-aa49-34ca8c0ef917,control.audio,available,96,26,7,,,
+0cd2a250-e625-46a6-adbd-e91929cc0243,control.auto,available,96,26,7,,,
+4d0c40bf-0eb7-40fe-baa8-77e8d1850f00,control.autos,available,96,26,7,,,
+66322fb8-dace-4e1e-8240-aaf1b9e8d5a8,control.band,available,96,26,7,,,
+043d56bc-99f5-4e1b-a8fd-e1d7070b4b72,control.bar,available,96,26,7,,,
+460fb907-73eb-43d4-92be-3e80757ab614,control.bargains,available,96,26,7,,,
+cf6ebfce-a7c2-4aa1-a437-262c19b1b1d6,control.bayern,available,96,26,7,,,
+fcc58fb4-a252-4616-b953-f5542a255160,control.beauty,available,96,26,7,,,
+14b31d81-a7b5-4fc6-9bb6-810ab94787b7,control.berlin,available,96,26,7,,,
+3be63eb6-01e7-4ac0-addb-e0bd93e6434f,control.best,resell,96,26,7,"Sav.com, LLC",09/01/2022 06:49,09/01/2026 23:59
+d8eec784-1399-46a8-98c4-539294429aa4,control.bike,available,96,26,7,,,
+bd41b48b-f302-474e-8f45-bb3ce1bb07b8,control.bingo,available,96,26,7,,,
+1624da10-d337-4562-b379-1933f0530602,control.biz,resell,96,26,7,Sav.com LLC,12/06/2023 19:14,12/06/2026 19:14
+fd99b730-170e-4858-94a1-1bff1091fd39,control.black,available,96,26,7,,,
+38a87519-6a37-4188-bd5a-6d4fd98a7190,control.blackfriday,available,96,26,7,,,
+3396200a-e0ed-4288-9aa3-8c2331496665,control.blog,available,96,26,7,,,
+67d98b18-bd56-492d-b1f6-441bf1a296fe,control.boats,available,96,26,7,,,
+13d9b4cb-387b-4d94-b0c6-662b11324051,control.boo,available,96,26,7,,,
+42288aa4-1c3c-40d1-9308-b02adc2a711c,control.boston,available,96,26,7,,,
+a5c8bbeb-b27d-4dbc-812e-bbec73670afe,control.boutique,available,96,26,7,,,
+969431d9-f07d-46cb-a4c2-d9caeabc9f39,control.build,available,96,26,7,,,
+ca5a41bc-1520-492a-9f15-39631b00cc37,control.builders,available,96,26,7,,,
+70952515-68c1-4d8f-822a-431fda330826,control.cab,available,96,26,7,,,
+3a36d1fa-75ce-4935-865f-567ba8e3c97c,control.cafe,expiring,96,26,7,"NameSilo, LLC",07/09/2019 18:27,07/09/2025 18:27
+663a310d-d7c0-4068-98f5-c94d46724bc4,control.car,available,96,26,7,,,
+5822430e-d14b-4232-bf04-90753dda7591,control.cards,resell,96,26,7,"Sav.com, LLC",27/01/2025 14:44,27/01/2026 14:44
+2629bfb9-2c8d-4517-aefe-820df92a6b72,control.careers,available,96,26,7,,,
+d1b4c3a8-2bd2-4386-80a3-523dc5b3667f,control.cars,available,96,26,7,,,
+91c0e31d-d3de-404a-8e22-e15b829b020e,control.catering,available,96,26,7,,,
+b2bb04bc-ac73-43f9-b713-e8af2631d7c1,control.ceo,available,96,26,7,,,
+b8b16049-3f09-45ac-b74c-982ad0580e04,control.cfd,available,96,26,7,,,
+f3cd6e7d-26f2-4c11-87b9-3e252e9f8519,control.charity,available,96,26,7,,,
+f041c80e-dc48-484f-bdd2-b98fcae35aa6,control.chat,resell,96,26,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),23/10/2019 16:28,23/10/2025 16:28
+92ce682c-9532-461c-85fe-4ea4db293429,control.cheap,available,96,26,7,,,
+eb6f168e-48e8-45c3-b133-f2228db71d88,control.christmas,available,96,26,7,,,
+133a7abc-f0e2-4139-8c5b-337627733f47,control.church,available,96,26,7,,,
+70420186-fc66-4531-abd0-7e357390203a,control.claims,available,96,26,7,,,
+45ff392a-fec6-466d-96cd-6b1bcf9c28a4,control.cleaning,available,96,26,7,,,
+e93f62d6-5ed0-4cca-b4e3-ac531605ef1c,control.clinic,available,96,26,7,,,
+b7b79ae6-3763-4e52-9235-89fe0ee040ea,control.cloud,available,96,26,7,,,
+3ae9de83-bc71-4cc5-95f1-b149976d493e,control.coach,available,96,26,7,,,
+72e0b4d1-09bd-49e6-8844-f3e2fb2a6bbb,control.college,available,96,26,7,,,
+9622dbc7-4a90-49ea-9c1b-fc65a049bb23,control.com,expiring,96,26,7,"GoDaddy.com, LLC",27/09/1990 04:00,26/09/2025 04:00
+04f0127a-1057-4146-8981-b842f6542407,control.condos,available,96,26,7,,,
+bffd68b7-0a2c-4278-8a9d-446f224a205c,control.contact,available,96,26,7,,,
+49d86e44-8427-4411-b014-1641eb3c74c9,control.contractors,available,96,26,7,,,
+768ec1c9-e870-4c70-a27d-329f17993f31,control.cooking,available,96,26,7,,,
+cb2400c1-765e-4a8e-b90a-954d3905a2d7,control.cool,resell,96,26,7,"Sav.com, LLC - 18",06/02/2025 15:15,06/02/2026 15:15
+e1b66e0e-4354-4e7b-852f-1d4fe32c16f9,control.country,available,96,26,7,,,
+b4194d32-0ac8-4ac0-a4d6-2a7f1fc7ecb1,control.coupons,available,96,26,7,,,
+ea6a1a22-f3c9-4cdb-82f7-320032d4d234,control.courses,available,96,26,7,,,
+3a372779-1d9b-422d-97c6-1800e83970cb,control.creditcard,available,96,26,7,,,
+6caf9f50-6818-4b80-bef7-91d60a8fd1e1,control.cricket,available,96,26,7,,,
+1ac1c727-7208-43a2-966d-39b7be2a5e31,control.cruises,available,96,26,7,,,
+6978583f-7877-45e5-84fe-2f08b64f825b,control.cv,expiring,96,26,7,Namesilo,02/10/2024 00:00,02/10/2025 03:27
+bf553937-e90d-4843-a292-4daee9154e6d,control.cx,resell,96,26,7,CentralNic Ltd,20/12/2024 00:00,20/12/2025 21:25
+e8ee1b02-b26e-447d-963b-296c6797ae76,control.cyou,available,96,26,7,,,
+8551fac9-5d0c-4c33-89d0-2c667db5e612,control.dad,available,96,26,7,,,
+7a6b97ff-354f-4f33-bb7f-7043f3623ef9,control.dance,available,96,26,7,,,
+71e6e4e1-a942-4a7e-a87c-887d6d6e0de6,control.date,available,96,26,7,,,
+8c995fba-8923-4c46-a6d8-255947a94e2c,control.dating,available,96,26,7,,,
+be300b7a-7b1a-447d-9537-a1da43bf2c04,control.day,available,96,26,7,,,
+32fb1c24-b78b-457c-bdcf-4df80ee4f7e4,control.dealer,available,96,26,7,,,
+e3c8bda4-d7ba-4e19-9066-27ff7c2fa3b9,control.deals,available,96,26,7,,,
+1c5801db-31d9-4acb-859d-873a3fef2652,control.degree,available,96,26,7,,,
+f7bbf7ce-ea76-493b-a62b-90e405f10bff,control.delivery,available,96,26,7,,,
+3e6213e3-b574-43ff-b203-1b430ce41669,control.democrat,available,96,26,7,,,
+8e9eb27a-8bc1-4951-8e26-636ff95cbc05,control.dental,available,96,26,7,,,
+bc13ffec-1a7f-46f4-84fe-f76d14cf7d31,control.dentist,available,96,26,7,,,
+0ad3bdea-0e73-4641-a91d-514f00475a1b,control.diamonds,available,96,26,7,,,
+e7bc3c65-51ac-4a0a-af22-f944c52c8666,control.diet,available,96,26,7,,,
+548f73e5-1978-4435-8c49-9e834d69af50,control.digital,expiring,96,26,7,"GoDaddy.com, LLC",03/10/2017 16:19,03/10/2025 16:19
+47bcfbb3-68c4-459b-8184-8cc965e75755,control.direct,available,96,26,7,,,
+0e6f5b9d-15b5-48eb-b4b3-8582533a13e1,control.directory,available,96,26,7,,,
+05a7179c-c540-471e-924e-579038ecf2a4,control.discount,available,96,26,7,,,
+89a762d4-f740-400a-ad59-102063d6a667,control.diy,available,96,26,7,,,
+3cfbb4c6-9ee1-4fbe-b9ee-c80c8a9cc3cd,control.doctor,available,96,26,7,,,
+6ad85ebd-9fca-48cb-a692-49f0d9fa480e,control.dog,expiring,96,26,7,"NameSilo, LLC",07/09/2019 18:27,07/09/2025 18:27
+d697bf8a-809d-4cf6-bd24-8ddf548d0274,control.download,available,96,26,7,,,
+096c036f-a47c-46ec-988d-902ec1609fe3,control.email,expiring,96,26,7,Synergy Wholesale Accreditations Pty Ltd,04/10/2019 03:33,04/10/2025 03:33
+946eaa54-c3f6-425e-949b-7ad21fe3249e,control.energy,available,96,26,7,,,
+86bc5161-8de1-4c12-b854-63d363a8a717,control.enterprises,available,96,26,7,,,
+d93e5480-f955-4ff7-9c74-d014f19c08ec,control.equipment,resell,96,26,7,"Sav.com, LLC",28/01/2019 23:35,28/01/2026 23:35
+259c2336-ddce-4d92-af31-ffdcb480bb4c,control.esq,available,96,26,7,,,
+b584ec7d-6306-4288-815f-6a2588749140,control.exposed,available,96,26,7,,,
+7991b1d5-b68a-4b13-b236-fe93a7f6773c,control.fail,available,96,26,7,,,
+75deffe2-d615-44bb-a65b-fdd90f6ac5e0,control.faith,available,96,26,7,,,
+1504f496-984e-4ab4-ae79-fffc58557670,control.family,available,96,26,7,,,
+391f07aa-2ee7-4c63-95e0-0ac3feb43024,control.fan,available,96,26,7,,,
+b1a8a68f-90a9-48ec-b103-4487bb330d1e,control.fans,available,96,26,7,,,
+0a45726c-12de-4dc8-9a30-e79e3ab57a39,control.fashion,available,96,26,7,,,
+d04a2cd8-953b-4735-a8a9-0c7a034ef025,control.finance,resell,96,26,7,"Sav.com, LLC - 38",13/04/2024 15:15,13/04/2026 15:15
+84ef69d9-581c-4a24-aa79-0bb0a9502da5,control.financial,available,96,26,7,,,
+594cf5b2-b745-4cb5-a84e-c3bb09312365,control.fish,available,96,26,7,,,
+395a042a-356e-425c-bd4e-3a4ee039cedd,control.fishing,available,96,26,7,,,
+49d6b7b8-9929-480e-8740-9cf8d9ec6ece,control.fit,available,96,26,7,,,
+937cf081-f2b2-43e6-8653-1db99b198463,control.fitness,expired,96,26,7,"Sav.com, LLC - 39",12/07/2024 17:00,12/07/2025 17:00
+be609619-7dc6-40bb-bec0-06e238447362,control.flights,available,96,26,7,,,
+53097b0d-cdd4-4ca6-a1f4-5b00fd1f106a,control.florist,available,96,26,7,,,
+b69c0c30-3b6b-473f-ac7e-843d4f807e92,control.flowers,available,96,26,7,,,
+c354fb3a-2c53-48b1-abd0-7124d5160596,control.fm,available,96,26,7,,,
+53cadaa2-192c-4116-851d-2a1e0e55462c,control.foo,available,96,26,7,,,
+cd0c8583-cab1-4042-8799-43e15811491a,control.food,available,96,26,7,,,
+10891ac6-ee26-448c-b0ef-c18852b5de5e,control.football,available,96,26,7,,,
+1cf9c91c-40c6-4150-973a-1dbcbc371054,control.forsale,available,96,26,7,,,
+fa9808d7-d143-4cee-9cf4-a635884864db,control.forum,available,96,26,7,,,
+7fbb08ba-33dc-4fa1-aeaf-17b03d994d43,control.foundation,available,96,26,7,,,
+1b3c534a-194b-40c1-a713-483de48d8655,control.fun,available,96,26,7,,,
+2569b749-0eda-4667-b24f-375c8c1217eb,control.fund,resell,96,26,7,"DNSPod, Inc.",25/05/2023 15:15,25/05/2026 15:15
+484c286c-c31d-4818-b728-74bca09ba016,control.furniture,available,96,26,7,,,
+36f08d8d-771d-4a36-b54f-6a7e8908b10c,control.futbol,available,96,26,7,,,
+77439b3e-243a-4972-969b-2f105a010345,control.game,available,96,26,7,,,
+81991082-d9be-45fc-8555-dc00a769829e,control.games,expiring,96,26,7,"GoDaddy.com, LLC",21/09/2016 17:00,21/09/2025 17:00
+3a27a43e-2727-46ce-a8af-fa0094d33016,control.garden,available,96,26,7,,,
+d55f9930-41de-4c2e-b8e5-2e7050e8a062,control.gay,available,96,26,7,,,
+2c982c2c-174f-4d51-9705-1517f7819286,control.gift,available,96,26,7,,,
+25642841-5b59-4d1e-a8d7-82193dc4bb5b,control.gifts,available,96,26,7,,,
+e8b634ac-5632-4c46-9fd8-f8950d5580bf,control.gives,available,96,26,7,,,
+ffc1ccd0-0622-4ba3-802d-5c1b8144298c,control.giving,available,96,26,7,,,
+7e529aa6-68a7-4bc9-a4bf-462d80dcca0f,control.global,available,96,26,7,,,
+25b0d3ec-fc87-4e8c-9c5e-1fdcb4577921,control.gmbh,available,96,26,7,,,
+b36cc737-38c1-44ae-9c97-6bcfccbcbd06,control.gold,available,96,26,7,,,
+23675265-9511-4d5d-8047-639765d6c201,control.golf,available,96,26,7,,,
+8b866cd9-33b0-4c8d-8af1-8b61cc3d0c0d,control.graphics,available,96,26,7,,,
+71c3b59a-4112-41d6-ba09-d82c9c13944a,control.gratis,available,96,26,7,,,
+71809359-83d2-45ad-a51f-0bf25ef0eed3,control.green,available,96,26,7,,,
+f574ad8b-2133-43b7-b91e-04a444611226,control.gripe,available,96,26,7,,,
+d9c2cf1d-973f-430b-8371-e6a93d8b592d,control.group,resell,96,26,7,"Chengdu West Dimension Digital Technology Co., Ltd.",07/06/2016 18:44,07/06/2026 18:44
+f0b3c928-2021-4f38-b392-4f1f819d3e27,control.guide,available,96,26,7,,,
+943696e9-44e8-40c2-9de2-547374481c55,control.guitars,available,96,26,7,,,
+9d5b60d2-edea-4b57-9025-317e6d8b97f5,control.guru,resell,96,26,7,"Sav.com, LLC",05/08/2024 21:44,05/08/2026 21:44
