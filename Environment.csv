@@ -244,7 +244,7 @@ b0c0b446-010d-4d9f-8909-38684e1ce89c,waste.exposed,available,104,21,5,,,
 7aad7710-30ab-4e4b-8165-87fb0c2c7f67,waste.fans,premium,104,21,5,,,
 11c89c82-d4fa-4c78-9c04-d25f23c0a4b4,waste.farm,available,104,21,5,,,
 04161625-84f7-4e21-993d-91a413d74d7f,waste.fashion,premium,104,21,5,,,
-3c938d96-b53b-4dd3-b06b-22498940c17d,waste.fast,available,104,21,5,,,
+3c938d96-b53b-4dd3-b06b-22498940c17d,waste.fast,premium,104,21,5,,,
 83a2ad10-62f1-4ac3-a413-2051366a6667,waste.feedback,available,104,21,5,,,
 a8555e86-6e9a-4201-88fe-82d19717a0a1,waste.film,available,104,21,5,,,
 f6249256-e28a-4972-9c94-a05f07d0dd44,waste.finance,available,104,21,5,,,
@@ -263,7 +263,7 @@ e59fe391-c6c3-416f-a369-67f54f77c113,waste.flowers,available,104,21,5,,,
 736cfe8a-9195-4d81-afa6-ab7972055ec8,waste.forsale,available,104,21,5,,,
 3fda1063-642e-40df-9356-c87663b54614,waste.forum,premium,104,21,5,,,
 d3d2b999-7a94-48f5-9da3-821e7e59da06,waste.foundation,available,104,21,5,,,
-eed238e8-92ae-4093-a003-9f4bab717044,waste.free,available,104,21,5,,,
+eed238e8-92ae-4093-a003-9f4bab717044,waste.free,premium,104,21,5,,,
 4f5ba0ee-9398-4922-a090-2525e1931a28,waste.fun,premium,104,21,5,,,
 3e267e9c-0923-4334-a83c-37574241c62f,waste.fund,available,104,21,5,,,
 a26ce470-3de0-4983-b7a0-0b5d4a090b6e,waste.furniture,available,104,21,5,,,
@@ -458,7 +458,7 @@ d47a41f8-57ec-4ef0-aa7c-b74e1c8031ed,waste.surf,available,104,21,5,,,
 69484482-f984-4922-95ea-d753433f8f95,waste.surgery,available,104,21,5,,,
 3d713034-57dd-4fde-9686-9e3b6242b7d8,waste.sydney,available,104,21,5,,,
 fe81fc39-a0f8-491e-87a5-d7e455e94708,waste.systems,sold,104,21,5,"Sav.com, LLC",09/01/2021 03:09,09/01/2026 03:09
-8b16efaf-4a96-4209-bcb4-681faf7c3847,waste.talk,available,104,21,5,,,
+8b16efaf-4a96-4209-bcb4-681faf7c3847,waste.talk,premium,104,21,5,,,
 228c103e-305d-4fe9-afb8-4bda1a5cea89,waste.tattoo,available,104,21,5,,,
 6d7edd82-53a6-48e3-9fe1-e1d59047d9d8,waste.tax,available,104,21,5,,,
 1f3b62b7-fc95-4bf6-81ff-d62cdd4a4dc2,waste.taxi,available,104,21,5,,,
@@ -501,7 +501,7 @@ f6774e85-3e32-4e1e-84d1-0fdfeced5289,waste.wine,available,104,21,5,,,
 04db76ba-0d05-40cf-960a-4973f801b2fc,waste.xyz,resell,104,21,5,EuroDNS S.A.,16/06/2014 11:53,16/06/2028 23:59
 59ec16b1-7ce3-479f-8f20-7d54e8a87cda,waste.yachts,available,104,21,5,,,
 5585fbd0-4e6f-4987-9997-335714e5dbed,waste.yoga,available,104,21,5,,,
-0444ea73-e170-459c-97b6-3d61635f9595,waste.you,available,104,21,5,,,
+0444ea73-e170-459c-97b6-3d61635f9595,waste.you,premium,104,21,5,,,
 e4f33f7d-feab-4268-88bf-24e27a3f6eca,waste.zip,premium,104,21,5,,,
 87688b66-d9ba-486e-8f14-351555db2652,efficiency.at,sold,68,72,10,World4You Internet Services GmbH ( https://nic.at/registrar/61 ),,
 75e48c98-783b-47ce-8089-1455b849b98e,efficiency.cloud,premium,68,72,10,,,
@@ -592,7 +592,7 @@ c01c05eb-2cba-46c5-8072-43c38708a2e8,green.best,premium,108,33,5,,,
 a58c93a8-b8c1-44a9-a6ae-1f0a8fba6135,green.blog,premium,108,33,5,,,
 30d81d56-05bf-478a-8ecb-e81748ce1ff8,green.boo,premium,108,33,5,,,
 011bb5e3-036d-46a4-a5c3-0b9a50254b7a,green.boston,expiring,108,33,5,"GoDaddy.com, LLC",15/12/2017 16:32,15/12/2025 16:32
-3e91096b-867f-499f-9ea3-122e665426ed,green.bot,available,108,33,5,,,
+3e91096b-867f-499f-9ea3-122e665426ed,green.bot,premium,108,33,5,,,
 799727c8-fb41-46a2-8f37-823cdac9f623,green.boutique,sold,108,33,5,Dynadot Inc,23/10/2020 14:19,23/10/2026 14:19
 bb88547a-3ccc-4103-babc-47842074381d,green.build,sold,108,33,5,Ledl.net GmbH & Co KG,27/09/2024 07:57,27/09/2026 23:59
 9d0f1cbd-909a-4504-ae1d-51bc6850a745,green.builders,resell,108,33,5,"Spaceship, Inc.",23/03/2014 16:00,23/03/2026 16:00
@@ -633,7 +633,7 @@ fa04fe13-8cbe-41c2-b46e-f76968feeaa1,green.cricket,premium,108,33,5,,,
 4845e70f-c98f-41b0-adf5-e6a44a823e52,green.cyou,premium,108,33,5,,,
 ccaf5108-9a58-4dd5-9b98-22965771689a,green.dad,premium,108,33,5,,,
 f3ebb0c4-8090-4563-9314-4b73d83bd9e1,green.dance,premium,108,33,5,,,
-6807fdfa-1a23-47fe-aae5-ad9559de24b9,green.deal,available,108,33,5,,,
+6807fdfa-1a23-47fe-aae5-ad9559de24b9,green.deal,premium,108,33,5,,,
 d998dfb0-6fd1-4680-ab1e-d855167dfc06,green.dealer,premium,108,33,5,,,
 8250b6f1-8fd6-42ec-8601-be513fe4f7f3,green.degree,available,108,33,5,,,
 54e785b3-5643-4428-b7b5-3c1481b38f44,green.delivery,resell,108,33,5,Dynadot Inc,28/04/2022 13:15,28/04/2026 13:15
@@ -665,7 +665,7 @@ ab089131-11f1-4b21-ab76-657f09dd7eef,green.fail,premium,108,33,5,,,
 63ff03f5-ecca-41c3-b46f-735a6d0df40e,green.fan,premium,108,33,5,,,
 887d6ae7-4877-4bac-a683-d7d22b0885a5,green.fans,premium,108,33,5,,,
 09f6acd2-e1a4-4dc8-9805-01eec74092f8,green.fashion,resell,108,33,5,Sav.com LLC,23/04/2021 16:00,23/04/2026 16:00
-70b146a5-0353-4091-9893-f09ace887b9d,green.fast,available,108,33,5,,,
+70b146a5-0353-4091-9893-f09ace887b9d,green.fast,premium,108,33,5,,,
 d2927a32-68ae-431f-ad29-45e57833a933,green.finance,resell,108,33,5,Dynadot Inc,24/04/2020 08:57,24/04/2026 08:57
 a4cc72f1-94de-408b-8d19-8e02e84c03a1,green.financial,sold,108,33,5,"Sav.com, LLC - 36",01/02/2022 13:15,01/02/2026 13:15
 e290a854-0afe-412d-b675-bc79bd5c2d2e,green.fish,resell,108,33,5,"Global Domains International, Inc. DBA DomainCostClub.com",24/03/2025 15:15,24/03/2026 15:15
@@ -678,7 +678,7 @@ c0d40e29-314b-4044-a5ef-412fadfcf9f3,green.foo,premium,108,33,5,,,
 15176889-ce68-47a9-a303-9b95e0501510,green.football,sold,108,33,5,Dynadot Inc,20/05/2020 18:47,20/05/2026 18:47
 3c7da736-defe-4c6d-8254-6ba858f441fc,green.forsale,premium,108,33,5,,,
 5ad8d733-9988-4446-a8bd-d02e286c6eb7,green.forum,premium,108,33,5,,,
-65aef167-48c2-4eff-90af-7310acbc8c86,green.free,available,108,33,5,,,
+65aef167-48c2-4eff-90af-7310acbc8c86,green.free,premium,108,33,5,,,
 521818e1-7cdc-404a-ad89-96b7fd033d14,green.fund,resell,108,33,5,Epik LLC,08/06/2017 17:57,08/06/2026 17:57
 79367627-8e09-4291-8aac-e95cb926cdde,green.furniture,premium,108,33,5,,,
 c03acfad-819d-49f4-a4c0-ca6903cbeb94,green.futbol,available,108,33,5,,,
@@ -844,7 +844,7 @@ b86591fc-d3d2-455b-b15a-7730cad18c46,green.store,premium,108,33,5,,,
 2d6cfbcc-7453-497e-951c-72c1e2512e47,green.surgery,premium,108,33,5,,,
 0752bf85-a9f2-48cc-893a-66e6c228c6bd,green.sydney,premium,108,33,5,,,
 6a92ea87-17f2-494a-9523-7e707e19f2a3,green.systems,resell,108,33,5,Dynadot Inc,04/06/2018 08:06,04/06/2026 08:06
-2af595f5-77d0-4167-8d59-f9c5a451d4e2,green.talk,available,108,33,5,,,
+2af595f5-77d0-4167-8d59-f9c5a451d4e2,green.talk,premium,108,33,5,,,
 d176f97a-67c2-4042-b6bf-19ef42fc46cd,green.team,resell,108,33,5,"GoDaddy.com, LLC",29/07/2015 13:22,29/07/2027 13:22
 13c881e9-0011-4db7-85b9-55851ff60b75,green.tech,sold,108,33,5,NAME DOT STORE INC,02/04/2019 14:10,02/04/2029 23:59
 6f710d69-6059-467c-af18-cbe8c00e229a,green.tennis,available,108,33,5,,,
@@ -852,7 +852,7 @@ bdf06bf6-fe7e-4366-8e8e-dced69a0cc00,green.theater,available,108,33,5,,,
 dbd11743-25fc-41ee-ad17-eb4120b86bcf,green.theatre,available,108,33,5,,,
 052ae5ce-f163-4213-a5e0-bdcbbc2404ba,green.tickets,available,108,33,5,,,
 f8731cc5-c077-42b0-b29b-31dde72ffdc6,green.tienda,available,108,33,5,,,
-57bf4205-c1af-47a1-871b-84acfb64b820,green.today,available,108,33,5,,,
+57bf4205-c1af-47a1-871b-84acfb64b820,green.today,premium,108,33,5,,,
 4701eeb5-d50c-45b5-af84-607b4c199619,green.tools,resell,108,33,5,Porkbun LLC,27/05/2025 22:10,27/05/2026 22:10
 ac59a1c6-15f6-4a03-b54a-30b5af3dd318,green.tours,sold,108,33,5,Dynadot Inc,23/09/2020 08:15,23/09/2026 08:15
 db2a0179-99c8-47a5-8ead-2e553a356a89,green.town,sold,108,33,5,Dynadot Inc,24/10/2020 05:53,24/10/2026 05:53
@@ -883,14 +883,9 @@ dc5f27fe-8c41-4e5f-bffc-22adfd2719fe,green.works,resell,108,33,5,"GoDaddy.com, L
 34240398-14ef-44cc-8f86-64765fdc8dd5,green.xyz,sold,108,33,5,Namecheap,05/09/2025 05:06,05/09/2026 23:59
 59d7e86d-c8c9-4fe4-9f46-89dd7c6d27bf,green.yachts,premium,108,33,5,,,
 bc479b92-e366-44b3-9e7f-9f111c068ca5,green.yoga,resell,108,33,5,"GoDaddy.com, LLC",26/08/2020 18:52,26/08/2026 18:52
-5f93ad60-102c-4306-a008-62bd43dcf492,green.you,available,108,33,5,,,
+5f93ad60-102c-4306-a008-62bd43dcf492,green.you,premium,108,33,5,,,
 c3aa3b2b-62b8-482d-961d-0cf26da480b0,green.zip,premium,108,33,5,,,
 50e6070c-d7e0-4712-a0b6-2ff8ff076a6e,green.zone,sold,108,33,5,Dynadot Inc,16/09/2024 15:15,16/09/2026 15:15
-ef3873be-1893-45d6-8971-7fb940b4070f,carbon.dev,expired,54,100,6,Namecheap Inc.,25/05/2024 01:59,25/05/2025 01:59
-41bd9f8e-1713-4f1c-b954-15ecb6855fb2,carbon.site,premium,54,100,6,,,
-6a285c1c-c0d0-4275-82be-41c5b2808603,carbon.space,premium,54,100,6,,,
-59844690-7ff1-409e-a997-bac88d454825,carbon.store,resell,54,100,6,"Go Daddy, LLC",28/03/2021 17:33,28/03/2026 23:59
-a2902d70-5978-48df-949d-9b829220b42a,carbon.tech,premium,54,100,6,,,
 174f99b9-972a-4b97-97bd-175ae30414a4,testing.at,available,86,80,7,,,
 60291aab-d2fd-4d8a-9d68-47af73150142,testing.io,expiring,86,80,7,"GoDaddy.com, LLC",16/07/2020 17:10,16/07/2025 17:10
 15d4adf1-b099-47a7-a221-b33c5691797b,testing.it,resell,86,80,7,,09/08/2016 09:00,09/08/2025 00:00
@@ -900,6 +895,11 @@ c875812b-5e9c-4d47-8ce1-68a825a2385d,testing.me,resell,86,80,7,"GoDaddy.com, LLC
 dd51d7a8-9923-420a-b872-c1af51707f4e,testing.space,premium,86,80,7,,,
 98984fee-d068-4e38-a652-51f5788ccee8,testing.tech,premium,86,80,7,,,
 300764df-2b22-4323-a381-da2293f1fce2,testing.us,resell,86,80,7,"Network Solutions, LLC",07/07/2007 18:09,06/07/2026 23:59
+ef3873be-1893-45d6-8971-7fb940b4070f,carbon.dev,expired,54,100,6,Namecheap Inc.,25/05/2024 01:59,25/05/2025 01:59
+41bd9f8e-1713-4f1c-b954-15ecb6855fb2,carbon.site,premium,54,100,6,,,
+6a285c1c-c0d0-4275-82be-41c5b2808603,carbon.space,premium,54,100,6,,,
+59844690-7ff1-409e-a997-bac88d454825,carbon.store,resell,54,100,6,"Go Daddy, LLC",28/03/2021 17:33,28/03/2026 23:59
+a2902d70-5978-48df-949d-9b829220b42a,carbon.tech,premium,54,100,6,,,
 a5afedf5-8fd3-45e8-93d9-48e6ebc5a37d,control.accountant,premium,96,26,7,,,
 17db60dd-54d5-424d-bdf5-454a1d6a928c,control.accountants,available,96,26,7,,,
 f2cf6e3e-c256-49d8-9a7b-f5982053eb28,control.actor,available,96,26,7,,,
