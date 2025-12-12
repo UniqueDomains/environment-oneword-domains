@@ -27,7 +27,7 @@ If you want to search & filters the complete database of [Environment one word d
 | environmental.actor       | available | 84       | 13%    | 13     |                                             |                  |                  |
 | environmental.adult       | available | 84       | 13%    | 13     |                                             |                  |                  |
 | environmental.ag          | available | 84       | 13%    | 13     |                                             |                  |                  |
-| environmental.agency      | available | 84       | 13%    | 13     |                                             |                  |                  |
+| environmental.agency      | premium   | 84       | 13%    | 13     |                                             |                  |                  |
 | environmental.ai          | sold      | 84       | 13%    | 13     | NameCheap, Inc.                             | 01/08/2025 21:24 | 01/08/2027 21:24 |
 | environmental.airforce    | available | 84       | 13%    | 13     |                                             |                  |                  |
 | environmental.apartments  | available | 84       | 13%    | 13     |                                             |                  |                  |
@@ -39,7 +39,7 @@ If you want to search & filters the complete database of [Environment one word d
 | environmental.autos       | available | 84       | 13%    | 13     |                                             |                  |                  |
 | environmental.baby        | available | 84       | 13%    | 13     |                                             |                  |                  |
 | environmental.band        | available | 84       | 13%    | 13     |                                             |                  |                  |
-| environmental.bar         | available | 84       | 13%    | 13     |                                             |                  |                  |
+| environmental.bar         | premium   | 84       | 13%    | 13     |                                             |                  |                  |
 | environmental.bargains    | available | 84       | 13%    | 13     |                                             |                  |                  |
 | environmental.bayern      | available | 84       | 13%    | 13     |                                             |                  |                  |
 | environmental.beauty      | available | 84       | 13%    | 13     |                                             |                  |                  |
@@ -89,7 +89,7 @@ If you want to search & filters the complete database of [Environment one word d
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 29,681       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 59,909       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| Expiring | 61,144       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
 | All      | 4,569,375    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
