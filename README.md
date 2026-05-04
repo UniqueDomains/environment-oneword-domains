@@ -1,22 +1,22 @@
-# Environment One-Word Domains (25,010)
+# Environment Keyword Domains (22,588)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C010%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C588%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of environment one-word domains from Unique Domains.
+This selection includes 22,588 domain names connected to the keyword “environment” across 505 TLDs. Median ask is $1,161. Updated daily, this set is best compared on TLD quality, renewal exposure, and whether the term reads clearly as a brand or category name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,010 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,588 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,010 domains
+**Public extract:** 1,000 rows · **Live catalog:** 22,588 domains · **Median ask:** $1,161.03 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-04  
 **Canonical page:** `https://unique.domains/domains/sector/Environment`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| energy.archi      | available | $132.98    | —             | 82             | 43     | 6      | namecheap        |
-| energy.foundation | resell    | $260       | $260          | 82             | 46     | 6      | Porkbun LLC      |
-| energy.shop       | premium   | $3,125     | —             | 78             | 43     | 6      | name.com         |
-| energy.voyage     | available | $73.98     | —             | 82             | 42     | 6      | namecheap        |
-| energy.me         | resell    | $5,750     | $27.99        | 82             | 42     | 6      | GoDaddy.com, LLC |
-| energy.zip        | premium   | $648.70    | $648.70       | 82             | 42     | 6      | namecheap        |
-| energy.voting     | available | $1,448     | —             | 82             | 42     | 6      | namecheap        |
-| energy.luxe       | resell    | $37,060.64 | —             | 78             | 42     | 6      | Dynadot Inc      |
-| energy.you        | premium   | $650       | $650          | 82             | 42     | 6      | namecheap        |
-| energy.viajes     | available | $57.98     | —             | 82             | 42     | 6      | namecheap        |
-| environmental.io  | resell    | $45,994.25 | $73.99        | 84             | 16     | 13     | GoDaddy.com, LLC |
-| energy.yachts     | premium   | $845       | $15.73        | 82             | 42     | 6      | namecheap        |
-| energy.vana       | available | $2,498     | —             | 82             | 42     | 6      | namecheap        |
-| ecosystem.site    | resell    | —          | —             | 68             | 80     | 9      | Dynadot LLC      |
-| energy.win        | premium   | $455       | $65           | 82             | 42     | 6      | namecheap        |
-| energy.vacations  | available | $49.98     | —             | 82             | 42     | 6      | namecheap        |
-| ecosystem.pro     | resell    | —          | —             | 68             | 80     | 9      | Dynadot Inc      |
-| energy.wiki       | premium   | $845       | $845          | 82             | 42     | 6      | namecheap        |
-| energy.toys       | available | $82.48     | —             | 82             | 42     | 6      | namecheap        |
-| ecosystem.it      | resell    | —          | —             | 68             | 80     | 9      | —                |
+| domain               | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
+| -------------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| conservation.zone    | available | $51.98     | —             | 68             | 60     | 12     | namecheap         |
+| energy.foundation    | resell    | $260       | $260          | 82             | 46     | 6      | Porkbun LLC       |
+| conservation.site    | premium   | $312.50    | $1,250        | 68             | 60     | 12     | name.com          |
+| conservation.so      | available | $68.98     | —             | 68             | 60     | 12     | namecheap         |
+| environmental.team   | resell    | $46.48     | —             | 84             | 16     | 13     | NameCheap, Inc.   |
+| conservation.dev     | premium   | $111.25    | $111.25       | 68             | 60     | 12     | name.com          |
+| conservation.ninja   | available | $42.98     | —             | 68             | 60     | 12     | namecheap         |
+| environmental.org    | resell    | $109,250   | $21.99        | 84             | 16     | 13     | GoDaddy.com, LLC  |
+| sustainability.store | premium   | $781.25    | $3,125        | —              | 44     | 14     | name.com          |
+| conservation.gg      | available | $82.98     | —             | 68             | 60     | 12     | namecheap         |
+| environmental.io     | resell    | $45,994.25 | $73.99        | 84             | 16     | 13     | GoDaddy.com, LLC  |
+| sustainability.space | premium   | $1,625     | $6,500        | —              | 44     | 14     | namecheap         |
+| sustainability.so    | available | $68.98     | —             | —              | 44     | 14     | namecheap         |
+| environmental.me     | resell    | $343.85    | $27.99        | 84             | 13     | 13     | Sav.com, LLC - 25 |
+| sustainability.site  | premium   | $312.50    | $1,250        | —              | 44     | 14     | name.com          |
+| sustainability.ninja | available | $42.98     | —             | —              | 44     | 14     | namecheap         |
+| ecosystem.site       | resell    | —          | —             | 68             | 80     | 9      | Dynadot LLC       |
+| energy.health        | premium   | $9,750     | $71.50        | 82             | 42     | 6      | namecheap         |
+| sustainability.gg    | available | $82.98     | —             | —              | 44     | 14     | namecheap         |
+| ecosystem.pro        | resell    | —          | —             | 68             | 80     | 9      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 25,010 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 22,588 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is defined by one signal: the keyword “environment.” That creates a broad market spanning direct terms, adjacent concepts, and unusual extensions. Sample names such as air.realty, solarpower.academy, and community.ryukyu show the range: some read like clear sector terms, while others depend heavily on the extension to make sense. With 22,588 domains across 505 TLDs, the main job is not finding volume but filtering for clarity. When comparing these domains, weigh the keyword strength against extension trust, expected renewal burden, and whether the full name is easy to explain, remember, and defend as a distinctive brand.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Median ask is $1,161 across this environment-focused set
+- 505 TLDs means extension quality varies widely
+- Check whether keyword plus TLD reads cleanly together
+- Favor names with clear meaning and predictable renewal
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Environment One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Environment Keyword Domains*. Version 2026-05-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
