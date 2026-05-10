@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
-| -------------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| conservation.zone    | available | $51.98     | —             | 68             | 60     | 12     | namecheap         |
-| energy.foundation    | resell    | $260       | $260          | 82             | 46     | 6      | Porkbun LLC       |
-| conservation.site    | premium   | $312.50    | $1,250        | 68             | 60     | 12     | name.com          |
-| conservation.so      | available | $68.98     | —             | 68             | 60     | 12     | namecheap         |
-| environmental.team   | resell    | $46.48     | —             | 84             | 16     | 13     | NameCheap, Inc.   |
-| conservation.dev     | premium   | $111.25    | $111.25       | 68             | 60     | 12     | name.com          |
-| conservation.ninja   | available | $42.98     | —             | 68             | 60     | 12     | namecheap         |
-| environmental.org    | resell    | $109,250   | $21.99        | 84             | 16     | 13     | GoDaddy.com, LLC  |
-| sustainability.store | premium   | $781.25    | $3,125        | —              | 44     | 14     | name.com          |
-| conservation.gg      | available | $82.98     | —             | 68             | 60     | 12     | namecheap         |
-| environmental.io     | resell    | $45,994.25 | $73.99        | 84             | 16     | 13     | GoDaddy.com, LLC  |
-| sustainability.space | premium   | $1,625     | $6,500        | —              | 44     | 14     | namecheap         |
-| sustainability.so    | available | $68.98     | —             | —              | 44     | 14     | namecheap         |
-| environmental.me     | resell    | $343.85    | $27.99        | 84             | 13     | 13     | Sav.com, LLC - 25 |
-| sustainability.site  | premium   | $312.50    | $1,250        | —              | 44     | 14     | name.com          |
-| sustainability.ninja | available | $42.98     | —             | —              | 44     | 14     | namecheap         |
-| ecosystem.site       | resell    | —          | —             | 68             | 80     | 9      | Dynadot LLC       |
-| energy.homes         | premium   | $845       | $15.73        | 82             | 43     | 6      | namecheap         |
-| sustainability.gg    | available | $82.98     | —             | —              | 44     | 14     | namecheap         |
-| ecosystem.pro        | resell    | —          | —             | 68             | 80     | 9      | Dynadot Inc       |
+| domain               | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar           |
+| -------------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| conservation.zone    | available | $51.98     | —             | 68             | 60     | 12     | namecheap           |
+| energy.foundation    | resell    | $260       | $260          | 82             | 46     | 6      | Porkbun LLC         |
+| conservation.site    | premium   | $312.50    | $1,250        | 68             | 60     | 12     | name.com            |
+| conservation.so      | available | $68.98     | —             | 68             | 60     | 12     | namecheap           |
+| environmental.team   | resell    | $46.48     | —             | 84             | 16     | 13     | NameCheap, Inc.     |
+| conservation.dev     | premium   | $111.25    | $111.25       | 68             | 60     | 12     | name.com            |
+| conservation.ninja   | available | $42.98     | —             | 68             | 60     | 12     | namecheap           |
+| environmental.org    | resell    | $109,250   | $21.99        | 84             | 16     | 13     | GoDaddy.com, LLC    |
+| sustainability.store | premium   | $781.25    | $3,125        | —              | 44     | 14     | name.com            |
+| conservation.gg      | available | $82.98     | —             | 68             | 60     | 12     | namecheap           |
+| environmental.me     | resell    | $343.85    | $27.99        | 84             | 16     | 13     | UM DOMAINS PTE. LTD |
+| sustainability.space | premium   | $1,625     | $6,500        | —              | 44     | 14     | namecheap           |
+| sustainability.so    | available | $68.98     | —             | —              | 44     | 14     | namecheap           |
+| environmental.io     | resell    | $45,994.25 | $73.99        | 84             | 16     | 13     | GoDaddy.com, LLC    |
+| sustainability.site  | premium   | $312.50    | $1,250        | —              | 44     | 14     | name.com            |
+| sustainability.ninja | available | $42.98     | —             | —              | 44     | 14     | namecheap           |
+| ecosystem.site       | resell    | —          | —             | 68             | 80     | 9      | Dynadot LLC         |
+| energy.health        | premium   | $9,750     | $71.50        | 82             | 43     | 6      | namecheap           |
+| sustainability.gg    | available | $82.98     | —             | —              | 44     | 14     | namecheap           |
+| ecosystem.pro        | resell    | —          | —             | 68             | 80     | 9      | Dynadot Inc         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
