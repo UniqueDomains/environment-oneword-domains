@@ -1,10 +1,10 @@
-# One-Word Environment Domain Names (111,880)
+# One-Word Environment Domain Names (113,813)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-111%2C880%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-113%2C813%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This set includes 99,465 one-word domain names built around the environment theme, spread across 506 TLDs. Median ask is $807. Updated daily, it features concrete words like ground, acid, and biological paired with varied domain endings.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **111,880 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **113,813 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 111,880 domains · **Median ask:** $699.94 · **High-demand under $2,500:** 542
+**Public extract:** 1,000 rows · **Live catalog:** 113,813 domains · **Median ask:** $689.12 · **High-demand under $2,500:** 542
 
 **Last updated:** 2026-08-18
 **Canonical page:** `https://unique.domains/domains/sector/environment`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
-| --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| lush.eco        | available | $72.98     | $101.98       | medium         | medium | 4      | namecheap        |
-| home.solar      | resell    | —          | —             | high           | medium | 4      | Porkbun LLC      |
-| green.page      | premium   | $623.75    | $623.75       | medium         | medium | 5      | name.com         |
-| clean.organic   | available | $19.99     | —             | high           | low    | 5      | name.com         |
-| leaf.study      | resell    | —          | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| world.stream    | premium   | $35,520.79 | —             | high           | medium | 5      | NameSilo, LLC    |
-| clean.ryukyu    | available | $22.98     | —             | high           | low    | 5      | namecheap        |
-| life.foundation | resell    | —          | —             | high           | medium | 4      | Sav.com, LLC     |
-| nature.shop     | premium   | $625       | —             | high           | low    | 6      | name.com         |
-| fauna.asia      | available | $1.98      | $18.98        | low            | low    | 5      | namecheap        |
-| life.school     | resell    | —          | —             | high           | medium | 4      | Porkbun LLC      |
-| plants.eco      | premium   | $4,375     | —             | high           | low    | 6      | name.com         |
-| fauna.fast      | available | $29.49     | $29.49        | low            | low    | 5      | namesilo         |
-| life.tools      | resell    | —          | —             | high           | medium | 4      | Porkbun LLC      |
-| sphere.cam      | premium   | $1,875     | $29.99        | medium         | high   | 6      | name.com         |
-| fauna.free      | available | $38.98     | $44.98        | low            | low    | 5      | namecheap        |
-| soil.solutions  | resell    | —          | —             | medium         | low    | 4      | Porkbun LLC      |
-| sphere.cfd      | premium   | $384       | $768          | medium         | high   | 6      | namesilo         |
-| fauna.kiwi      | available | $31.98     | $35.68        | low            | low    | 5      | namecheap        |
-| tree.baby       | resell    | —          | —             | high           | low    | 4      | Spaceship, Inc.  |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| cells.green     | available | $11.99    | —             | medium         | low    | 5      | name.com                                            |
+| home.directory  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                         |
+| fauna.mobile    | premium   | $375      | $375          | low            | low    | 5      | name.com                                            |
+| clean.organic   | available | $19.99    | —             | high           | low    | 5      | name.com                                            |
+| life.foundation | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC                                        |
+| green.barcelona | premium   | $6,796.66 | $42.99        | medium         | medium | 5      | Nominalia                                           |
+| color.organic   | available | $19.99    | —             | high           | low    | 5      | name.com                                            |
+| soil.solutions  | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC                                         |
+| green.page      | premium   | $623.75   | $623.75       | medium         | medium | 5      | name.com                                            |
+| fauna.barcelona | available | $38.98    | $38.98        | low            | low    | 5      | namecheap                                           |
+| clean.care      | resell    | —         | —             | high           | low    | 5      | Porkbun LLC                                         |
+| waste.earth     | premium   | $71.40    | $71.40        | high           | low    | 5      | namesilo                                            |
+| fauna.forex     | available | $11.98    | $133.98       | low            | low    | 5      | namecheap                                           |
+| clean.city      | resell    | —         | —             | high           | low    | 5      | Porkbun LLC                                         |
+| change.shop     | premium   | $625      | —             | high           | medium | 6      | name.com                                            |
+| fauna.talk      | available | $38.99    | $38.99        | low            | low    | 5      | namesilo                                            |
+| color.green     | resell    | —         | —             | high           | low    | 5      | DNSPod, Inc.                                        |
+| fossil.club     | premium   | $960      | $17.70        | medium         | medium | 6      | namesilo                                            |
+| fauna.xxx       | available | $69.98    | $154.98       | low            | low    | 5      | namecheap                                           |
+| fauna.group     | resell    | —         | —             | low            | low    | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 111,880 live domains                       |
+| 1,000-row public sample | 113,813 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 542 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
