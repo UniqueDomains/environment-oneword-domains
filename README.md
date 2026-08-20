@@ -16,7 +16,7 @@ This set includes 99,465 one-word domain names built around the environment them
 
 **Public extract:** 1,000 rows · **Live catalog:** 113,813 domains · **Median ask:** $689.12 · **High-demand under $2,500:** 542
 
-**Last updated:** 2026-08-18
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/sector/environment`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| cells.green     | available | $11.99    | —             | medium         | low    | 5      | name.com                                            |
-| home.directory  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                         |
-| fauna.mobile    | premium   | $375      | $375          | low            | low    | 5      | name.com                                            |
-| clean.organic   | available | $19.99    | —             | high           | low    | 5      | name.com                                            |
-| life.foundation | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC                                        |
-| green.barcelona | premium   | $6,796.66 | $42.99        | medium         | medium | 5      | Nominalia                                           |
-| color.organic   | available | $19.99    | —             | high           | low    | 5      | name.com                                            |
-| soil.solutions  | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC                                         |
-| green.page      | premium   | $623.75   | $623.75       | medium         | medium | 5      | name.com                                            |
-| fauna.barcelona | available | $38.98    | $38.98        | low            | low    | 5      | namecheap                                           |
-| clean.care      | resell    | —         | —             | high           | low    | 5      | Porkbun LLC                                         |
-| waste.earth     | premium   | $71.40    | $71.40        | high           | low    | 5      | namesilo                                            |
-| fauna.forex     | available | $11.98    | $133.98       | low            | low    | 5      | namecheap                                           |
-| clean.city      | resell    | —         | —             | high           | low    | 5      | Porkbun LLC                                         |
-| change.shop     | premium   | $625      | —             | high           | medium | 6      | name.com                                            |
-| fauna.talk      | available | $38.99    | $38.99        | low            | low    | 5      | namesilo                                            |
-| color.green     | resell    | —         | —             | high           | low    | 5      | DNSPod, Inc.                                        |
-| fossil.club     | premium   | $960      | $17.70        | medium         | medium | 6      | namesilo                                            |
-| fauna.xxx       | available | $69.98    | $154.98       | low            | low    | 5      | namecheap                                           |
-| fauna.group     | resell    | —         | —             | low            | low    | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| clean.organic   | available | $19.99    | —             | high           | low    | 5      | name.com        |
+| home.directory  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC     |
+| green.page      | premium   | $623.75   | $623.75       | medium         | medium | 5      | name.com        |
+| color.organic   | available | $19.99    | —             | high           | low    | 5      | name.com        |
+| life.foundation | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC    |
+| waste.earth     | premium   | $71.40    | $71.40        | high           | low    | 5      | namesilo        |
+| fauna.barcelona | available | $38.98    | $38.98        | low            | low    | 5      | namecheap       |
+| life.school     | resell    | —         | —             | high           | medium | 4      | Porkbun LLC     |
+| change.shop     | premium   | $625      | —             | high           | medium | 6      | name.com        |
+| fauna.forex     | available | $11.98    | $133.98       | low            | low    | 5      | namecheap       |
+| soil.solutions  | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC     |
+| events.eco      | premium   | $4,375    | —             | medium         | low    | 6      | name.com        |
+| fauna.xxx       | available | $69.98    | $154.98       | low            | low    | 5      | namecheap       |
+| tree.baby       | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
+| fossil.club     | premium   | $960      | $17.70        | medium         | medium | 6      | namesilo        |
+| fauna.you       | available | $22.99    | $22.99        | low            | low    | 5      | namesilo        |
+| tree.services   | resell    | —         | —             | high           | low    | 4      | Porkbun LLC     |
+| fossil.game     | premium   | $1,625    | $1,625        | medium         | medium | 6      | name.com        |
+| grime.earth     | available | $18.99    | $18.99        | low            | low    | 5      | namesilo        |
+| clean.care      | resell    | —         | —             | high           | low    | 5      | Porkbun LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Environment Domain Names*. Version 2026-08-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Environment Domain Names*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
