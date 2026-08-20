@@ -1,10 +1,10 @@
-# One-Word Environment Domain Names (113,813)
+# One-Word Environment Domain Names (114,024)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-113%2C813%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-114%2C024%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This set includes 99,465 one-word domain names built around the environment theme, spread across 506 TLDs. Median ask is $807. Updated daily, it features concrete words like ground, acid, and biological paired with varied domain endings.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **113,813 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **114,024 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 113,813 domains · **Median ask:** $689.12 · **High-demand under $2,500:** 542
+**Public extract:** 1,000 rows · **Live catalog:** 114,024 domains · **Median ask:** $688.08 · **High-demand under $2,500:** 542
 
 **Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/sector/environment`
@@ -78,11 +78,11 @@ print(df.head())
 | events.eco      | premium   | $4,375    | —             | medium         | low    | 6      | name.com        |
 | fauna.xxx       | available | $69.98    | $154.98       | low            | low    | 5      | namecheap       |
 | tree.baby       | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
-| fossil.club     | premium   | $960      | $17.70        | medium         | medium | 6      | namesilo        |
-| fauna.you       | available | $22.99    | $22.99        | low            | low    | 5      | namesilo        |
-| tree.services   | resell    | —         | —             | high           | low    | 4      | Porkbun LLC     |
 | fossil.game     | premium   | $1,625    | $1,625        | medium         | medium | 6      | name.com        |
 | grime.earth     | available | $18.99    | $18.99        | low            | low    | 5      | namesilo        |
+| tree.services   | resell    | —         | —             | high           | low    | 4      | Porkbun LLC     |
+| fossil.makeup   | premium   | $2,500    | $2,500        | medium         | medium | 6      | name.com        |
+| waste.ryukyu    | available | $22.98    | —             | medium         | low    | 5      | namecheap       |
 | clean.care      | resell    | —         | —             | high           | low    | 5      | Porkbun LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 113,813 live domains                       |
+| 1,000-row public sample | 114,024 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 542 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
