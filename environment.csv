@@ -76,7 +76,6 @@ dbd330ee-71a7-49ce-8e24-1b06143d3c69,global.parts,resell,,,high,medium,6,Porkbun
 89983e0c-50ba-45ca-97b4-a536c232c31a,solarpower.jewelry,available,19.99,,high,low,11,name.com,,
 e1c6af77-455b-4256-a95b-cb2fde25af59,solarpower.gold,resell,,,high,low,11,"GoDaddy.com, LLC",21/08/2023 16:16,21/08/2026 16:16
 383be32f-bcc0-430c-9c53-f30393086f76,surroundings.vet,available,50.99,,high,low,12,name.com,,
-f52c8c54-db1a-42c0-bc34-6765f474e6a5,energy.green,resell,,,high,medium,6,"GoDaddy.com, LLC",02/10/2020 07:40,02/10/2026 07:40
 c474aad2-db07-4289-90d3-8bbff01bc0be,solarpower.sex,available,154.98,,high,low,11,namecheap,,
 a51472e0-e874-4267-b711-5927727a9c9e,solarpower.vacations,available,9.99,,high,low,11,name.com,,
 43236749-53db-4fda-b262-abea136d265f,solarpower.healthcare,available,91.99,,high,low,11,name.com,,
@@ -418,6 +417,7 @@ f2b76aa4-b51f-4577-85c8-27e1ca971b5d,clean.army,available,19.99,,high,low,5,name
 c67fca9d-38f4-41cd-b4ef-e0700563a7e0,solarpower.ngo,available,16.99,,high,low,11,name.com,,
 07da5866-e747-44ce-a19b-9af9e8067c89,clean.juegos,available,478.98,,high,low,5,namecheap,,
 898d626b-0c27-47f9-af44-61618a008038,clean.games,resell,,,high,low,5,"DNSPod, Inc.",10/11/2024 17:00,10/11/2026 17:00
+f52c8c54-db1a-42c0-bc34-6765f474e6a5,energy.green,resell,,,medium,medium,6,"GoDaddy.com, LLC",02/10/2020 07:40,02/10/2026 07:40
 09938645-e204-4a1c-85a9-635a53600a05,clean.productions,resell,,,high,low,5,Dynadot Inc,25/07/2025 17:00,25/07/2026 17:00
 2f46fc27-7055-4586-a4a2-9a6d1d5998a8,clean.zip,premium,623.75,,high,low,5,name.com,,
 4f6d294b-9bf2-4ed7-82f8-31889e5c7c12,friendly.ryukyu,available,22.98,,high,low,8,namecheap,,
@@ -751,7 +751,6 @@ f95d5c9d-83c7-48aa-b298-bce1b8061886,weather.bargains,premium,118.8,118.8,high,m
 49a8fefd-cee3-4f7c-b1d5-94920a362fc4,weather.security,available,1999.99,2049.99,high,medium,7,namesilo,,
 7161636f-fb6b-4701-981b-c3edd97e70a2,weather.pro,resell,,,high,medium,7,Netregistry Wholesale Pty Ltd,02/03/2005 00:00,02/03/2028 00:00
 7f2fb60e-3e11-4828-b4d8-11fe5c5599e4,weather.rehab,available,14.99,,high,medium,7,name.com,,
-a57f6dc0-c050-41d8-9242-443521250bf3,forest.green,premium,750,750,medium,low,6,name.com,,
 2f563361-46a4-4537-a492-402ba7584e10,essence.eco,premium,187.5,,high,low,7,name.com,,
 a9720d56-e0e2-4946-8dc0-7548c49b9e4a,weather.you,premium,625,,high,medium,7,name.com,,
 9fd34dc9-1232-444e-bdc5-4ce61b5f2e0c,solarenergy.reisen,available,24.99,,high,low,12,name.com,,
@@ -821,6 +820,7 @@ fa38d503-ed80-46c4-b79b-2829fab257a9,weather.gratis,available,23.99,23.99,high,m
 4012122d-69e8-4b83-91f3-2121195e63c1,weather.loans,available,19.99,,high,medium,7,name.com,,
 6a7febdd-8600-4259-8805-028b663219c2,weather.loan,premium,437.5,,high,medium,7,name.com,,
 aba12472-72f4-4f5f-abe6-011dc5b2a489,color.lifestyle,premium,980,1400,high,low,5,namecheap,,
+a57f6dc0-c050-41d8-9242-443521250bf3,forest.green,premium,750,750,medium,low,6,name.com,,
 e6a7d2e9-77cc-40d0-8037-728a9284fc3a,solarpower.marketing,available,9.99,,high,low,11,name.com,,
 2c74679f-9d1e-4006-b518-c40d9aeb8749,weather.biz,premium,6250,,high,medium,7,name.com,,
 280ec762-1a8c-44d9-a028-3f3d71ac1d78,solarpower.insure,available,9.99,,high,low,11,name.com,,
@@ -898,7 +898,6 @@ f89d573f-06d5-4542-94b9-e91fe3c3f3d8,weather.flowers,premium,2660,2660,high,medi
 ba066766-490d-4ad7-9b38-94a5097442a0,leaf.green,premium,3125,,high,low,4,name.com,,
 1640365f-ea2e-4429-a671-52f2e6b7c645,weather.clinic,premium,242,242,high,medium,7,namesilo,,
 14fa0879-2492-4564-8bef-9e9df14796a3,solarpower.soccer,available,19.99,,high,low,11,name.com,,
-51c36e15-d3a5-47f0-929c-d0f8da70a7c1,forest.organic,available,19.99,73.99,medium,low,6,name.com,,
 0073dcd0-fcc5-4fb6-9347-673a13e8df86,forests.software,available,19.99,,medium,low,7,name.com,,
 5499ef7e-9769-446d-9a3d-0ef68ea02474,forests.dad,available,16.98,,medium,low,7,namecheap,,
 e07e8709-5c8d-4285-8227-60a96e2bf9b8,weather.tax,resell,,,high,medium,7,Porkbun LLC,16/08/2025 11:23,16/08/2026 11:23
@@ -981,6 +980,7 @@ d7c60710-d94d-4a5e-9d1a-eca309d5cf13,weather.voting,available,1448,,high,medium,
 caa249f7-d2b7-45b2-8648-5aca4f94d336,weather.voto,available,19.99,,high,medium,7,name.com,,
 2452a5b5-9a8f-462e-b912-410b983d9071,weather.buzz,premium,500,,high,medium,7,name.com,,
 22474369-bd13-4940-b47a-496893de11a9,weather.marketing,premium,118.8,118.8,high,medium,7,namesilo,,
+51c36e15-d3a5-47f0-929c-d0f8da70a7c1,forest.organic,available,19.99,73.99,medium,low,6,name.com,,
 0babde32-8115-44fa-bd77-5ec75ffc109a,weather.careers,available,49.99,,high,medium,7,name.com,,
 4465e341-2ff9-40bb-8a6e-34ce4bf29bbe,surroundings.investments,available,14.99,,high,low,12,name.com,,
 b09ddee9-e33d-4315-bbed-10a19f022885,weather.soccer,available,19.99,,high,medium,7,name.com,,
