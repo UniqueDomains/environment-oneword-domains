@@ -1,10 +1,10 @@
-# One-Word Environment Domain Names (122,017)
+# One-Word Environment Domain Names (124,188)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-122%2C017%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-124%2C188%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This set includes 99,465 one-word domain names built around the environment theme, spread across 506 TLDs. Median ask is $807. Updated daily, it features concrete words like ground, acid, and biological paired with varied domain endings.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **122,017 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **124,188 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 122,017 domains · **Median ask:** $651.61 · **High-demand under $2,500:** 537
+**Public extract:** 1,000 rows · **Live catalog:** 124,188 domains · **Median ask:** $642.85 · **High-demand under $2,500:** 636
 
 **Last updated:** 2026-09-09
 **Canonical page:** `https://unique.domains/domains/sector/environment`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| air.realty        | available | $109.99   | $299          | high           | medium | 3      | namesilo                   |
-| home.organic      | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 29          |
-| air.earth         | premium   | $325      | $325          | high           | low    | 3      | namecheap                  |
-| soil.organic      | available | $19.99    | $73.99        | high           | low    | 4      | name.com                   |
-| clean.ac          | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.            |
-| air.organic       | premium   | $19.99    | —             | high           | medium | 3      | name.com                   |
-| soil.solar        | available | $9.99     | $83.99        | high           | low    | 4      | name.com                   |
-| clean.ai          | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.            |
-| leaf.green        | premium   | $3,125    | —             | high           | low    | 4      | name.com                   |
-| tree.organic      | available | $19.99    | —             | high           | low    | 4      | name.com                   |
-| clean.best        | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.            |
-| life.green        | premium   | $1,300    | $1,300        | high           | medium | 4      | namecheap                  |
-| wind.organic      | available | $19.99    | —             | high           | low    | 4      | name.com                   |
-| clean.bid         | resell    | —         | —             | high           | low    | 5      | Porkbun                    |
-| life.shop         | premium   | $12,500   | —             | high           | medium | 4      | name.com                   |
-| cells.eco         | available | $64.99    | —             | medium         | low    | 5      | name.com                   |
-| clean.blue        | resell    | —         | —             | high           | low    | 5      | Squarespace Domains II LLC |
-| soil.eco          | premium   | $4,375    | $113.99       | high           | low    | 4      | name.com                   |
-| clean.accountants | available | $43.99    | —             | high           | low    | 5      | name.com                   |
-| clean.bond        | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.            |
+| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                   |
+| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| fuel.organic      | available | $19.99     | —             | high           | low    | 4      | name.com                                    |
+| waste.co          | resell    | $11,442.50 | $48.99        | high           | low    | 5      | GoDaddy Online Services Cayman Islands Ltd. |
+| air.earth         | premium   | $325       | $325          | high           | low    | 3      | namecheap                                   |
+| soil.organic      | available | $19.99     | $73.99        | high           | low    | 4      | name.com                                    |
+| home.organic      | resell    | —          | —             | high           | medium | 4      | Sav.com, LLC - 29                           |
+| air.organic       | premium   | $19.99     | —             | high           | medium | 3      | name.com                                    |
+| soil.solar        | available | $9.99      | $83.99        | high           | low    | 4      | name.com                                    |
+| life.energy       | resell    | —          | —             | high           | medium | 4      | Porkbun LLC                                 |
+| fuel.green        | premium   | $625       | —             | high           | low    | 4      | name.com                                    |
+| tree.organic      | available | $19.99     | —             | high           | low    | 4      | name.com                                    |
+| clean.ac          | resell    | —          | —             | high           | low    | 5      | NameCheap, Inc.                             |
+| leaf.green        | premium   | $3,125     | —             | high           | low    | 4      | name.com                                    |
+| wind.organic      | available | $19.99     | —             | high           | low    | 4      | name.com                                    |
+| clean.ai          | resell    | —          | —             | high           | low    | 5      | NameCheap, Inc.                             |
+| life.green        | premium   | $1,300     | $1,300        | high           | medium | 4      | namecheap                                   |
+| clean.accountants | available | $43.99     | —             | high           | low    | 5      | name.com                                    |
+| clean.best        | resell    | —          | —             | high           | low    | 5      | Spaceship, Inc.                             |
+| soil.eco          | premium   | $4,375     | $113.99       | high           | low    | 4      | name.com                                    |
+| clean.actor       | available | $19.99     | —             | high           | low    | 5      | name.com                                    |
+| clean.bid         | resell    | —          | —             | high           | low    | 5      | Porkbun                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 122,017 live domains                       |
+| 1,000-row public sample | 124,188 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 537 high-demand names under $2,500         |
+| Basic exported fields   | 636 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
