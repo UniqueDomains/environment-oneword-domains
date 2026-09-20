@@ -1,10 +1,10 @@
-# One-Word Environment Domain Names (84,339)
+# One-Word Environment Domain Names (86,188)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-84%2C339%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-86%2C188%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This set includes 99,465 one-word domain names built around the environment theme, spread across 506 TLDs. Median ask is $807. Updated daily, it features concrete words like ground, acid, and biological paired with varied domain endings.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **84,339 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **86,188 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 84,339 domains · **Median ask:** $669.66 · **High-demand under $2,500:** 304
+**Public extract:** 1,000 rows · **Live catalog:** 86,188 domains · **Median ask:** $656.95 · **High-demand under $2,500:** 296
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/sector/environment`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                  | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                |
-| ----------------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------ |
-| air.realty              | available | $109.99    | $299          | high           | medium | 3      | namesilo                 |
-| environment.engineering | resell    | $11.99     | —             | medium         | low    | 11     | Dynadot Inc              |
-| home.bio                | premium   | $3,136.56  | —             | high           | medium | 4      | Vautron Rechenzentrum AG |
-| clean.organic           | available | $19.99     | —             | high           | low    | 5      | name.com                 |
-| environment.run         | resell    | $6.99      | —             | medium         | low    | 11     | Spaceship, Inc.          |
-| green.barcelona         | premium   | $6,796.66  | $42.99        | medium         | medium | 5      | Nominalia                |
-| fauna.paris             | available | $65.99     | $65.99        | low            | low    | 5      | name.com                 |
-| environment.works       | resell    | $7.99      | —             | medium         | low    | 11     | Spaceship, Inc.          |
-| green.business          | premium   | $1,040     | $1,040        | high           | medium | 5      | namecheap                |
-| green.jewelry           | available | $19.99     | —             | high           | medium | 5      | name.com                 |
-| clean.care              | resell    | —          | —             | high           | low    | 5      | Porkbun LLC              |
-| green.games             | premium   | $130       | $260          | medium         | medium | 5      | namecheap                |
-| green.kaufen            | available | $5.99      | $26.99        | high           | medium | 5      | namesilo                 |
-| clean.city              | resell    | —          | —             | high           | low    | 5      | Porkbun LLC              |
-| green.la                | premium   | $17,767.50 | —             | high           | medium | 5      | name.com                 |
-| solar.paris             | available | $66.98     | $66.98        | medium         | high   | 5      | namecheap                |
-| clean.solar             | resell    | —          | —             | high           | low    | 5      | Virtualia LLC            |
-| green.live              | premium   | $1,300     | $1,300        | high           | medium | 5      | namecheap                |
-| waste.ryukyu            | available | $22.98     | —             | medium         | low    | 5      | namecheap                |
-| earth.engineering       | resell    | —          | —             | medium         | medium | 5      | Sav.com, LLC - 18        |
+| domain                  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| climate.claims          | available | $19.99    | —             | high           | low    | 7      | name.com        |
+| color.organic           | available | $19.99    | —             | high           | low    | 5      | name.com        |
+| energy.foundation       | resell    | $260      | $260          | high           | medium | 6      | Porkbun LLC     |
+| energy.accountant       | premium   | $650      | $84.50        | high           | low    | 6      | namecheap       |
+| energy.airforce         | available | $134.98   | —             | high           | medium | 6      | namecheap       |
+| environment.engineering | resell    | $11.99    | —             | medium         | low    | 11     | Dynadot Inc     |
+| energy.autos            | premium   | $845      | $15.73        | high           | medium | 6      | namecheap       |
+| energy.archi            | available | $24.99    | —             | high           | medium | 6      | name.com        |
+| environment.run         | resell    | $6.99     | —             | medium         | low    | 11     | Spaceship, Inc. |
+| energy.beauty           | premium   | $2,600    | $15.73        | high           | medium | 6      | namecheap       |
+| energy.army             | available | $19.99    | —             | high           | medium | 6      | name.com        |
+| environment.works       | resell    | $7.99     | —             | medium         | low    | 11     | Spaceship, Inc. |
+| energy.boats            | premium   | $845      | $15.73        | high           | medium | 6      | namecheap       |
+| energy.cab              | available | $19.99    | —             | high           | medium | 6      | name.com        |
+| color.green             | resell    | —         | —             | high           | low    | 5      | DNSPod, Inc.    |
+| energy.build            | premium   | $650      | $650          | high           | medium | 6      | namecheap       |
+| energy.navy             | available | $42.99    | —             | high           | medium | 6      | name.com        |
+| green.green             | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc. |
+| energy.buzz             | premium   | $520      | $130          | high           | low    | 6      | namecheap       |
+| energy.ooo              | available | $34.99    | —             | high           | medium | 6      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 84,339 live domains                        |
+| 1,000-row public sample | 86,188 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 304 high-demand names under $2,500         |
+| Basic exported fields   | 296 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Environment Domain Names*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Environment Domain Names*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
