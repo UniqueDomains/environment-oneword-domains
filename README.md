@@ -1,10 +1,10 @@
-# One-Word Environment Domain Names (59,534)
+# One-Word Environment Domain Names (53,896)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-59%2C534%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-53%2C896%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This set includes 99,465 one-word domain names built around the environment theme, spread across 506 TLDs. Median ask is $807. Updated daily, it features concrete words like ground, acid, and biological paired with varied domain endings.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **59,534 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **53,896 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 59,534 domains · **Median ask:** $603.97 · **High-demand under $2,500:** 287
+**Public extract:** 1,000 rows · **Live catalog:** 53,896 domains · **Median ask:** $607.41 · **High-demand under $2,500:** 263
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/sector/environment`
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
 | ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| nature.forex      | available | $11.98     | $133.98       | high           | low    | 6      | namecheap        |
 | fauna.asia        | available | $1.98      | $18.98        | high           | low    | 5      | namecheap        |
 | energy.berlin     | resell    | $6,371.43  | $75.99        | high           | medium | 6      | name.com         |
 | fauna.mobile      | premium   | $375       | $375          | high           | low    | 5      | name.com         |
@@ -74,16 +73,17 @@ print(df.head())
 | fauna.forex       | available | $11.98     | $133.98       | high           | low    | 5      | namecheap        |
 | energy.gallery    | resell    | $85.80     | $85.80        | high           | medium | 6      | Porkbun LLC      |
 | solar.flowers     | premium   | $832       | $832          | high           | high   | 5      | namesilo         |
-| fauna.talk        | available | $38.99     | $38.99        | high           | low    | 5      | namesilo         |
+| fauna.free        | available | $38.98     | $44.98        | high           | low    | 5      | namecheap        |
 | energy.luxe       | resell    | $37,060.64 | —             | high           | medium | 6      | Dynadot Inc      |
 | solar.host        | premium   | $3,250     | $6,500        | high           | high   | 5      | namecheap        |
-| fauna.xxx         | available | $69.98     | $154.98       | high           | low    | 5      | namecheap        |
+| fauna.talk        | available | $38.99     | $38.99        | high           | low    | 5      | namesilo         |
 | energy.me         | resell    | $5,750     | $27.99        | high           | medium | 6      | GoDaddy.com, LLC |
 | solar.press       | premium   | $1,950     | $3,900        | high           | high   | 5      | namecheap        |
-| fauna.you         | available | $22.99     | $22.99        | high           | low    | 5      | namesilo         |
+| fauna.xxx         | available | $69.98     | $154.98       | high           | low    | 5      | namecheap        |
 | energy.town       | resell    | $42.90     | $42.90        | high           | medium | 6      | Porkbun LLC      |
 | solar.sucks       | premium   | $2,658.67  | $2,658.67     | high           | high   | 5      | namesilo         |
-| solar.car         | available | $1,999.99  | $2,199        | high           | high   | 5      | namesilo         |
+| fauna.you         | available | $22.99     | $22.99        | high           | low    | 5      | namesilo         |
+| life.tools        | resell    | —          | —             | high           | medium | 4      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 59,534 live domains                        |
+| 1,000-row public sample | 53,896 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 287 high-demand names under $2,500         |
+| Basic exported fields   | 263 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
