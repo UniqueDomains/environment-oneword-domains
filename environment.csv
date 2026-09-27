@@ -174,7 +174,7 @@ a13f8ea5-b6a3-4cf2-84b9-a1a7d957e7b6,environment.direct,available,14.98,53.98,hi
 92ec65d4-2ab7-4fc4-b86d-3b8bb81e6745,environment.mx,available,39.99,43.99,high,low,11,namesilo,,,23/09/2026 08:17
 c12d1bae-7f67-4729-822c-19f78a4e8233,environment.football,available,26.98,36.98,high,low,11,namecheap,,,23/09/2026 08:17
 8af13089-1632-4869-b2a3-2f91d379307c,environment.photos,available,15.99,29.99,high,low,11,namesilo,,,23/09/2026 08:17
-fa38ef11-cc86-4224-a94c-95d3da8f93ea,ecosystem.online,available,,,high,high,9,,,,
+fa38ef11-cc86-4224-a94c-95d3da8f93ea,ecosystem.online,premium,3450,3450,high,high,9,namesilo,,,27/09/2026 06:19
 bf0a2c41-5a92-4664-859b-aabc52af1097,environment.game,available,309.99,429.99,high,low,11,namesilo,,,23/09/2026 08:17
 e9e08653-620c-48f9-aeee-c2042347287d,environment.rent,available,1.5,81.98,high,low,11,namecheap,,,23/09/2026 08:17
 63f1f00d-7228-4865-b79d-b2774bdee532,environment.club,premium,960,17.7,high,low,11,namesilo,,,23/09/2026 08:17
@@ -510,7 +510,6 @@ f116003c-c0e0-45c9-a8d5-b36144d1c997,green.ltd,resell,,,high,medium,5,Alibaba Cl
 661a992f-18f4-4ad6-8b1a-6d9889139874,environment.bar,premium,108,108,high,low,11,namesilo,,,23/09/2026 08:17
 1d0eb71f-4a1d-43f6-9257-ea616dc88ea3,environment.cool,available,9.49,44.99,high,low,11,namesilo,,,23/09/2026 08:17
 dc4e6d79-d5d4-4c00-a4fe-e83caef8a2b9,energy.uno,premium,3250,3250,high,medium,6,namecheap,,,04/09/2026 13:30
-13836ac6-3394-4fb9-b686-c2ccce6f0f0e,sustainable.tech,premium,781.25,3125,high,high,11,name.com,,,
 924f8d74-7365-4f96-ad35-7e51462993c1,environment.healthcare,available,93.98,111.98,high,low,11,namecheap,,,23/09/2026 08:17
 6cc9db38-f84e-4c3b-a2ed-c7749e1f290c,habitat.click,premium,91,130,high,medium,7,namecheap,,,23/09/2026 08:52
 80e6c926-489f-48a2-abc9-8f077db926ff,environment.rehab,available,36.99,36.99,high,low,11,namesilo,,,23/09/2026 08:17
@@ -544,7 +543,6 @@ a5e4abe5-4c1d-432f-aee3-615480a4c717,environment.win,premium,455,65,high,low,11,
 cbcb7f0d-3a84-4a7a-aeef-46781d1d019d,green.house,resell,,,high,medium,5,"GoDaddy.com, LLC",26/07/2019 14:10,26/07/2027 14:10,26/09/2026 06:29
 26b97689-5637-45cd-9085-2597d89c848e,energy.forsale,available,,,high,medium,6,,,,
 b2bf9778-4caf-4708-b489-899faae7401f,environment.delivery,available,6.75,61.99,high,low,11,namesilo,,,23/09/2026 08:17
-20e072e1-37d4-42eb-bb77-5c6cdaad2193,ecosystem.ninja,available,,,high,high,9,,,,
 f23b43b5-1680-419b-ac65-20635b9191ad,habitat.bid,premium,448,53.92,high,medium,7,namesilo,,,23/09/2026 08:52
 df9e09bf-a1e5-4b1c-81f2-944551b797bc,ecological.organic,available,19.99,,high,low,10,name.com,,,22/09/2026 21:01
 44884630-276c-4920-9fec-c02ab3a36b5d,environment.limited,available,37.98,39.98,high,low,11,namecheap,,,23/09/2026 08:17
@@ -721,7 +719,6 @@ c05afbf3-378b-4e58-8b3b-ff17790535c8,energy.cx,resell,,,high,medium,6,West263 In
 e55ff0c7-0a91-4582-ba11-fe647b5d7675,natural.juegos,available,368.98,478.98,high,low,7,namecheap,,,08/09/2026 12:12
 131e59a0-1380-4e91-8feb-2b1d958cb5c8,atmosphere.eco,premium,9750,74.75,high,low,10,namecheap,,,18/09/2026 16:39
 85d0070d-b242-44d3-812b-d5f618657a46,energy.mobi,available,,,high,medium,6,,,,
-459b2d50-34f0-4830-989a-611018b23fcd,eco.online,available,,,high,high,3,,,,
 fec92ecc-d9d9-4d59-b6dd-67a5064bd1a5,natural.photography,available,6.98,46.48,high,low,7,namecheap,,,08/09/2026 12:12
 05256ed6-7e95-4bfd-bede-e0f2107f8975,environment.engineering,resell,11.99,,high,low,11,Dynadot Inc,03/04/2026 05:10,03/04/2027 05:10,26/09/2026 05:52
 003252c7-84a1-4251-97f1-8aee384df531,energy.mov,premium,648.7,648.7,high,medium,6,namecheap,,,04/09/2026 13:30
@@ -781,7 +778,7 @@ ff241ad6-b07c-4157-90ae-22184ca0200e,climate.support,available,11.99,,high,low,7
 79ac0f47-91f3-41c6-9f05-4ad751f65e48,climate.voto,premium,123.75,,high,low,7,name.com,,,
 6120c4a5-c3f6-48a2-a016-1fd55a221cfc,nature.top,available,,,high,low,6,,,,
 33863e2b-bdf9-43be-8809-ceeebcc5d036,nature.win,premium,448,53.92,high,low,6,namesilo,,,08/09/2026 02:43
-349ad12c-6a02-4030-af9d-332e2d2811e6,wildlife.site,available,,,high,high,8,,,,
+349ad12c-6a02-4030-af9d-332e2d2811e6,wildlife.site,premium,1107,1107,high,high,8,namesilo,,,27/09/2026 05:56
 9f0766b1-5797-4c9f-aa67-db234eeb24d7,nature.help,premium,83.3,116,high,low,6,namesilo,,,08/09/2026 02:43
 4b32a400-9dd5-4e1a-9a71-bd28f980398f,natural.llc,premium,1107,1107,high,low,7,namesilo,,,08/09/2026 12:12
 01c6f2a6-1b34-404c-8256-b6c2aaf3c58a,ecological.green,premium,1300,1300,high,low,10,namecheap,,,22/09/2026 21:01
@@ -844,7 +841,6 @@ ed1c0d5d-21ba-4407-b121-9df3a3bc3ec8,earth.earth,available,,,high,medium,5,,,,
 8e89839d-6ffb-478d-9239-dda02dcc50ec,ecology.car,available,1999.99,2199,high,low,7,namesilo,,,23/09/2026 18:42
 732f9b5c-5240-4933-aec5-f1b9260a8994,energy.ing,premium,1690,1690,high,medium,6,namecheap,,,04/09/2026 13:30
 c9a5a665-934f-4a53-a4be-127455583b18,climate.ninja,available,15.99,30.99,high,low,7,namesilo,,,25/09/2026 09:05
-12b47b67-0400-45fd-9dc6-d321bab5728c,eco.site,available,,,high,high,3,,,,
 446ce2d2-eff1-40f4-81b9-f5544719b44a,green.art,premium,3450,83.3,high,medium,5,namesilo,,,25/09/2026 17:29
 aee1f38f-c6ce-4488-99db-b5a2ddf138f9,green.contact,resell,,,high,medium,5,Porkbun LLC,09/12/2020 16:00,09/12/2026 16:00,26/09/2026 06:29
 bcf31773-d5c6-4328-8008-71c34e503d29,nature.porn,available,,,high,low,6,,,,
@@ -934,7 +930,7 @@ a63847f2-48b5-4ded-901a-922086fde59b,climate.theater,available,19.99,,high,low,7
 ff1a95bd-eb44-4e1a-8d4a-7ea63b038256,green.ski,premium,118.8,118.8,high,medium,5,namesilo,,,25/09/2026 17:29
 69743158-516f-4577-80c2-0bac2693e6b4,ecology.shoes,available,64.99,64.99,high,low,7,namesilo,,,23/09/2026 18:42
 d22ba2b4-693b-49bd-a32e-5688c6625038,green.reviews,premium,854,854,high,medium,5,namesilo,,,25/09/2026 17:29
-c6cc9ce5-052a-4aef-a762-f04c058188cd,wildlife.online,available,,,high,high,8,,,,
+c6cc9ce5-052a-4aef-a762-f04c058188cd,wildlife.online,premium,325,1300,high,high,8,namecheap,,,27/09/2026 05:56
 5e44d84f-8074-4644-a791-ac5f15054c15,energy.tickets,available,359.99,488.88,high,medium,6,namesilo,,,04/09/2026 13:30
 46887fad-bbe7-4976-b4fc-bb65182b472b,ecological.dental,available,81.98,100.98,high,low,10,namecheap,,,22/09/2026 21:01
 c19be394-da47-497c-875b-2ed2d5e3992a,natural.business,resell,,,high,low,7,"Sav.com, LLC - 1",08/08/2026 15:15,08/08/2027 15:15,26/09/2026 07:43
@@ -947,7 +943,6 @@ a23af652-67bb-4ec1-b4e0-1da89257beda,ecology.boo,premium,76.7,76.7,high,low,7,na
 af2ba8e0-05ac-4adb-b26d-dddb498ec668,natural.moda,available,41.99,41.99,high,low,7,namesilo,,,08/09/2026 12:12
 6cb73160-ef63-48ad-8761-d9a938172874,natural.dad,premium,323.7,323.7,high,low,7,namecheap,,,08/09/2026 12:12
 51bb8bab-9dc1-4b58-b0d3-d6d4fa51aa37,energy.voto,premium,128.7,128.7,high,medium,6,namecheap,,,04/09/2026 13:30
-f318a0cf-9235-409f-8438-794c7a1dacfd,eco.store,available,,,high,high,3,,,,
 0827a21e-b33c-4d13-934d-bbd95ad45e1f,ecology.prof,premium,115.7,115.7,high,low,7,namecheap,,,23/09/2026 18:42
 bb59cac8-8f4e-490f-810e-4f1e68af8d14,natural.vodka,premium,2600,32.5,high,low,7,namecheap,,,08/09/2026 12:12
 404e83b4-fedb-46ca-b341-7dc72154f54c,natural.rodeo,premium,96,11.8,high,low,7,namesilo,,,08/09/2026 12:12
@@ -986,7 +981,7 @@ e64319c9-89ab-4a6b-b2a9-01d1cbbd6c7b,energy.run,resell,,,high,medium,6,"DNSPod, 
 7d3900d8-a027-47dc-9da8-d826703eb724,ecological.xyz,resell,,,high,low,10,Dynadot Inc,28/10/2017 00:07,28/10/2028 23:59,26/09/2026 05:45
 c610ba11-2b06-44a2-b546-33e741df0e46,climate.luxury,available,49.99,,high,low,7,name.com,,,
 1e71f6c3-a961-4571-89c0-9b2329675122,energy.casino,resell,,,high,medium,6,"Spaceship, Inc.",30/12/2024 15:15,30/12/2026 15:15,26/09/2026 05:50
-ef8e2d04-142b-4c89-a399-1a9ee1b8512d,wildlife.store,available,,,high,high,8,,,,
+ef8e2d04-142b-4c89-a399-1a9ee1b8512d,wildlife.store,premium,1107,1107,high,high,8,namesilo,,,27/09/2026 05:56
 5dfb46bf-afd4-4155-a15c-9a385d581ee6,green.fitness,resell,,,high,medium,5,"GoDaddy.com, LLC",27/03/2016 21:53,27/03/2027 21:53,26/09/2026 06:29
 70fa551d-7d1f-442e-80b4-95a70275f832,nature.tattoo,available,2.98,48.98,high,low,6,namecheap,,,08/09/2026 02:43
 c4e6600e-f0ca-484f-9d80-309fc76e225a,climate.courses,resell,,,high,low,7,"NameCheap, Inc.",07/02/2024 14:17,07/02/2027 14:17,26/09/2026 04:59
@@ -999,3 +994,8 @@ d47c8f8a-82ab-400a-9a8f-70aeef5e2179,ecology.diet,available,108.98,159.98,high,l
 45a2081d-a197-4c0c-99b3-35daea70473a,green.contractors,premium,85.8,85.8,high,medium,5,namecheap,,,25/09/2026 17:29
 b5b3c752-c662-488e-b5f0-375c6abb0b9b,ecology.singles,available,3.98,36.98,high,low,7,namecheap,,,23/09/2026 18:42
 aee5cbe0-8526-43ba-a38d-b64d803e967d,ecological.skin,available,1.8,21.98,high,low,10,namecheap,,,22/09/2026 21:01
+fee8238f-35ec-4a59-9665-97626a2a11d2,green.accountants,premium,118.8,118.8,high,medium,5,namesilo,,,25/09/2026 17:29
+a386b226-3d4e-452a-9d7c-986bc1da47db,nature.builders,resell,,,high,low,6,"Sav.com, LLC",12/04/2023 17:00,12/04/2027 17:00,26/09/2026 07:43
+21faf585-278b-4731-8435-55b0f261d1be,climate.college,available,17.99,59.99,high,low,7,namesilo,,,
+4c1dfdc5-dfd5-4724-b1d3-7037483d3f15,energy.vin,resell,,,high,medium,6,"Xiamen ChinaSource Internet Service Co., Ltd",06/03/2024 08:55,06/03/2027 08:55,26/09/2026 05:50
+82818936-b65a-423d-a119-bf5e19804d1b,natural.casino,available,6.98,191.98,high,low,7,namecheap,,,08/09/2026 12:12
