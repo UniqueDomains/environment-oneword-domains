@@ -1,10 +1,10 @@
-# One-Word Environment Domain Names (158,919)
+# One-Word Environment Domain Names (159,946)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-158%2C919%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-159%2C946%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This set includes 99,465 one-word domain names built around the environment theme, spread across 506 TLDs. Median ask is $807. Updated daily, it features concrete words like ground, acid, and biological paired with varied domain endings.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **158,919 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **159,946 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 158,919 domains · **Median ask:** $339.40 · **High-demand under $2,500:** 467
+**Public extract:** 1,000 rows · **Live catalog:** 159,946 domains · **Median ask:** $339.52 · **High-demand under $2,500:** 536
 
-**Last updated:** 2026-10-14
+**Last updated:** 2026-10-16
 **Canonical page:** `https://unique.domains/domains/sector/environment`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| green.blackfriday       | available | $103.70   | $103.70       | high           | medium | 5      | spaceship       |
-| green.me                | resell    | $8,058.05 | $27.99        | high           | medium | 5      | Porkbun LLC     |
-| green.accountant        | premium   | $640      | $77.35        | high           | medium | 5      | namesilo        |
-| green.cars              | available | $1,999.99 | $2,199        | high           | medium | 5      | namesilo        |
-| energy.berlin           | resell    | $6,371.43 | $75.99        | high           | medium | 6      | name.com        |
-| green.art               | premium   | $3,105.20 | $72.65        | high           | medium | 5      | spaceship       |
-| green.desi              | available | $19.98    | $22.98        | high           | medium | 5      | namecheap       |
-| climate.solar           | resell    | $9.99     | —             | high           | medium | 7      | name.com        |
-| green.associates        | premium   | $66.50    | $78.54        | high           | medium | 5      | unstoppable     |
-| green.forex             | available | $13.50    | $83           | high           | medium | 5      | unstoppable     |
-| environment.engineering | resell    | $11.99    | —             | high           | low    | 11     | Dynadot Inc     |
-| green.attorney          | premium   | $414.20   | $414.20       | high           | medium | 5      | spaceship       |
-| green.guitars           | available | $100.20   | $100.20       | high           | medium | 5      | cloudflare      |
-| environment.run         | resell    | $6.99     | —             | high           | low    | 11     | Spaceship, Inc. |
-| green.auction           | premium   | $440      | $440          | high           | medium | 5      | dynadot         |
-| green.storage           | available | $465.95   | $500.20       | high           | medium | 5      | spaceship       |
-| environment.works       | resell    | $7.99     | —             | high           | low    | 11     | Spaceship, Inc. |
-| green.bar               | premium   | $2,475    | $2,475        | high           | medium | 5      | dynadot         |
-| green.tattoo            | available | $1.75     | $31.25        | high           | medium | 5      | spaceship       |
-| green.asia              | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc. |
+| domain                  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| green.audio             | available | $108.98   | $159.98       | high           | medium | 5      | namecheap                                                 |
+| green.directory         | resell    | $23.60    | $23.60        | high           | medium | 5      | GoDaddy.com, LLC                                          |
+| green.archi             | premium   | $500.50   | $650          | high           | medium | 5      | unstoppable                                               |
+| green.degree            | available | $52.99    | $52.99        | high           | medium | 5      | namesilo                                                  |
+| environment.engineering | resell    | $11.99    | —             | high           | low    | 11     | Dynadot Inc                                               |
+| green.associates        | premium   | $66.50    | $78.54        | high           | medium | 5      | unstoppable                                               |
+| green.forex             | available | $13.50    | $83           | high           | medium | 5      | unstoppable                                               |
+| environment.run         | resell    | $6.99     | —             | high           | low    | 11     | Spaceship, Inc.                                           |
+| green.band              | premium   | $68.51    | $68.51        | high           | medium | 5      | spaceship                                                 |
+| green.memorial          | available | $106.15   | $106.15       | high           | medium | 5      | dynadot                                                   |
+| environment.works       | resell    | $7.99     | —             | high           | low    | 11     | Spaceship, Inc.                                           |
+| green.bar               | premium   | $2,475    | $2,475        | high           | medium | 5      | dynadot                                                   |
+| green.movie             | available | $40.98    | $496.98       | high           | medium | 5      | namecheap                                                 |
+| green.academy           | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.                                           |
+| green.bargains          | premium   | $118.80   | $118.80       | high           | medium | 5      | namesilo                                                  |
+| green.navy              | available | $33.32    | $33.32        | high           | medium | 5      | spaceship                                                 |
+| green.broker            | resell    | —         | —             | high           | medium | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| green.beauty            | premium   | $2,070.20 | $2,070.20     | high           | medium | 5      | spaceship                                                 |
+| green.new               | available | $412.20   | $412.20       | high           | medium | 5      | spaceship                                                 |
+| green.christmas         | resell    | —         | —             | high           | medium | 5      | Key-Systems, LLC                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 158,919 live domains                                 |
+| 1,000-row public sample | 159,946 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 467 high-demand names under $2,500                   |
+| Basic exported fields   | 536 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Environment Domain Names*. Version 2026-10-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Environment Domain Names*. Version 2026-10-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
