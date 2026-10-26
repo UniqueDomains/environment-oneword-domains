@@ -1,9 +1,120 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+670b5b53-04cf-428e-8bf3-e5e4822e716f,environment.green,premium,273.41,546.35,high,medium,11,porkbun,,,22/10/2026 15:44
+cd8b6a3c-a635-4672-a47e-f2613d96939c,environment.garden,available,1.54,26.26,high,medium,11,porkbun,,,22/10/2026 15:44
+db7e484f-02d3-41d9-8169-515f4b4b28e4,environment.farm,available,15.99,38.99,high,medium,11,namesilo,,,22/10/2026 15:44
+d64819be-f008-4487-bf09-7002f45cf4ce,environment.desi,available,19.98,22.98,high,low,11,namecheap,,,03/10/2026 01:47
+2a2e15b3-5481-42eb-938d-4773a6920a58,environment.lifestyle,available,1.24,31.25,high,medium,11,spaceship,,,22/10/2026 15:44
+a10fbfbe-d72f-4f8a-b889-a85c59b55318,environment.space,available,,,high,low,11,,,,23/10/2026 09:25
+fd73ec02-cd12-4650-a9b1-7a631b6e4f34,environment.city,available,7.25,34.99,high,medium,11,namesilo,,,22/10/2026 15:44
+51d59b4d-69ce-4382-a258-90006af09f62,environment.cat,available,18.83,25.04,high,medium,11,spaceship,,,22/10/2026 15:44
+ad89fc54-ac16-4908-88df-470945b96b8b,environment.reise,available,27.89,97.99,high,medium,11,namesilo,,,22/10/2026 15:44
+10053415-d21e-4de5-b785-c9e20dddbecf,environment.reisen,available,3.99,20.99,high,medium,11,namesilo,,,22/10/2026 15:44
+a6b714b0-2c5e-407e-9ab7-cd347ffdecf7,environment.army,available,30.2,30.2,high,medium,11,cloudflare,,,22/10/2026 15:44
+9cf87db6-d714-4994-b2e9-28f03beea517,environment.financial,available,45.2,45.2,high,medium,11,cloudflare,,,22/10/2026 15:44
+d8833d78-989e-41d5-8fd4-33c05f9d5a5c,environment.education,premium,85.8,85.8,high,medium,11,namecheap,,,22/10/2026 15:44
+a0c6c855-259e-4472-a9a1-eb430bc53c16,environment.estate,available,15,38.99,high,medium,11,unstoppable,,,22/10/2026 15:44
+0138e3c4-47a5-4749-88f9-84fcd54029d8,environment.vip,resell,,,high,medium,11,"Chengdu West Dimension Digital Technology Co., Ltd.",28/05/2025 00:00,28/05/2027 00:00,22/10/2026 15:44
+203e0ccc-014f-4436-953c-4f82db36c66a,environment.contractors,available,35.49,35.49,high,medium,11,namesilo,,,22/10/2026 15:44
+40ccaa6f-a915-4b2c-afcf-a6e3f5b26001,environment.trade,premium,362.45,51.95,high,medium,11,spaceship,,,22/10/2026 15:44
+2b49a237-c8b0-4169-ab7d-ae5fc922b1da,environment.haus,available,14.99,33.99,high,medium,11,namesilo,,,22/10/2026 15:44
+c3751e4f-42d0-47fb-ad64-a3020ff000cc,environment.zone,available,12,30.2,high,medium,11,unstoppable,,,22/10/2026 15:44
+cfc75890-3dd3-4090-b9bc-7c8528f3b069,environment.gratis,available,21.11,21.11,high,medium,11,porkbun,,,22/10/2026 15:44
 fdb36379-a23e-4c7b-b5ca-44d76b1f9b0f,environment.organic,available,66.2,66.2,high,medium,11,cloudflare,,,22/10/2026 15:44
+9f7dc31c-62ef-453b-bd84-4d201151f565,environment.hospital,available,74.99,74.99,high,medium,11,namesilo,,,22/10/2026 15:44
+f3a41b92-4cc9-4894-8f0b-cec1505c2d77,environment.beer,available,1.98,43.98,high,medium,11,namecheap,,,22/10/2026 15:44
+1dde2d9d-d48b-48b1-97db-a67fa46728b1,environment.construction,available,31.25,31.25,high,medium,11,spaceship,,,22/10/2026 15:44
+ca4e12c7-76a3-4fac-b03e-61a4808cbc5b,environment.gallery,available,22.2,22.2,high,medium,11,cloudflare,,,22/10/2026 15:44
+e280e2c6-0d2e-4ee2-8a33-458edfe7bd67,environment.to,resell,,,high,medium,11,Tonic,01/06/2023 02:27,01/08/2027 00:00,22/10/2026 15:44
+81f880af-0e97-4fe9-8df7-f624ab46ba0f,environment.science,premium,1107,116,high,medium,11,namesilo,,,22/10/2026 15:44
+41e9690a-696b-49a3-8795-f014f0d6f878,environment.fan,available,43.67,43.67,high,medium,11,spaceship,,,22/10/2026 15:44
+e8a99906-358b-4b87-bf67-dbcd2dedad2e,environment.voto,available,10.92,58,high,medium,11,dynadot,,,22/10/2026 15:44
+0aefbf66-ca76-46b2-bcc7-d9bf2fcaa6dc,environment.democrat,available,5.98,8.48,high,medium,11,namecheap,,,22/10/2026 15:44
+c7eacb5c-8718-49ff-8ae9-8e93911fb5e1,environment.land,available,8.78,35.53,high,medium,11,dynadot,,,22/10/2026 15:44
+95b35920-6e57-4c88-89f0-e1a71c242f49,environment.cars,available,1863.2,2064.2,high,medium,11,spaceship,,,22/10/2026 15:44
+b00493d0-0489-400e-806f-4cf24b1cc14a,environment.villas,available,47.81,47.81,high,medium,11,spaceship,,,22/10/2026 15:44
+ab221325-723d-4b50-886d-6db449925747,environment.webcam,premium,550,71.5,high,medium,11,dynadot,,,22/10/2026 15:44
+4ef56baa-8c13-4b48-bea1-5a5321be5b07,environment.travel,available,27.99,149.99,high,medium,11,namesilo,,,22/10/2026 15:44
+8f06f79d-3717-4258-a3d4-8de97088e06a,environment.bz,available,,,high,low,11,,,,23/10/2026 09:25
+9bd9632b-bf0b-4c64-983b-337cd2d87d13,environment.one,premium,650,650,high,medium,11,namecheap,,,22/10/2026 15:44
+7bab281c-8b7a-4b6b-bad6-ec76f94b47d6,environment.flights,available,58.99,58.99,high,medium,11,namesilo,,,22/10/2026 15:44
+0254b2a1-1536-4913-a426-467d8a60a856,environment.fish,premium,102.67,102.67,high,medium,11,spaceship,,,22/10/2026 15:44
+e70e35c2-7233-4789-b226-2216e5b27bf8,environment.pictures,available,12.2,12.2,high,medium,11,cloudflare,,,22/10/2026 15:44
+d29801cb-1dde-487e-bec5-b7e388c01ac0,environment.motorcycles,available,1.99,17.29,high,medium,11,namesilo,,,22/10/2026 15:44
+9b6dd97f-71cf-441d-83cc-7bd1b122e9e9,environment.vodka,available,32.49,32.49,high,medium,11,namesilo,,,22/10/2026 15:44
+23f3a12f-fe13-4f77-9b2c-0abb4f4fa450,environment.fashion,premium,207.2,26.08,high,medium,11,spaceship,,,22/10/2026 15:44
+051fd047-63c6-4f9c-8923-f456b717c94e,environment.security,available,2000.2,2000.2,high,medium,11,cloudflare,,,22/10/2026 15:44
+7db76e80-1265-490c-b0c7-29c71fd8528d,environment.kids,premium,310.7,18.83,high,medium,11,spaceship,,,22/10/2026 15:44
+de656120-79db-47f2-9212-2fe7bc84edf7,environment.market,premium,242,242,high,medium,11,namesilo,,,22/10/2026 15:44
+7f2a84f8-186c-48fe-bc4c-c393889fd886,environment.london,available,31.99,31.99,high,medium,11,namesilo,,,22/10/2026 15:44
+5efb5ae5-3002-49c7-9349-85aab2081097,environment.sbs,premium,63.25,126.5,high,medium,11,dynadot,,,22/10/2026 15:44
+9e14ce13-6ce6-4ce2-b971-663c6323980c,environment.associates,available,30.2,30.2,high,medium,11,cloudflare,,,22/10/2026 15:44
+bf147252-d046-4d45-a779-f8666eabdff6,environment.cash,available,9.85,35.53,high,medium,11,dynadot,,,22/10/2026 15:44
+d97740b2-1f23-412f-b044-2166170af8bc,environment.gifts,available,8.24,33.39,high,medium,11,dynadot,,,22/10/2026 15:44
+3203a877-d165-44b7-a455-35252bec7e7a,environment.jewelry,available,64.99,64.99,high,medium,11,namesilo,,,22/10/2026 15:44
+673960a5-07ac-494e-b777-1e1e4d13443c,environment.phd,premium,159.2,164.77,high,medium,11,unstoppable,,,22/10/2026 15:44
+00a917da-77bd-471e-af05-b4917e734ec9,environment.pet,available,13.5,20.9,high,medium,11,unstoppable,,,22/10/2026 15:44
+d2bc2660-4104-44b4-8724-cac63e52edb0,environment.study,premium,6900,6900,high,medium,11,namesilo,,,22/10/2026 15:44
+4b67461d-9d88-4b91-a2bf-e7283d5b9576,environment.plumbing,available,56.2,56.2,high,medium,11,cloudflare,,,22/10/2026 15:44
+8ef6d148-d733-4c0c-9722-f952643e925b,environment.navy,available,109.98,114.98,high,medium,11,namecheap,,,22/10/2026 15:44
+4b23345c-ca60-445e-9104-62d8f0b3954a,environment.camera,available,58.99,58.99,high,medium,11,namesilo,,,22/10/2026 15:44
+be49416b-6492-464d-8cbb-81d06b2814ca,environment.run,resell,6.99,,high,medium,11,"Spaceship, Inc.",17/07/2026 13:11,17/07/2027 13:11,22/10/2026 15:44
+fa1b96cf-b71b-4402-870c-452cafd30321,environment.archi,available,19.99,103.99,high,medium,11,namesilo,,,22/10/2026 15:44
+fc999ac1-0ddb-41ca-a71a-5cf7c82c0f63,environment.properties,available,14.17,31.25,high,medium,11,spaceship,,,22/10/2026 15:44
+d6c03217-7b89-4b23-b9e3-556d0e5c337b,environment.bike,available,5.38,31.25,high,medium,11,spaceship,,,22/10/2026 15:44
+ace9a856-9627-42f6-ab28-ffac33dedda8,environment.partners,available,9.52,57.13,high,medium,11,spaceship,,,22/10/2026 15:44
+13ef2dee-861f-40e5-aed2-29ebb112d50d,environment.rich,available,94.99,1999,high,medium,11,namesilo,,,22/10/2026 15:44
+7b542284-af11-4627-932c-53018289d4b7,environment.diet,available,93.35,103.4,high,medium,11,spaceship,,,22/10/2026 15:44
+1a9f9dc3-475d-4811-8001-066fc5a3666f,environment.mba,available,17.99,39.99,high,medium,11,namesilo,,,22/10/2026 15:44
+b29987a5-767b-4796-b42d-215e390b45f7,environment.shopping,available,29.98,37.98,high,medium,11,namecheap,,,22/10/2026 15:44
+b9349a3b-c7b4-4138-963d-4678e8f62141,environment.adult,available,53.72,101.87,high,medium,11,dynadot,,,22/10/2026 15:44
+81b361d0-7766-47ba-a7d8-98539f9fcc4f,environment.business,premium,118.8,118.8,high,medium,11,namesilo,,,22/10/2026 15:44
+6487b59c-325b-41a7-912b-ae6511274088,environment.casa,available,2.19,12.99,high,medium,11,namesilo,,,22/10/2026 15:44
+0b6fb192-0ed1-4c45-a70d-58717e7e077e,environment.tel,available,9.49,9.49,high,medium,11,spaceship,,,22/10/2026 15:44
+5feff415-f880-4938-8d8b-cfced2ba957b,environment.ltda,premium,56.64,33.04,high,medium,11,namesilo,,,22/10/2026 15:44
+e228af1a-6fe8-4c3b-bbd9-7ca7a00849a6,environment.photo,premium,103.7,103.7,high,medium,11,spaceship,,,22/10/2026 15:44
+a17a63d1-1698-49b6-ae49-4c6dcc0d9994,environment.casino,available,14.99,179.99,high,medium,11,namesilo,,,22/10/2026 15:44
+a13f8ea5-b6a3-4cf2-84b9-a1a7d957e7b6,environment.direct,available,13.14,33.32,high,medium,11,spaceship,,,22/10/2026 15:44
+ce3dd8e5-4347-43a3-87ef-74e668ca9358,environment.restaurant,available,10.55,51.95,high,medium,11,spaceship,,,22/10/2026 15:44
+92ec65d4-2ab7-4fc4-b86d-3b8bb81e6745,environment.mx,available,39.99,43.99,high,medium,11,namesilo,,,22/10/2026 15:44
+8af13089-1632-4869-b2a3-2f91d379307c,environment.photos,available,8.24,28.04,high,medium,11,dynadot,,,22/10/2026 15:44
+dcbf0730-cae2-44b7-bb75-7300d6a8efcd,environment.realty,available,88.18,289.16,high,medium,11,spaceship,,,22/10/2026 15:44
+d03d06ec-0ef4-4d08-91e1-29a2fa9ac0c6,environment.vacations,available,5.57,35.53,high,medium,11,dynadot,,,22/10/2026 15:44
+fbaf4000-e979-47dc-a691-d806cfbf2e00,environment.horse,available,32.49,32.49,high,medium,11,namesilo,,,22/10/2026 15:44
+176e171a-19e6-4aa8-9aff-5c315a134cbb,environment.lawyer,premium,1639.13,3275.5,high,medium,11,porkbun,,,22/10/2026 15:44
+63f1f00d-7228-4865-b79d-b2774bdee532,environment.club,premium,750.5,17.7,high,medium,11,unstoppable,,,22/10/2026 15:44
+20b69f4f-b658-4ea2-964a-3a03ac428207,environment.osaka,available,,,high,low,11,,,,23/10/2026 09:25
+c12d1bae-7f67-4729-822c-19f78a4e8233,environment.football,available,10.92,23.76,high,medium,11,dynadot,,,22/10/2026 15:44
+c69d19d1-ba26-425b-ae5f-c87a025ba3d7,environment.news,premium,1107,1107,high,medium,11,namesilo,,,22/10/2026 15:44
+320597ef-fa98-497d-a454-bc61cd27208c,environment.software,available,32.2,32.2,high,medium,11,cloudflare,,,22/10/2026 15:44
+bf0a2c41-5a92-4664-859b-aabc52af1097,environment.game,available,279.65,341.75,high,medium,11,spaceship,,,22/10/2026 15:44
+e9e08653-620c-48f9-aeee-c2042347287d,environment.rent,available,5,81.98,high,medium,11,namecheap,,,22/10/2026 15:44
+a915894e-12e8-468f-ac7a-f8d82ca3d2f2,environment.taxi,available,6.1,58,high,medium,11,dynadot,,,22/10/2026 15:44
+862a3bf3-065f-4b56-8ab0-6e80f7b38425,environment.enterprises,available,8.48,28.15,high,medium,11,spaceship,,,22/10/2026 15:44
+28af148b-d67b-4fe6-a223-b2400a022ada,environment.productions,available,5.89,32.29,high,medium,11,spaceship,,,22/10/2026 15:44
+dd035153-89c8-48ba-b0a8-d40085c9eacd,environment.lgbt,available,10.55,64.37,high,medium,11,spaceship,,,22/10/2026 15:44
+34f56397-696a-4a43-973e-40cc773c533d,environment.kaufen,available,5.99,26.99,high,medium,11,namesilo,,,22/10/2026 15:44
+08bdba59-48e6-4ff8-8088-b03f9ceabe6e,environment.claims,available,17.99,64.99,high,medium,11,namesilo,,,22/10/2026 15:44
+fbe2c97e-b609-4040-8ead-76dbcb403229,environment.free,premium,116,116,high,medium,11,namesilo,,,22/10/2026 15:44
+ada12b7b-4f59-4e21-839f-35ac3e9f4bc0,environment.vin,available,8.99,59.99,high,medium,11,namesilo,,,22/10/2026 15:44
+b50bfe10-5690-461e-a50c-e986687d7046,environment.recipes,available,6.64,70.84,high,medium,11,dynadot,,,22/10/2026 15:44
+1de852db-9c19-43a1-b673-44124905f878,environment.music,available,38.5,38.5,high,medium,11,spaceship,,,22/10/2026 15:44
+042e9712-03dd-40e7-887a-aa1c4e188505,environment.stream,premium,362.45,51.95,high,medium,11,spaceship,,,22/10/2026 15:44
+e4fafac4-cfc7-4032-b56a-023063615e69,environment.viajes,available,99.99,99.99,high,medium,11,namesilo,,,22/10/2026 15:44
+00546d23-dbbf-420e-a807-63fdf737acf0,environment.cam,available,8.99,17.49,high,medium,11,namesilo,,,22/10/2026 15:44
+3ab42339-acb5-4335-9823-57588f9f23ed,environment.tax,available,14.99,67.49,high,medium,11,namesilo,,,22/10/2026 15:44
+02de41a6-95f3-475c-a3bc-31db43824c91,environment.art,premium,1552.7,72.65,high,medium,11,spaceship,,,22/10/2026 15:44
+c4566aec-2938-40f0-898a-7096d4708933,environment.bot,premium,116,116,high,medium,11,namesilo,,,22/10/2026 15:44
+00c0da83-31dd-4b5b-9b29-e8990623cdd4,environment.hot,premium,116,116,high,medium,11,namesilo,,,22/10/2026 15:44
+5d2e2d23-064f-4000-a66a-579c7d8e0863,environment.gift,available,14.99,14.99,high,medium,11,namesilo,,,22/10/2026 15:44
 c057fbd2-4ff5-4c51-930c-2404a75f8de3,environment.pics,available,1.99,32.49,high,medium,11,namesilo,,,22/10/2026 15:44
+43211356-402e-4df8-8b00-7b5e438a03fc,environment.tennis,available,50.2,50.2,high,medium,11,cloudflare,,,22/10/2026 15:44
+0fd21ee9-d9a1-4357-81e0-ef8a1989fa2a,environment.quest,available,1.99,17.29,high,medium,11,namesilo,,,22/10/2026 15:44
 ef99af17-d0d3-4dc7-87b0-0222cf9e05f8,environment.xyz,resell,,,high,medium,11,"Spaceship, Inc.",02/06/2014 18:31,02/06/2027 23:59,22/10/2026 15:44
 4e094c11-cec3-4c27-a9db-064303f2683a,environment.gg,available,51.6,51.6,high,medium,11,spaceship,,,22/10/2026 15:44
+a2aa1241-6f73-483b-9743-7ca499444707,environment.actor,available,16,44.49,high,medium,11,unstoppable,,,22/10/2026 15:44
+2869f749-b81c-4d24-80f6-9ab14b64eb3d,environment.gripe,available,6.99,6.99,high,medium,11,namesilo,,,22/10/2026 15:44
 d0e31a08-45a3-48ce-a391-4ef1ca14bf82,environment.dentist,available,71.98,91.98,high,medium,11,namecheap,,,22/10/2026 15:44
+79f6512e-25ae-4901-912c-75c23fb0f62f,environment.boats,available,1.99,14.45,high,medium,11,dynadot,,,22/10/2026 15:44
 1490441f-03c9-43da-b451-02335ecac683,environment.sex,available,51.95,98.53,high,medium,11,spaceship,,,22/10/2026 15:44
 a28cea7c-1e57-43b5-bc3a-ffdac57ea7cb,environment.creditcard,available,156.98,168.98,high,medium,11,namecheap,,,22/10/2026 15:44
 9f515b50-7560-4a2d-9f8a-c74a70c4f565,environment.accountants,available,117.99,117.99,high,medium,11,namesilo,,,22/10/2026 15:44
@@ -22,6 +133,7 @@ b295fd26-dc61-4a42-b34b-f6a830285c51,environment.flowers,available,64.99,114.99,
 808b6fc0-eddc-49c5-ade5-a239f45a048c,environment.diamonds,available,54.99,54.99,high,medium,11,namesilo,,,22/10/2026 15:44
 68beb26e-e89b-4ac5-9601-6b4355d653a8,environment.mortgage,available,48.2,48.2,high,medium,11,cloudflare,,,22/10/2026 15:44
 805e0a5d-d09f-4e47-8f61-73350fbdbd30,environment.now,resell,,,high,medium,11,Dynadot Inc,17/10/2026 12:45,17/10/2027 12:45,22/10/2026 15:44
+a1988b26-7ef1-4011-8a04-4c18c0480836,conservation.organic,available,10.81,68.49,high,low,12,porkbun,,,29/09/2026 23:26
 844155e3-98e5-4ed4-8d72-9cb2d7bc62df,environment.shoes,available,31.25,51.95,high,medium,11,spaceship,,,22/10/2026 15:44
 0b657c9c-6746-4ed0-b94d-f43832f10586,environment.bargains,available,11.96,24.83,high,medium,11,dynadot,,,22/10/2026 15:44
 8301adf1-398b-4d37-85ed-83f18e087e48,environment.doctor,available,5.38,93.35,high,medium,11,spaceship,,,22/10/2026 15:44
@@ -69,12 +181,12 @@ a1c9d092-4dfa-4bfa-b656-68490c24d367,environment.computer,available,17.8,31.25,h
 8573c2af-f386-4a7b-9df9-8b20bb1535ff,environment.rentals,available,10.99,44.49,high,medium,11,namesilo,,,22/10/2026 15:44
 9b5468f9-29a9-4de8-8275-c55d03c37d7e,environment.theatre,available,538.98,620,high,medium,11,namecheap,,,22/10/2026 15:44
 96e241a7-2028-4e90-be53-1b6a367ee915,environment.clinic,available,20.99,64.99,high,medium,11,namesilo,,,22/10/2026 15:44
+731fefd5-34a4-4ca5-a8e5-e4ba658c5833,habitat.eco,premium,3622.7,59.71,high,high,7,spaceship,,,25/10/2026 19:45
 1ddf29aa-0645-43a9-bc29-4b9c701ea98e,environment.media,resell,,,high,medium,11,Netregistry Wholesale Pty Ltd,08/01/2026 20:26,08/01/2027 20:26,22/10/2026 15:44
 dacda814-a704-415f-906c-3913ec97d983,environment.boston,available,,,high,low,11,,,,23/10/2026 09:25
 3828ff5a-4342-4ece-8643-decd4f703a44,environment.website,available,,,high,low,11,,,,23/10/2026 09:25
 2edfc3ee-20b8-4066-a9f4-c23576a8211b,environment.boutique,available,5.99,32.99,high,medium,11,namesilo,,,22/10/2026 15:44
 3162aa7b-d12a-4a42-a9b3-a0222b03e8e9,environment.sexy,available,2587.7,2587.7,high,medium,11,spaceship,,,22/10/2026 15:44
-670b5b53-04cf-428e-8bf3-e5e4822e716f,environment.green,premium,273.41,546.35,high,medium,11,porkbun,,,22/10/2026 15:44
 a6370785-142d-47ba-9a24-2f7afd8f82b4,environment.coffee,available,6.41,34.36,high,medium,11,spaceship,,,22/10/2026 15:44
 37ee9bfd-416a-43a7-9745-5702ab56f033,environment.condos,available,58.99,58.99,high,medium,11,namesilo,,,22/10/2026 15:44
 378069c0-db4f-4c01-9c30-d5c22b116806,environment.country,available,2140.22,2140.22,high,medium,11,dynadot,,,22/10/2026 15:44
@@ -82,6 +194,7 @@ a6370785-142d-47ba-9a24-2f7afd8f82b4,environment.coffee,available,6.41,34.36,hig
 8975994d-b242-4e67-9072-2ccd19bdd8a7,environment.sucks,available,278.98,298,high,medium,11,namecheap,,,22/10/2026 15:44
 7cff6ae9-d365-4ecd-99e5-84b3fd29375c,environment.kitchen,available,50.2,50.2,high,medium,11,cloudflare,,,22/10/2026 15:44
 d3a64b0a-a3b1-4d7c-9769-86c08b65da67,environment.srl,premium,54.28,30.68,high,medium,11,namesilo,,,22/10/2026 15:44
+1e75eedd-b5d8-4218-8523-83bdd4f8c3a3,conservation.earth,premium,71.4,71.4,high,low,12,namesilo,,,29/09/2026 23:26
 2fbf792c-8720-4f85-88a0-66768e2ab58a,environment.kiwi,available,31.98,35.68,high,medium,11,namecheap,,,22/10/2026 15:44
 2a955e6a-95cd-489c-a819-b453f2123000,environment.cricket,premium,362.45,51.95,high,medium,11,spaceship,,,22/10/2026 15:44
 a28985ac-f286-4f30-b0ec-fe8aa21fa3eb,environment.day,premium,129.2,133.72,high,medium,11,unstoppable,,,22/10/2026 15:44
@@ -97,14 +210,19 @@ d69cc382-caaf-445b-8d0b-a4ec4d6e2ca8,environment.lighting,available,23.99,23.99,
 8ef44a35-71fe-49f8-986e-b50acd52ece4,environment.money,available,10.55,28.15,high,medium,11,spaceship,,,22/10/2026 15:44
 0f705ec6-fb2f-405d-bef0-ae2b86f8a4eb,environment.mobile,premium,330,330,high,medium,11,dynadot,,,22/10/2026 15:44
 259cebee-6b9e-49a0-9104-b34a3ee02295,environment.builders,available,28.15,28.15,high,medium,11,spaceship,,,22/10/2026 15:44
+5488bb7b-9887-4c86-a8a1-b60d3ae14851,ecosystem.fans,available,4.18,8.46,high,low,9,spaceship,,,06/10/2026 08:32
 9521e757-19eb-4bb2-85f5-e65fb711c895,environment.forex,available,10.55,83,high,medium,11,spaceship,,,22/10/2026 15:44
 81f92a17-bb39-46dc-bd0f-834f3da78f5a,environment.auto,available,2140.22,2140.22,high,medium,11,dynadot,,,22/10/2026 15:44
 b08ec4f0-9567-4d73-84ca-4f12eee2c6da,environment.photography,available,5.57,33.39,high,medium,11,dynadot,,,22/10/2026 15:44
+c1069ec8-2ba8-4850-bbba-b9a0b039377d,ecosystem.gay,available,2,32.32,high,low,9,dynadot,,,06/10/2026 08:32
+6177bd17-d1d4-441c-84b5-37630e006794,ecosystem.forum,premium,110,110,high,low,9,dynadot,,,06/10/2026 08:32
 bd30cf62-c497-4ebb-a373-9ca0b96b15c7,environment.mobi,available,,,high,low,11,,,,23/10/2026 09:25
 9f6fcb43-6d7e-4ba7-9344-cd306b979576,environment.ventures,available,46.2,46.2,high,medium,11,cloudflare,,,22/10/2026 15:44
 5e08dff8-bd22-4ccf-9f5a-fbb970ed6e43,environment.studio,premium,118.8,118.8,high,medium,11,namesilo,,,22/10/2026 15:44
 d252b5b3-5242-4339-9518-7b5552d8319d,environment.glass,available,56.2,56.2,high,medium,11,cloudflare,,,22/10/2026 15:44
 b783a274-40df-44a0-8f15-05483daba155,environment.boo,premium,133.72,133.72,high,medium,11,spaceship,,,22/10/2026 15:44
+ffe914c7-c656-4907-b84d-c6e4bf9b8f7c,ecosystem.cyou,premium,68.43,147.2,high,low,9,namesilo,,,06/10/2026 08:32
+eff56a29-2a7d-4b1f-9964-4678f2e349ac,climate.green,premium,1107,1107,high,medium,7,namesilo,,,29/09/2026 10:05
 fc0a5f8e-36a9-44fe-9fa4-a6bafc03fb7b,environment.cruises,available,8.24,49.95,high,medium,11,porkbun,,,22/10/2026 15:44
 5782d151-e62b-4632-b6c9-f82e8afea949,environment.gives,available,6.41,22.39,high,medium,11,spaceship,,,22/10/2026 15:44
 4e4e6510-e32b-4759-89ad-7606a9bab880,environment.you,premium,51.95,51.95,high,medium,11,spaceship,,,22/10/2026 15:44
@@ -112,890 +230,772 @@ fc0a5f8e-36a9-44fe-9fa4-a6bafc03fb7b,environment.cruises,available,8.24,49.95,hi
 5c502089-8675-4718-b773-b6b8091da159,environment.law,resell,,,high,medium,11,"GoDaddy.com, LLC",14/08/2020 09:14,14/08/2027 09:14,22/10/2026 15:44
 f35b5785-bdc2-40cc-a1be-3720e25494c6,environment.cv,available,9.99,9.99,high,medium,11,namesilo,,,22/10/2026 15:44
 52f19fec-9fd7-4b89-9502-69aa70d4eb52,environment.surgery,available,43.67,43.67,high,medium,11,spaceship,,,22/10/2026 15:44
+dd34ea5d-0bfe-430e-88d7-941739dcf2c0,ecosystem.lgbt,available,10.92,70.84,high,low,9,dynadot,,,06/10/2026 08:32
 cde68d89-76be-4137-bb55-f467e4885be9,environment.forsale,premium,108.9,108.9,high,medium,11,dynadot,,,22/10/2026 15:44
 3f8a1e9f-d241-4aec-8cef-fcc93febe8fb,environment.tires,available,5.99,78.99,high,medium,11,namesilo,,,22/10/2026 15:44
+ec4d2c6c-d0b8-4475-be7a-907141192eb9,ecosystem.pw,resell,,,high,low,9,"GoDaddy.com, LLC",28/05/2026 02:24,28/05/2027 02:24,06/10/2026 08:32
 e9dddfb0-6eb1-4a8c-8579-123f545ae04d,environment.men,premium,385,55,high,medium,11,dynadot,,,22/10/2026 15:44
 7bfe3095-6ba4-4dc4-bba2-bde8a677e0d5,environment.skin,available,1.99,14.45,high,medium,11,dynadot,,,22/10/2026 15:44
 4e0410a6-ebfd-4568-b012-732430d218b9,environment.life,resell,,,high,medium,11,Xin Net Technology Corporation,08/11/2018 08:24,08/11/2027 08:24,22/10/2026 15:44
+01530851-96d0-40bb-b183-ee0ec83a352b,green.cleaning,premium,,,high,high,5,"GoDaddy.com, LLC",17/03/2016 17:31,17/03/2027 17:31,25/10/2026 23:21
 9b0bef28-58b7-4ac8-abc9-bdcd909d434b,environment.social,premium,118.8,118.8,high,medium,11,namesilo,,,22/10/2026 15:44
+6c232b37-3e7a-4ee4-8d60-c599b4fd26b2,green.supply,premium,128.7,128.7,high,high,5,namecheap,,,25/10/2026 23:21
+b7035729-3d5e-4fff-928e-e1457785e297,ecosystem.boston,available,24.5,18.88,high,low,9,unstoppable,,,06/10/2026 08:32
+fcd28c21-ce43-47cc-8279-0d35e58e75fe,ecosystem.one,resell,,,high,low,9,Dynadot Inc,16/06/2026 00:00,16/06/2027 00:00,06/10/2026 08:32
 81f2bf19-0c82-4bee-b60d-3acc9f25a44d,environment.events,available,15.99,69.99,high,medium,11,namesilo,,,22/10/2026 15:44
 f40ac698-8ebe-43d0-bf76-4bad6d5e40db,environment.fast,premium,53.92,53.92,high,medium,11,namesilo,,,22/10/2026 15:44
 ed50bbfd-ed30-4563-9686-1ae145914e57,environment.soccer,available,25.99,25.99,high,medium,11,namesilo,,,22/10/2026 15:44
 67745c47-b9b1-46b8-b215-4118a7778d6a,environment.marketing,available,8.99,41.99,high,medium,11,namesilo,,,22/10/2026 15:44
+0f16bf57-b06a-4bb9-b744-7eae88bb2104,green.forex,available,10.55,83,high,high,5,spaceship,,,25/10/2026 23:21
 1e790f03-89d1-467d-a183-87f782fa7f39,environment.zip,premium,37.7,37.7,high,medium,11,namecheap,,,22/10/2026 15:44
+d42c99e6-c213-4529-bb76-590848a88bff,green.how,premium,599.85,599.85,high,high,5,porkbun,,,25/10/2026 23:21
+12ea24f5-33a0-4d39-8c2b-e19850c42390,green.info,premium,3250,3250,high,high,5,namecheap,,,25/10/2026 23:21
 ed0c1e09-bf91-48f3-9e07-f91c6df5f22c,environment.place,available,22.49,22.49,high,medium,11,namesilo,,,22/10/2026 15:44
+c8622f60-9f93-4889-9aa5-4f7a73c2d85e,green.kitchen,premium,414.2,414.2,high,high,5,spaceship,,,25/10/2026 23:21
+a8ef0bf9-23fe-4667-9fb3-2f94ddb6a022,ecosystem.cam,available,1.7,14.69,high,low,9,spaceship,,,06/10/2026 08:32
 13000f83-4caf-46e7-9b89-6ee7af6741d8,environment.games,available,10.55,27.11,high,medium,11,spaceship,,,22/10/2026 15:44
+674502e3-7969-4b54-9bdf-009c2ae791e5,ecosystem.juegos,available,,,high,low,9,,,,12/10/2026 09:44
 fdb0d77e-f960-4b5d-9552-6ff7b27409f3,environment.work,premium,6900,11.8,high,medium,11,namesilo,,,22/10/2026 15:44
 b1cba7a5-594a-481d-b998-93c84143eb2b,environment.online,premium,273.44,1092.18,high,medium,11,porkbun,,,22/10/2026 15:44
+e6a9b012-7fba-4eac-a60f-478ae8f434bd,green.day,premium,,,high,high,5,InterNetX GmbH,07/02/2022 11:21,07/02/2027 11:21,25/10/2026 23:21
 ad1ad75c-3d4e-4139-8924-0d69f4f7f5a9,environment.video,premium,242,242,high,medium,11,namesilo,,,22/10/2026 15:44
 5e7fbca2-9821-456c-9a8b-5ca1638f9dc5,environment.tours,available,5.57,58,high,medium,11,dynadot,,,22/10/2026 15:44
+30d81d56-05bf-478a-8ecb-e81748ce1ff8,green.boo,premium,516.67,516.67,high,high,5,spaceship,,,25/10/2026 23:21
+0e8fb92b-3145-4df8-a1e0-6fea1671cc68,ecosystem.space,premium,258.95,1035.2,high,low,9,spaceship,,,06/10/2026 08:32
 372c5746-c063-46da-9ee7-343cb5c43821,ecosystem.organic,available,17.99,85.99,high,low,9,namesilo,,,06/10/2026 08:32
+399e23d0-8acd-4d3f-8b2e-32d56703d2cf,ecosystem.ink,available,2.99,32.49,high,low,9,namesilo,,,06/10/2026 08:32
+dc535570-8d8b-4c5d-9e0e-5e476a600090,ecosystem.so,available,,,high,low,9,,,,
+79367627-8e09-4291-8aac-e95cb926cdde,green.furniture,premium,512,512,high,high,5,namesilo,,,25/10/2026 23:21
 819bf976-fb66-4083-a194-e6b54d6bc684,environment.memorial,available,41.6,41.6,high,medium,11,spaceship,,,22/10/2026 15:44
 8270eb0c-6453-43a1-8636-4d312dd06763,environment.christmas,available,31.41,31.41,high,medium,11,porkbun,,,22/10/2026 15:44
+ba14b625-4315-4410-93ef-d2d5bdfa9bee,green.consulting,premium,,,high,high,5,,,,25/10/2026 23:21
+1b9f0945-6618-46d0-8b8e-5671607ec4cf,green.college,premium,640,640,high,high,5,namesilo,,,25/10/2026 23:21
 f13dfe9a-bc69-4464-9dda-232bc4c5476e,environment.luxury,available,26,26,high,medium,11,spaceship,,,22/10/2026 15:44
 d9d8d698-8675-4429-87fe-c1dbb34f550b,environment.press,premium,640,640,high,medium,11,namesilo,,,22/10/2026 15:44
 db690297-73e1-4ace-b6ad-2ebe3dae81c8,environment.immo,available,28.15,28.15,high,medium,11,spaceship,,,22/10/2026 15:44
 cfdc53bb-bb22-444d-b40c-ea8dfcf73d83,environment.movie,available,47.99,349.99,high,medium,11,namesilo,,,22/10/2026 15:44
+4168b2df-8de5-4471-b57d-2791e30687d3,ecosystem.cool,available,5.98,50.98,high,low,9,namecheap,,,06/10/2026 08:32
+efb95530-9a39-4a0b-9061-f0052714c549,ecosystem.win,premium,448,53.92,high,low,9,namesilo,,,06/10/2026 08:32
 1f3fd47b-bcbd-4e88-92b6-a3c98638bd4a,environment.guitars,available,108.98,159.98,high,medium,11,namecheap,,,22/10/2026 15:44
+124f6b0f-98ee-419c-81a4-a1fb9a75f200,green.republican,premium,35.4,35.4,high,high,5,namesilo,,,25/10/2026 23:21
+5ad8d733-9988-4446-a8bd-d02e286c6eb7,green.forum,premium,640,640,high,high,5,namesilo,,,25/10/2026 23:21
+83e021be-a884-4883-8d95-accd3de5d72e,green.auction,premium,440,440,high,high,5,dynadot,,,25/10/2026 23:21
+fbb8e365-7107-4b5c-9f68-425ecb03979e,ecosystem.mobi,available,3.82,41.6,high,low,9,spaceship,,,06/10/2026 08:32
+24d7ab37-e8f5-4b56-a315-f66e73d67fe8,ecosystem.international,available,12.99,31.49,high,low,9,namesilo,,,06/10/2026 08:32
 b20fb0d1-1ba0-4d01-9af0-e73dbdb1154f,environment.dog,available,3.5,60.14,high,medium,11,dynadot,,,22/10/2026 15:44
+c9d418f5-49c2-4d60-84c4-67c496dc485a,green.plumbing,premium,512,512,high,high,5,namesilo,,,25/10/2026 23:21
+6ddecaf7-c0ae-493e-a473-6a7e0bf9e6bc,green.education,premium,414.2,414.2,high,high,5,spaceship,,,25/10/2026 23:21
 72a02379-e4ea-4628-a570-5593ee111f41,environment.moi,available,25.99,25.99,high,medium,11,namesilo,,,22/10/2026 15:44
+958b6d58-fc70-4d88-ad2f-da739ffbb9a1,ecosystem.courses,available,2.19,38.99,high,low,9,namesilo,,,06/10/2026 08:32
 dc78a5fd-8bfa-4469-818f-2ac06e4c18bc,environment.salon,available,45.74,45.74,high,medium,11,spaceship,,,22/10/2026 15:44
 aa043928-a814-44ea-b2d7-dafa2d05d686,environment.auction,available,36.99,36.99,high,medium,11,namesilo,,,22/10/2026 15:44
+d6ca48b9-677e-41d8-b355-bfd34dabcb49,green.training,premium,102.67,102.67,high,high,5,spaceship,,,25/10/2026 23:21
+98832f20-c2a9-4432-9be2-611354b3ffe8,green.supplies,premium,,,high,high,5,Mesh Digital Limited,22/07/2021 11:54,22/07/2031 11:54,25/10/2026 23:21
+1f9ade6d-ade0-4c26-aaa1-364b82968aa1,ecosystem.party,premium,448,53.92,high,low,9,namesilo,,,06/10/2026 08:32
+2667de88-d0de-438a-b46b-159cc292c3f2,ecosystem.plus,resell,,,high,low,9,"DNSPod, Inc.",17/03/2020 23:49,17/03/2027 23:49,06/10/2026 08:32
 548bc4f3-2c1e-4c58-a960-69e0947cda75,environment.exchange,premium,118.8,118.8,high,medium,11,namesilo,,,22/10/2026 15:44
 a149b153-01b7-4e7a-9a93-3a3d95a761e5,environment.vet,available,36.56,36.56,high,medium,11,porkbun,,,22/10/2026 15:44
+4aae2ff8-c2ef-43e0-aa91-1b054aefc7c5,ecosystem.pics,available,1.99,32.49,high,low,9,namesilo,,,06/10/2026 08:32
+fa04fe13-8cbe-41c2-b46e-f76968feeaa1,green.cricket,premium,1035.2,103.7,high,high,5,spaceship,,,25/10/2026 23:21
 5ec94aa1-b5b4-4bbe-91ec-4bd2ca8c41e7,environment.id,resell,,,high,medium,11,PT Digital Registra Indonesia,29/12/2021 00:15,29/12/2026 23:59,22/10/2026 15:44
+4f2068dd-f5e5-4423-8975-8319457f41e0,ecosystem.domains,available,42.99,42.99,high,low,9,namesilo,,,06/10/2026 08:32
 f39405d9-6f9f-4d66-b693-9c35d9025b92,environment.giving,available,5.99,22.66,high,medium,11,porkbun,,,22/10/2026 15:44
+6422f4cc-3420-4bc7-bc6d-d09ef86e7e71,green.shiksha,premium,4140,4140,high,high,5,namesilo,,,25/10/2026 23:21
+72a8df6f-da4d-4125-a50e-4f91f15d61d4,ecosystem.pink,available,20.2,20.2,high,low,9,cloudflare,,,06/10/2026 08:32
 f6208236-a0c0-4f36-9af8-314d6b4ba9d9,environment.tickets,available,326.21,388.33,high,medium,11,spaceship,,,22/10/2026 15:44
 cd451d1b-38f0-449d-9aa8-1ef1e4f3d795,environment.rip,available,18.83,18.83,high,medium,11,spaceship,,,22/10/2026 15:44
 63493363-f234-40b1-91e2-5bb3c26e799a,environment.site,premium,258.95,1035.2,high,medium,11,spaceship,,,22/10/2026 15:44
+9a8eca69-6b4f-4afe-bb6f-3cefdca94212,ecosystem.limited,available,36.99,36.99,high,low,9,namesilo,,,06/10/2026 08:32
 0ae1b0a0-5afe-42b3-9b19-c27a5590be9a,environment.moe,premium,273.44,13.63,high,medium,11,porkbun,,,22/10/2026 15:44
 51f88bcc-869b-4368-a5c5-fc76782fbcc8,environment.cloud,premium,640,640,high,medium,11,namesilo,,,22/10/2026 15:44
+d52ef499-04d5-4af5-bee8-756d5db5545d,ecosystem.cars,available,1999.99,2199,high,low,9,namesilo,,,06/10/2026 08:32
 7e7bc3f4-00c0-4ca3-bc20-bfd0cccae8fa,environment.melbourne,available,58,58,high,medium,11,namesilo,,,22/10/2026 15:44
 1234d875-a646-4b5b-9bde-6534f2029912,environment.global,premium,1242.2,51.95,high,medium,11,spaceship,,,22/10/2026 15:44
 adc75d3b-9328-4686-a885-fb4cd7c8711b,environment.faith,premium,640,77.35,high,medium,11,namesilo,,,22/10/2026 15:44
-948cf3b8-d3e0-42ef-9f95-500b2d2fa354,green.garden,resell,,,high,medium,5,"GoDaddy.com, LLC",28/01/2019 02:25,28/01/2027 02:25,22/10/2026 13:28
+9489b7b3-66d1-490f-b7f3-23464cd47e86,ecosystem.fishing,premium,96,29.5,high,low,9,namesilo,,,06/10/2026 08:32
+683c7eae-4336-46a3-bd66-d75df0b47353,ecosystem.christmas,available,1.24,31.16,high,low,9,spaceship,,,06/10/2026 08:32
+2df6d719-78c9-4515-b3ad-2b0b1eaf7ebc,green.space,premium,13800,13800,high,high,5,namesilo,,,25/10/2026 23:21
+60875a9c-0c70-4d63-b343-129245112580,ecosystem.date,premium,390,65,high,low,9,namecheap,,,06/10/2026 08:32
+463538b6-9d98-482d-8fd0-fffaccb87d34,ecosystem.audio,available,100.2,100.2,high,low,9,cloudflare,,,06/10/2026 08:32
+476de709-1daa-4e4a-b1dc-c897438e8235,ecosystem.shopping,available,23.2,23.2,high,low,9,cloudflare,,,06/10/2026 08:32
+c8c78a8a-3f19-44f4-bce8-6200d4734fec,ecosystem.ing,premium,362.45,362.45,high,low,9,spaceship,,,06/10/2026 08:32
 3590483b-4ad7-4a83-b92c-d80375c6606e,environment.tips,available,8.24,29.11,high,medium,11,dynadot,,,22/10/2026 15:44
 1d0eb71f-4a1d-43f6-9257-ea616dc88ea3,environment.cool,available,5.38,36.43,high,medium,11,spaceship,,,22/10/2026 15:44
+6a9de960-2527-41c9-8513-2cd87d532d1f,ecosystem.fitness,available,32.2,32.2,high,low,9,cloudflare,,,06/10/2026 08:32
 508d1d99-09d7-4f6c-80d5-a9a18c0ebdf1,environment.foo,premium,30.22,30.22,high,medium,11,spaceship,,,22/10/2026 15:44
+4452213d-7cbe-4cfc-8a8a-12cc4fadd8f2,ecosystem.boo,premium,133.72,133.72,high,low,9,spaceship,,,06/10/2026 08:32
 f0b650f0-2375-468f-b8d2-9f85c81197cf,environment.fail,available,38.99,38.99,high,medium,11,namesilo,,,22/10/2026 15:44
+e216b31a-5b3e-4e9b-be94-8751da8cb193,ecosystem.pizza,available,5.38,51.95,high,low,9,spaceship,,,06/10/2026 08:32
 97d1faad-e212-4d5b-b30b-bef84a5413b8,environment.red,available,8.24,21.11,high,medium,11,porkbun,,,22/10/2026 15:44
 661a992f-18f4-4ad6-8b1a-6d9889139874,environment.bar,premium,65.41,93.35,high,medium,11,spaceship,,,22/10/2026 15:44
+58cfaff0-9600-46c8-b51d-919da982d349,ecosystem.promo,available,14.49,24.99,high,low,9,namesilo,,,06/10/2026 08:32
 13a3cd46-fa27-45b1-b0f4-30e8df031548,environment.catering,available,38.99,38.99,high,medium,11,namesilo,,,22/10/2026 15:44
+d8cbcb61-de9a-4f17-a233-4329c77a0915,green.hot,premium,1035.2,1035.2,high,high,5,spaceship,,,25/10/2026 23:21
 a8470546-e43b-424e-9634-7801e3620d56,environment.apartments,available,57.99,57.99,high,medium,11,namesilo,,,22/10/2026 15:44
+1eb28d61-5972-4e10-b9f5-5e4ad039d9ae,ecosystem.rentals,available,6.41,35.39,high,low,9,spaceship,,,06/10/2026 08:32
+1bfd5163-6a3b-47c0-a35c-19e3645acb6e,green.dating,premium,,,high,high,5,"GoDaddy.com, LLC",21/02/2017 21:24,21/02/2027 21:24,25/10/2026 23:21
 106b9c4f-0438-493a-b922-e01aa6750524,environment.exposed,available,22.49,22.49,high,medium,11,namesilo,,,22/10/2026 15:44
+704b78c5-a327-4920-8056-c3860addf9d2,ecosystem.deal,available,38.99,38.99,high,low,9,namesilo,,,06/10/2026 08:32
+6b9ec3b4-eabb-47b0-a4cd-3f0822c0d149,green.attorney,premium,520,520,high,high,5,namecheap,,,25/10/2026 23:21
+adb9021d-ff1c-43cc-a151-e891171292b4,ecosystem.vin,available,6.98,75.98,high,low,9,namecheap,,,06/10/2026 08:32
 924f8d74-7365-4f96-ad35-7e51462993c1,environment.healthcare,available,68.2,68.2,high,medium,11,cloudflare,,,22/10/2026 15:44
 c37b0017-a86a-4840-afeb-4767ef08442b,environment.fyi,resell,,,high,medium,11,"GoDaddy.com, LLC",02/07/2024 16:47,02/07/2027 16:47,22/10/2026 15:44
 80e6c926-489f-48a2-abc9-8f077db926ff,environment.rehab,available,29.18,29.18,high,medium,11,spaceship,,,22/10/2026 15:44
+7303926b-0683-4a62-9344-8cbab84e525e,green.university,premium,118.8,118.8,high,high,5,namesilo,,,25/10/2026 23:21
 3b4b4058-bdfc-40e1-96d1-2762e926eb1e,environment.engineer,premium,66,66,high,medium,11,dynadot,,,22/10/2026 15:44
+7b50c55c-e72f-4bc9-a95b-a47aa4c6a89d,energy.solar,available,,,high,medium,6,,,,12/10/2026 09:54
 b6293887-c2ed-4320-a5b9-9024fc966da5,environment.town,available,6.41,29.18,high,medium,11,spaceship,,,22/10/2026 15:44
+1eda9801-a764-41a6-b200-aec05eabadc6,ecosystem.hamburg,available,69.98,73.98,high,low,9,namecheap,,,06/10/2026 08:32
 5fbfe371-14f6-477b-bae6-759078cd430c,environment.irish,available,7,22.49,high,medium,11,unstoppable,,,22/10/2026 15:44
+70b146a5-0353-4091-9893-f09ace887b9d,green.fast,premium,640,640,high,high,5,namesilo,,,25/10/2026 23:21
+a96c0f1c-4c82-4b40-acb6-5a4e5d666380,green.tv,premium,,,high,high,5,"Cloudflare, Inc.",16/06/2005 18:39,16/06/2027 18:39,25/10/2026 23:21
+a4ec52ca-e075-44c6-9a8c-1b1e29768ce6,ecosystem.florist,available,26.08,26.08,high,low,9,spaceship,,,06/10/2026 08:32
+3c524e57-b8ab-4dcf-ac25-c2f9c7c9a710,ecosystem.limo,available,54.99,54.99,high,low,9,namesilo,,,06/10/2026 08:32
+2d1f7f04-d028-4301-aaae-e7af4b6ad1e6,ecosystem.loan,premium,448,53.92,high,low,9,namesilo,,,06/10/2026 08:32
+6edce79a-3418-41dd-ade6-82193b2fd802,green.icu,premium,384,768,high,high,5,namesilo,,,25/10/2026 23:21
+8f564ca4-64ee-465d-a968-69ae2a7cf860,green.lifestyle,premium,2660,2660,high,high,5,namesilo,,,25/10/2026 23:21
+837399b4-ba47-49a1-9ce0-02fb6e6f31e7,ecosystem.moi,available,25.99,25.99,high,low,9,namesilo,,,06/10/2026 08:32
+75ecd89f-e3c7-42f0-8602-81e5df4ec93e,ecosystem.theater,available,51.95,51.95,high,low,9,spaceship,,,06/10/2026 08:32
+f9c5f9a3-9913-4711-811d-112d1754a902,ecosystem.fish,premium,118.8,118.8,high,low,9,namesilo,,,06/10/2026 08:32
+ce5994d3-4b28-49fe-b900-111c5bb861e2,ecosystem.gifts,available,8.24,33.39,high,low,9,dynadot,,,06/10/2026 08:32
 a5e4abe5-4c1d-432f-aee3-615480a4c717,environment.win,premium,448,53.92,high,medium,11,namesilo,,,22/10/2026 15:44
 b2bf9778-4caf-4708-b489-899faae7401f,environment.delivery,available,6.5,61.99,high,medium,11,unstoppable,,,22/10/2026 15:44
+2af595f5-77d0-4167-8d59-f9c5a451d4e2,green.talk,premium,640,640,high,high,5,namesilo,,,25/10/2026 23:21
+a9c84474-35c3-4c41-a265-d1cc233df032,ecosystem.stream,premium,448,53.92,high,low,9,namesilo,,,06/10/2026 08:32
+f95446b6-ea74-4957-a367-33ff49b12ae5,ecosystem.love,resell,,,high,low,9,"Chengdu West Dimension Digital Technology Co., LTD",19/08/2026 05:44,19/08/2027 05:44,06/10/2026 08:32
+51ba8773-2795-434b-b3f2-1af03b7d1054,green.voto,available,26.5,55.93,high,high,5,unstoppable,,,25/10/2026 23:21
+56315c82-8a6a-4f05-9563-ce2d729939cb,green.desi,available,19.98,22.98,high,low,5,namecheap,,,03/10/2026 05:34
+0ba63264-29e4-4398-bacd-ca56c3a8d065,ecosystem.show,available,18,34.2,high,low,9,unstoppable,,,06/10/2026 08:32
 44884630-276c-4920-9fec-c02ab3a36b5d,environment.limited,available,36.99,36.99,high,medium,11,namesilo,,,22/10/2026 15:44
+f3ebb0c4-8090-4563-9314-4b73d83bd9e1,green.dance,premium,99.5,102.67,high,high,5,unstoppable,,,25/10/2026 23:21
+e0c12c13-0759-4f71-9f68-48740625ed52,ecosystem.la,available,27.99,27.99,high,low,9,namesilo,,,06/10/2026 08:32
 1c25300f-5e86-43bb-b74b-b3ea5ed5fa78,environment.bond,premium,59.71,119.23,high,medium,11,spaceship,,,22/10/2026 15:44
 701c3cb8-275f-4e36-b96e-aa2dfb3a3b8f,environment.house,available,34.2,34.2,high,medium,11,cloudflare,,,22/10/2026 15:44
 32e64314-5bf5-426d-bdc9-b418e0ff5bb7,environment.gmbh,available,59.99,59.99,high,medium,11,namesilo,,,22/10/2026 15:44
+e9e90877-7a34-4da6-92f8-a51f8f17f941,green.moda,premium,102.67,102.67,high,high,5,spaceship,,,25/10/2026 23:21
+93b0f0f2-66af-4377-bbb8-417c1345de82,ecosystem.giving,available,7.48,35.98,high,low,9,namecheap,,,06/10/2026 08:32
+df9e09bf-a1e5-4b1c-81f2-944551b797bc,ecological.organic,available,17.99,85.99,high,low,10,namesilo,,,05/10/2026 17:06
+9c36f9b1-7af4-46c4-bc0b-cb1b4e2f913e,ecosystem.poker,available,10.5,67.99,high,low,9,unstoppable,,,06/10/2026 08:32
 21b9cc9e-9ebf-4b13-a27a-76cc50adc8fa,environment.shiksha,available,14.99,51.99,high,medium,11,namesilo,,,22/10/2026 15:44
+3eb1b778-9c0c-4997-8bdb-1e1212cdaba6,ecosystem.ag,available,89.99,79.99,high,low,9,namesilo,,,06/10/2026 08:32
+6b55aebd-aadd-4e68-94a4-fa7f1b193743,ecosystem.school,available,36.49,36.49,high,low,9,namesilo,,,06/10/2026 08:32
+0dc3f1ba-39ef-4237-8954-4286bed63c1b,green.pw,premium,2587.5,2587.5,high,high,5,spaceship,,,25/10/2026 23:21
+109e06d3-101b-461e-b922-d000e6e63b95,ecosystem.consulting,resell,,,high,low,9,"GoDaddy.com, LLC",04/01/2026 14:28,04/01/2027 14:28,06/10/2026 08:32
 cd407e39-d02b-4751-a54a-393b3ff11878,environment.cafe,available,5.38,41.6,high,medium,11,spaceship,,,22/10/2026 15:44
+dc640484-7da1-4e3e-be4d-99ee46bb77c1,ecosystem.paris,available,,,high,low,9,,,,12/10/2026 09:44
 898d030d-f0ee-4b98-ac52-3a725a1b1579,environment.talk,premium,71.4,71.4,high,medium,11,namesilo,,,22/10/2026 15:44
 feda2fa8-f831-48b7-a3b2-471df840ff49,environment.solar,available,64.99,64.99,high,medium,11,namesilo,,,22/10/2026 15:44
 6219b87c-6ca9-4289-b508-c3c45480e7c2,environment.yoga,available,26.08,26.08,high,medium,11,spaceship,,,22/10/2026 15:44
 3796fae5-d9a1-4568-a372-5bb24da8a280,environment.florist,available,31.98,41.98,high,medium,11,namecheap,,,22/10/2026 15:44
+eb9961b6-8078-43ef-a07d-ba5764df3769,green.construction,premium,512,512,high,high,5,namesilo,,,25/10/2026 23:21
+08eb7873-40d9-48ab-b68a-0b445013874e,ecosystem.faith,available,11.99,11.99,high,low,9,namesilo,,,06/10/2026 08:32
 47b20954-70fb-480d-af3b-a1ec7b5af155,environment.download,premium,455,65,high,medium,11,namecheap,,,22/10/2026 15:44
+d23588dc-5287-4420-87a1-77dcf657aaad,ecosystem.apartments,available,45.74,45.74,high,low,9,spaceship,,,06/10/2026 08:32
+45adc856-1462-4eec-9e67-ab64a2747076,ecosystem.game,available,309.99,429.99,high,low,9,namesilo,,,06/10/2026 08:32
+854bca1f-9a77-474b-9f3f-6a6f4cb5e437,ecosystem.careers,available,26.08,57.13,high,low,9,spaceship,,,06/10/2026 08:32
+b2e280ec-fb96-4268-9ec4-ba942f3bf2b9,ecosystem.accountants,available,117.99,117.99,high,low,9,namesilo,,,06/10/2026 08:32
 fc685862-8ac7-46c6-a4cb-e6ea7a7df3dc,environment.cc,resell,,,high,medium,11,"22net, Inc.",20/08/2013 08:01,20/08/2027 08:01,22/10/2026 15:44
 ece61d31-3747-426d-9eb0-9e8dfe616187,environment.cleaning,available,60.23,60.23,high,medium,11,spaceship,,,22/10/2026 15:44
+28993fa1-fa23-402a-9958-084054b20c0b,ecosystem.gripe,available,5.38,5.38,high,low,9,spaceship,,,06/10/2026 08:32
 656a7e36-79a6-4a05-b769-0455da743d25,environment.car,available,1863.2,2064.2,high,medium,11,spaceship,,,22/10/2026 15:44
 e91ecdc4-5fe5-4f13-b432-dcc2f42b5967,environment.legal,available,57.13,57.13,high,medium,11,spaceship,,,22/10/2026 15:44
 31becb36-acb3-4aca-bd0e-ff35fe31d7a9,environment.lease,available,8.24,46.23,high,medium,11,dynadot,,,22/10/2026 15:44
+f1bce1bb-27ae-4f75-968b-f85f45741592,ecosystem.coffee,available,16.99,42.99,high,low,9,namesilo,,,06/10/2026 08:32
 e510270e-b742-4413-822f-c1aae8787c05,environment.golf,available,50.2,50.2,high,medium,11,cloudflare,,,22/10/2026 15:44
+54e785b3-5643-4428-b7b5-3c1481b38f44,green.delivery,premium,,,high,high,5,Dynadot Inc,28/04/2022 13:15,28/04/2027 13:15,25/10/2026 23:21
 c5627c0d-9bab-4cbc-96f7-6ef563bf6c74,environment.cards,available,38.99,38.99,high,medium,11,namesilo,,,22/10/2026 15:44
+d07fea1a-5198-4f83-9c35-4e47f8245ef3,ecosystem.prof,premium,164.77,164.77,high,low,9,spaceship,,,06/10/2026 08:32
+ec34bf4a-d522-4e77-b4b9-8ea35c11cee4,energy.space,premium,2587.7,10350.2,high,medium,6,spaceship,,,08/10/2026 08:27
+4fbf5182-49c9-464f-bbc1-191c670614dc,green.love,premium,7280,10400,high,high,5,namecheap,,,25/10/2026 23:21
+17604fd7-4650-4327-b859-427c4358581b,ecosystem.sex,available,69.98,154.98,high,low,9,namecheap,,,06/10/2026 08:32
+3dc5ae3a-fe72-4058-9701-90726027fc9a,ecosystem.tires,available,72.44,72.44,high,low,9,spaceship,,,06/10/2026 08:32
+dc871546-5539-4f61-a3f1-ce8c6005af14,green.luxe,premium,854,17.7,high,high,5,namesilo,,,25/10/2026 23:21
+ca1f2f8f-f4fb-429f-9e98-683208025aff,green.mov,premium,1034.17,1034.17,high,high,5,spaceship,,,25/10/2026 23:21
+7819dcca-0864-419d-bbde-c1e07e5e54cb,green.lawyer,premium,218.8,437.19,high,high,5,porkbun,,,25/10/2026 23:21
+c2eace44-8c7c-481f-80c6-0e827fca5c23,green.cars,available,1863.2,2064.2,high,high,5,spaceship,,,25/10/2026 23:21
 d9d63f1d-5a2a-4504-bef9-471f38066e29,environment.inc,premium,2061.5,2660,high,medium,11,namesilo,,,22/10/2026 15:44
 60db2fc5-f453-4eca-9ec2-c5af954ca847,environment.care,resell,,,high,medium,11,GoDaddy Online Services Cayman Islands Ltd.,12/12/2015 07:16,12/12/2026 07:16,22/10/2026 15:44
+06bbccc7-06bf-4c18-92fc-e8da2b6afad2,ecosystem.fashion,available,32.49,32.49,high,low,9,namesilo,,,06/10/2026 08:32
 b9454105-bbd4-48a9-a734-6b8aa3e0bbf5,environment.date,premium,330,55,high,medium,11,dynadot,,,22/10/2026 15:44
+1bd4bc4b-090d-4a8e-9095-00f01f0f8b14,ecosystem.exposed,available,22.98,28.98,high,low,9,namecheap,,,06/10/2026 08:32
 8c06c940-fcec-4a4e-ab17-1a9ecd41ae3d,conservation.green,premium,,,high,low,12,,,,29/09/2026 23:26
+3dd2a933-7b77-4765-8dc0-2b73b040722c,ecosystem.news,premium,118.8,118.8,high,low,9,namesilo,,,06/10/2026 08:32
+ff289afd-f415-48e3-b13a-5b52fbad4751,ecosystem.soccer,available,27.48,29.48,high,low,9,namecheap,,,06/10/2026 08:32
 54e892ce-abd6-4c47-b768-d470471f29a9,environment.gay,available,2.99,38.99,high,medium,11,namesilo,,,22/10/2026 15:44
+5736c73d-281f-4f9f-b3cb-0d2db609b24b,energy.fun,premium,647.08,2587.7,high,medium,6,spaceship,,,08/10/2026 08:27
 3c55ca51-d7c5-4087-aee4-51b1482ebc9f,environment.ac,available,45,45,high,medium,11,cloudflare,,,22/10/2026 15:44
+fd158f37-b600-47e3-bcc9-489c90b4b927,green.accountant,premium,517.7,67.48,high,high,5,spaceship,,,25/10/2026 23:21
 b3e14b94-214d-48af-a487-2f2df1d41a96,environment.tech,premium,13800,13800,high,medium,11,namesilo,,,22/10/2026 15:44
+76a35aee-ddb7-4380-9c98-94c75cdfc6d5,ecosystem.republican,available,7.49,28.99,high,low,9,namesilo,,,06/10/2026 08:32
 0218ed51-480c-47bf-9eb8-848e1865ea05,environment.moda,available,41.99,41.99,high,medium,11,namesilo,,,22/10/2026 15:44
 7becaaf0-dac3-45aa-842e-1a681b8bb394,environment.camp,available,62.99,62.99,high,medium,11,namesilo,,,22/10/2026 15:44
+6299b058-f428-4a76-b8c8-e013cbb24823,green.review,premium,10350.2,103.7,high,high,5,spaceship,,,25/10/2026 23:21
+fbf870c5-9b5d-4da8-862b-73ca4749a956,ecosystem.photography,available,6.41,29.18,high,low,9,spaceship,,,06/10/2026 08:32
+7d10508b-c480-44e7-bf52-66353e82145b,ecosystem.living,premium,362.45,517.7,high,low,9,spaceship,,,06/10/2026 08:32
+3bfa8809-ff64-4d0e-96c9-2888230fb4ee,green.nexus,premium,1298.7,1298.7,high,high,5,namecheap,,,25/10/2026 23:21
+64dc7be9-c49e-4f9c-ba3b-7a52579ad18f,ecosystem.horse,available,26.08,26.08,high,low,9,spaceship,,,06/10/2026 08:32
+c186c76e-3a4f-4f54-b517-703014c56848,ecosystem.ceo,available,9.99,107.22,high,low,9,dynadot,,,06/10/2026 08:32
+20ce72a6-d88c-4f80-9ad5-4599ef3b5d77,sustainability.us,resell,,,high,low,14,Go China Domains Inc,02/07/2008 18:04,01/07/2027 23:59,26/09/2026 09:26
+fc7ccad8-266d-4894-9d8a-85ece7a68daf,ecosystem.mom,available,1.24,26,high,low,9,spaceship,,,06/10/2026 08:32
+ae8cfb7e-dd62-443a-9b3b-681d4fff2a60,green.loan,premium,,,high,high,5,"CSC Corporate Domains, Inc.",09/06/2022 06:32,09/06/2027 06:32,25/10/2026 23:21
+baa0a217-6aef-4741-bc9a-793194a44746,ecosystem.services,resell,,,high,low,9,Dynadot Inc,03/02/2020 08:41,03/02/2027 08:41,06/10/2026 08:32
 19e24f28-81e9-4cc2-ae61-daa1dba72f40,environment.deals,available,31.25,31.25,high,medium,11,spaceship,,,22/10/2026 15:44
 05256ed6-7e95-4bfd-bede-e0f2107f8975,environment.engineering,resell,11.99,,high,medium,11,Dynadot Inc,03/04/2026 05:10,03/04/2027 05:10,22/10/2026 15:44
+b52b86f5-9b9c-4c2c-a866-c03647269bc4,ecosystem.kaufen,available,23.2,23.2,high,low,9,cloudflare,,,06/10/2026 08:32
+0f0d3bac-d301-45b7-b98f-8321f3c72a2e,green.guitars,available,104.99,114.99,high,high,5,namesilo,,,25/10/2026 23:21
 4743fe75-4c5b-45a2-87a8-0d8f04094f07,environment.buzz,premium,116,53.92,high,medium,11,namesilo,,,22/10/2026 15:44
+c31ec8b5-5a44-4102-b2cd-404528dfefd6,ecosystem.shoes,available,31.25,51.95,high,low,9,spaceship,,,06/10/2026 08:32
+42552e8e-652d-4d9a-81ea-0b259426abe9,habitat.build,premium,517.7,517.7,high,high,7,spaceship,,,25/10/2026 19:45
+2fc48155-eaa7-4e4b-880c-c53b6f7cef74,habitat.my,premium,550,550,high,high,7,dynadot,,,22/10/2026 09:32
+65112562-c4fb-49fb-b813-f2744591031c,ecosystem.menu,available,27.99,27.99,high,low,9,namesilo,,,06/10/2026 08:32
+e041239a-7f0d-4a12-af59-ec263e42428e,energy.holiday,available,64.99,64.99,high,medium,6,namesilo,,,08/10/2026 08:27
 5cadfa1e-d635-429c-841d-af829602d839,environment.expert,premium,118.8,118.8,high,medium,11,namesilo,,,22/10/2026 15:44
 5ab0b733-b3d3-4fe4-b4d7-b7333c175fb1,environment.community,available,59.99,59.99,high,medium,11,namesilo,,,22/10/2026 15:44
+910f6198-a3e9-466b-bad9-697d765dc2dc,energy.catering,premium,68.51,68.51,high,medium,6,spaceship,,,08/10/2026 08:27
+f258bf96-f952-4b12-ad94-c16623e5f5ef,ecosystem.buzz,premium,242,116,high,low,9,namesilo,,,06/10/2026 08:32
+4ca22c5f-987f-4162-99f2-71fbebf75403,green.study,premium,207.2,207.2,high,high,5,spaceship,,,25/10/2026 23:21
 c47e3ae6-55e3-44c1-9261-182bdc4cb641,environment.bayern,available,34.99,34.99,high,medium,11,namesilo,,,22/10/2026 15:44
+98604bc1-a3f6-4af9-ba74-c486c6a15073,conservation.us,resell,,,high,low,12,"GoDaddy.com, LLC",31/05/2004 23:23,30/05/2027 23:59,29/09/2026 23:26
+f78ed779-9c8f-4c19-86ae-c1141b898946,green.cab,premium,242,242,high,high,5,namesilo,,,25/10/2026 23:21
+822a2cf1-600c-4d60-9dc4-dd6386288db9,energy.free,premium,517.7,517.7,high,medium,6,spaceship,,,08/10/2026 08:27
 861d43cc-767e-48e2-8eab-81929979c7d9,ecosystem.icu,premium,59.71,119.23,high,low,9,spaceship,,,06/10/2026 08:32
+44785832-0ca5-4358-8c4a-b28f83ae1546,ecosystem.voyage,available,58.99,58.99,high,low,9,namesilo,,,06/10/2026 08:32
+9e5b1c5f-6608-4b52-a136-bb7c914ecefd,ecosystem.pictures,available,12.62,12.62,high,low,9,spaceship,,,06/10/2026 08:32
 a716fd7c-4339-4207-84f2-d2dafde0d5d0,environment.nexus,premium,29.2,30.22,high,medium,11,unstoppable,,,22/10/2026 15:44
+31f21f41-b794-422c-90e1-82bd53dd903b,energy.mx,resell,,,high,medium,6,Registrar.eu,10/12/2022 00:00,10/12/2026 00:00,08/10/2026 08:27
+9b0f3167-28d7-456a-82ca-b11a3329ff84,energy.boston,available,,,high,medium,6,,,,12/10/2026 09:53
+fb40e6bf-caa5-4bd1-9e22-1fe6b763dd0d,energy.actor,premium,68.51,68.51,high,medium,6,spaceship,,,08/10/2026 08:27
+ace0e763-65ca-4d53-93f6-aed3cd742f22,energy.cool,resell,,,high,medium,6,Squarespace Domains II LLC,04/07/2015 06:19,04/07/2027 06:19,08/10/2026 08:27
+785758a1-8ec6-478a-b7e4-cb05fc7064b2,ecosystem.bid,premium,385,55,high,low,9,dynadot,,,06/10/2026 08:32
+edf064ab-4b96-4c57-bd82-d5de30af93db,green.cam,premium,828.2,14.69,high,high,5,spaceship,,,25/10/2026 23:21
 38252bc5-5f42-40d8-b18f-1863f06d3fb9,environment.center,available,4.34,26.08,high,medium,11,spaceship,,,22/10/2026 15:44
 1e5969aa-c50f-4079-ba8b-b38cb77e5e90,environment.cyou,premium,74.75,149.5,high,medium,11,namecheap,,,22/10/2026 15:44
+4e87083f-e0f0-4264-934e-803db8afbe21,green.blackfriday,available,103.7,103.7,high,high,5,spaceship,,,25/10/2026 23:21
+bbe90f16-52dc-4c50-84c8-0ec29d34ec64,ecosystem.markets,available,15.2,15.2,high,low,9,cloudflare,,,06/10/2026 08:32
+45c8d882-3378-48aa-9577-f5da59fb34a3,conservation.so,available,68.98,,high,low,12,namecheap,,,
 5244b14c-4f33-4eb7-996e-c5bfa848f33e,environment.fund,premium,78.54,78.54,high,medium,11,namesilo,,,22/10/2026 15:44
 461b3c28-7b05-4ba4-9995-f372bc4d9996,environment.limo,available,10.92,45.16,high,medium,11,dynadot,,,22/10/2026 15:44
+80dda5e3-8e39-4b0d-acfe-0caf5790113b,energy.hospital,available,45.74,45.74,high,medium,6,spaceship,,,08/10/2026 08:27
+dbd11743-25fc-41ee-ad17-eb4120b86bcf,green.theatre,available,509.99,529.99,high,high,5,namesilo,,,25/10/2026 23:21
 75f1f6b9-05f8-4fc8-b0ff-70790c910e22,environment.ag,available,89.99,79.99,high,medium,11,namesilo,,,22/10/2026 15:44
+fcb4fa4b-4641-4220-9954-771703b26b39,habitat.motorcycles,available,1.8,21.98,high,high,7,namecheap,,,25/10/2026 19:45
+3badd976-6d71-44a7-b8f0-80f33ce96717,habitat.barcelona,available,25.04,25.04,high,high,7,spaceship,,,25/10/2026 19:45
+f5581cfd-a00d-4f35-832a-0f99f13d36c2,ecosystem.dad,premium,129.2,,high,low,9,unstoppable,,,06/10/2026 08:32
 6064a8ab-8cd2-4794-a8c2-0646f60b5bff,environment.immobilien,available,29.2,29.2,high,medium,11,cloudflare,,,22/10/2026 15:44
+01c6f2a6-1b34-404c-8256-b6c2aaf3c58a,ecological.green,premium,1107,1107,high,low,10,namesilo,,,05/10/2026 17:06
+446ce2d2-eff1-40f4-81b9-f5544719b44a,green.art,premium,3105.2,72.65,high,high,5,spaceship,,,25/10/2026 23:21
 529d1de4-bd12-46f0-bd04-a660d7595327,environment.family,premium,108.9,108.9,high,medium,11,dynadot,,,22/10/2026 15:44
+a8763719-4d20-4a69-9029-a8da90ecc344,energy.sale,available,,,high,medium,6,,,,12/10/2026 09:54
 206d4bba-561e-4285-ae0e-b1c336d7227a,environment.dad,premium,133.72,133.72,high,medium,11,spaceship,,,22/10/2026 15:44
+621345f3-da58-49a1-a419-72f693ef1fa8,habitat.audio,available,104.99,114.99,high,high,7,namesilo,,,25/10/2026 19:45
+25de3415-b8f5-45aa-9d8e-d3ad3605c268,green.gifts,premium,68.51,68.51,high,high,5,spaceship,,,25/10/2026 23:21
+d6a66e81-4014-4336-8c84-b91f399ddc1e,ecosystem.meme,premium,93.35,93.35,high,low,9,spaceship,,,06/10/2026 08:32
 1fbceaa5-3faf-4855-88ee-92f3ac9d3b8b,ecosystem.app,resell,,,high,low,9,Porkbun LLC,08/05/2018 16:01,08/05/2027 16:01,06/10/2026 08:32
+e9f0a18e-4691-41d4-8abb-40fac90deee0,conservation.enterprises,available,3.6,28.32,high,low,12,porkbun,,,29/09/2026 23:26
+236554a3-2e84-414b-a6bc-09e2baf13534,green.prof,premium,843.7,843.7,high,high,5,namecheap,,,25/10/2026 23:21
 30d25601-befe-4d9c-bf8a-7490ff0f1010,environment.hamburg,available,69.98,73.98,high,medium,11,namecheap,,,22/10/2026 15:44
+83175a48-699e-43ec-87ba-bb2d70437f0d,energy.co,resell,,,high,medium,6,Hello Internet Corp.,25/02/2010 00:26,24/02/2027 23:59,08/10/2026 08:27
+d312dda0-1331-469e-9b8d-269ca188fabb,ecosystem.xxx,available,51.95,98.53,high,low,9,spaceship,,,06/10/2026 08:32
+e812917a-20a8-4138-9214-2cee9eb08d34,ecosystem.engineer,available,31.25,31.25,high,low,9,spaceship,,,06/10/2026 08:32
+5eee9149-e128-4a18-9868-97ad9f2c09fe,energy.menu,available,,,high,medium,6,,,,12/10/2026 09:54
+e60c5705-0a1d-4202-aa97-26ad2baa51be,green.press,premium,3275.5,3275.5,high,high,5,porkbun,,,25/10/2026 23:21
 0bbdf335-65fd-452a-8c45-5ce239601862,environment.gold,available,6.93,83,high,medium,11,spaceship,,,22/10/2026 15:44
+0d8bc892-7698-490a-9b0e-583abe4ed87a,sustainability.at,available,,,high,low,14,,,,
+8ba2f0cf-ce3f-443d-b8a2-5d00bfdb3a3b,ecosystem.archi,available,13.14,83,high,low,9,spaceship,,,06/10/2026 08:32
+80aaf320-f9c4-4783-b527-ba583d270cb0,ecosystem.pub,available,37.32,37.32,high,low,9,dynadot,,,06/10/2026 08:32
 eb3809f5-94a5-44bd-ba1e-8d0dc510b55f,environment.finance,available,15.73,51.95,high,medium,11,spaceship,,,22/10/2026 15:44
+3a37bf89-eb3e-4e3c-ac01-de0a2327416d,green.camera,premium,512,512,high,high,5,namesilo,,,25/10/2026 23:21
+77bdef8a-6e40-49fb-bae9-a8b8468018a0,conservation.help,available,2.19,32.49,high,low,12,namesilo,,,29/09/2026 23:26
+43ff6412-ddf4-4bea-873a-7bb264c11398,energy.page,premium,638.72,638.72,high,medium,6,namesilo,,,08/10/2026 08:27
+d5baf452-f62e-4e13-a9ee-fda3aaa4c93f,conservation.attorney,premium,4140,4140,high,low,12,namesilo,,,29/09/2026 23:26
 38cff443-886f-45bc-9b62-83691c3a1cd9,environment.black,available,15.73,51.95,high,medium,11,spaceship,,,22/10/2026 15:44
 37ec95b4-c0bd-4e20-8927-0d81db0e317b,ecosystem.sydney,available,44.98,54.98,high,low,9,namecheap,,,06/10/2026 08:32
+16aec58b-75e0-481a-81f9-90c8cb1ba07d,ecosystem.men,premium,362.45,51.95,high,low,9,spaceship,,,06/10/2026 08:32
+b5025d5f-fddb-4777-bfa1-42ad4de54fb5,green.watch,premium,,,high,high,5,OVH SAS,01/03/2021 12:11,01/03/2027 12:11,25/10/2026 23:21
+3d992466-ae6c-4ef8-abc3-915a1019d94a,conservation.pictures,available,12.62,12.62,high,low,12,spaceship,,,29/09/2026 23:26
 4263db96-59a4-4f35-bf79-bbd0abf0a54a,environment.voyage,available,61.98,73.98,high,medium,11,namecheap,,,22/10/2026 15:44
 f663f250-0e87-41c9-8911-799b761376af,environment.cheap,available,5.57,30.18,high,medium,11,dynadot,,,22/10/2026 15:44
+b138cbec-5580-4a8b-97a1-020e4b05e65e,energy.consulting,available,,,high,medium,6,,,,12/10/2026 09:53
+c05afbf3-378b-4e58-8b3b-ff17790535c8,energy.cx,resell,,,high,medium,6,West263 International Limited,25/04/2025 16:25,25/04/2027 16:25,08/10/2026 08:27
+b893c6a9-fbb3-4840-89c5-c00b367585ff,habitat.mobile,premium,310.7,310.7,high,high,7,spaceship,,,25/10/2026 19:45
 dfc33b79-eb4e-4cf1-b260-11e5117b0e51,environment.bet,available,13.5,20.2,high,medium,11,unstoppable,,,22/10/2026 15:44
+85d0070d-b242-44d3-812b-d5f618657a46,energy.mobi,available,,,high,medium,6,,,,12/10/2026 09:54
 7109c8dc-0b28-463e-ac60-b318b16b2758,environment.sarl,available,5.57,5.57,high,medium,11,dynadot,,,22/10/2026 15:44
 fb4b015e-ab4f-4477-8999-c255a48319b9,environment.theater,available,65.99,65.99,high,medium,11,namesilo,,,22/10/2026 15:44
+7bc9d751-464b-4bf1-b357-fb2438e982f7,habitat.college,available,1.18,51.95,high,high,7,spaceship,,,25/10/2026 19:45
+c1fc60b8-54ea-4c8c-98a8-7d1e3eb2860b,habitat.page,premium,165.12,165.12,high,high,7,namesilo,,,25/10/2026 19:45
+ff1a95bd-eb44-4e1a-8d4a-7ea63b038256,green.ski,premium,118.8,118.8,high,high,5,namesilo,,,25/10/2026 23:21
 237a7f6e-a3f3-4bf5-9065-2907337179ed,environment.uno,available,,,high,low,11,,,,23/10/2026 09:25
-9d203053-02ef-44af-bcd9-31b5ca2dd66d,green.me,resell,8058.05,27.99,high,medium,5,Porkbun LLC,29/04/2008 18:00,29/04/2027 18:00,22/10/2026 13:28
+89e310e5-bf3e-47c7-b30b-0d2423e8b95a,ecosystem.glass,available,72.99,72.99,high,low,9,namesilo,,,06/10/2026 08:32
+d22ba2b4-693b-49bd-a32e-5688c6625038,green.reviews,premium,828.2,828.2,high,high,5,spaceship,,,25/10/2026 23:21
+1d96f40f-c0aa-48f0-9e89-a3f8873e6329,energy.fail,premium,102.67,102.67,high,medium,6,spaceship,,,08/10/2026 08:27
+3e601e6a-36f7-4e69-aa1f-70de04966175,green.online,premium,1293.95,5175.2,high,high,5,spaceship,,,25/10/2026 23:21
+e89188af-b68a-4459-b5db-cc028f52440d,habitat.fans,premium,53.92,53.92,high,high,7,namesilo,,,25/10/2026 19:45
 0fcb8dab-0673-4eb6-ba7c-6028404106ad,environment.onl,available,5.49,23.49,high,medium,11,namesilo,,,22/10/2026 15:44
+11e07d77-26e0-4d3b-a623-1935f7a41437,energy.hiv,available,184.9,184.9,high,medium,6,spaceship,,,08/10/2026 08:27
+a9650f30-e830-46ce-9118-ed1e6f21ad5a,energy.tennis,available,89.99,89.99,high,medium,6,namesilo,,,08/10/2026 08:27
+e7aa7769-d2e3-409a-a538-e2b0e887a715,energy.berlin,resell,6371.43,75.99,high,medium,6,name.com,02/07/2014 21:02,02/07/2027 21:02,08/10/2026 08:27
+1b5691f1-b3d2-49d9-9126-03dd13f36275,ecosystem.inc,premium,2015,2600,high,low,9,namecheap,,,06/10/2026 08:32
+a2ac26f9-70db-4d28-87cc-8fbaa0199e46,nature.garden,resell,,,high,low,6,"Spaceship, Inc.",01/07/2026 03:47,01/07/2027 03:47,26/09/2026 07:43
 48847f60-9071-4e80-b3d7-d492a192be03,environment.fm,available,67.98,87.72,high,medium,11,spaceship,,,22/10/2026 15:44
+47557a9f-b00f-4103-ab0d-162fa92d4a6a,energy.shopping,premium,512,512,high,medium,6,namesilo,,,08/10/2026 08:27
+26a7bc19-b441-4cd3-8813-0188950c1601,conservation.sbs,premium,59.71,119.23,high,low,12,spaceship,,,29/09/2026 23:26
+1d4b5d78-91aa-4459-9621-e5fc7c9243c1,energy.ac,resell,,,high,medium,6,"GoDaddy.com, LLC",12/07/2022 13:15,12/07/2027 13:15,08/10/2026 08:27
+06c8147f-6837-4582-9804-25bef43ff015,conservation.tickets,available,359.99,488.88,high,low,12,namesilo,,,29/09/2026 23:26
+d57d4fe8-b5b1-4838-9363-c76c57c64b9a,green.xxx,premium,,,high,high,5,"NameCheap, Inc.",21/12/2024 05:16,21/12/2026 05:16,25/10/2026 23:21
 9d003ff4-7f73-4740-9f98-6cf23102e7fe,environment.school,premium,51.43,102.67,high,medium,11,spaceship,,,22/10/2026 15:44
 4e57488b-ff37-4022-bc30-de343d01000e,environment.dev,premium,,,high,medium,11,"GoDaddy.com, LLC",14/04/2019 22:14,14/04/2027 22:14,22/10/2026 15:44
+0f91f574-f9a2-421c-a86d-2ace9efde0ad,ecosystem.press,available,4.68,64.37,high,low,9,spaceship,,,06/10/2026 08:32
 2d1352d9-ffc3-4ff3-853d-3690b5e6fcde,environment.xxx,available,51.95,98.53,high,medium,11,spaceship,,,22/10/2026 15:44
 dc988e0b-7aaf-43fb-a210-3c1c052df225,environment.rodeo,premium,220,10.92,high,medium,11,dynadot,,,22/10/2026 15:44
+26e843ed-2ec2-4ca7-9a1c-d5bdbecc5bfc,energy.guide,resell,,,high,medium,6,Dynadot Inc,27/07/2015 07:25,27/07/2027 07:25,08/10/2026 08:27
 8c07d169-7dc0-4437-873e-0ed7aeca0c64,ecosystem.tech,premium,2587.7,10350.2,high,low,9,spaceship,,,06/10/2026 08:32
+24694b8d-e123-4b57-a8aa-ab0e455c67a2,ecosystem.trading,available,16.76,16.76,high,low,9,spaceship,,,06/10/2026 08:32
+18b97485-ce6d-44cd-bbb5-75cae5982271,green.tattoo,available,2.99,34.99,high,high,5,namesilo,,,25/10/2026 23:21
+b45258c4-c40a-483b-b4de-86255e68f208,habitat.cyou,premium,390,780,high,high,7,namecheap,,,25/10/2026 19:45
 e147a268-68a8-4471-829c-a5b8877e46b1,environment.barcelona,available,25.04,25.04,high,medium,11,spaceship,,,22/10/2026 15:44
+003252c7-84a1-4251-97f1-8aee384df531,energy.mov,premium,499.2,516.67,high,medium,6,unstoppable,,,08/10/2026 08:27
+347bd18e-c229-4d5f-9837-90fbd7f8c70c,ecosystem.moda,available,33.32,33.32,high,low,9,spaceship,,,06/10/2026 08:32
+36fd6fc3-9661-43c3-bc1c-bf33ca9da5c5,conservation.investments,available,12.99,129.99,high,low,12,namesilo,,,29/09/2026 23:26
+b33b06a4-e741-4c7b-9d1a-c777176f63a1,green.shop,premium,10350.2,10350.2,high,high,5,spaceship,,,25/10/2026 23:21
 7306adae-7b9e-489f-bb78-ddfdd9b13931,environment.audio,available,104.99,114.99,high,medium,11,namesilo,,,22/10/2026 15:44
+3f862441-282d-4bd9-8c40-bda52a471d46,habitat.protection,available,2060.25,2060.25,high,high,7,porkbun,,,25/10/2026 19:45
+3c6309e0-b8b4-48df-945f-f32600464e7a,conservation.realty,available,99.8,456.98,high,low,12,namecheap,,,29/09/2026 23:26
+36613f67-f2bf-4a31-8c57-e782749defbe,conservation.sale,available,5.98,48.98,high,low,12,namecheap,,,29/09/2026 23:26
+0eed0d1c-adfa-4bea-a3c1-091ea889744b,ecosystem.golf,available,7.49,64.99,high,low,9,namesilo,,,06/10/2026 08:32
+f7d312e1-9545-4e16-85fd-d987304ab9c9,conservation.pink,available,20.2,20.2,high,low,12,cloudflare,,,29/09/2026 23:26
+d6199d2a-a44a-4a11-80fa-da7bab9a68b2,energy.qpon,available,,,high,medium,6,,,,12/10/2026 09:54
+563ba76f-4a47-49e0-88ac-2a79a345b88a,conservation.racing,premium,116,116,high,low,12,namesilo,,,29/09/2026 23:26
+67cddf6f-e87a-4529-9b95-fe1fff4caa8f,ecosystem.qpon,available,2.19,11.49,high,low,9,namesilo,,,06/10/2026 08:32
 a95aa334-5370-41ca-af9f-b6ffe59e7f70,environment.party,premium,11000,110,high,medium,11,dynadot,,,22/10/2026 15:44
-cd8b6a3c-a635-4672-a47e-f2613d96939c,environment.garden,available,1.54,26.26,high,medium,11,porkbun,,,22/10/2026 15:44
+ba6daa15-017f-41fa-803d-ccd955acb56e,energy.agency,premium,,,high,medium,6,,,,08/10/2026 08:27
+99d1364b-b24f-41bd-9080-3018b40a8e2b,habitat.cfd,premium,310.7,621.2,high,high,7,spaceship,,,25/10/2026 19:45
+22b8bced-cd46-485e-adcf-4ed5f31647e9,conservation.lease,available,44.71,44.71,high,low,12,spaceship,,,29/09/2026 23:26
+0ea2f79f-7b26-4e1e-b0f4-70b68a1c2760,energy.host,premium,550,1100,high,medium,6,dynadot,,,08/10/2026 08:27
 9292c80e-a51b-4ebc-b707-5f0861163fb5,ecosystem.properties,available,14.17,31.25,high,low,9,spaceship,,,06/10/2026 08:32
-ff1a95bd-eb44-4e1a-8d4a-7ea63b038256,green.ski,premium,135.2,135.2,high,medium,5,namecheap,,,22/10/2026 13:28
+2ef0f7b3-b6d7-42c1-84e9-7693774ecf80,energy.style,resell,,,high,medium,6,Dynadot Inc,22/04/2023 08:57,22/04/2027 08:57,08/10/2026 08:27
+5b0be9e6-2b06-4665-9ebc-8280b61d9331,energy.domains,premium,520,520,high,medium,6,namecheap,,,08/10/2026 08:27
+c023daab-5366-4b04-b136-54915a71ef44,conservation.estate,available,8.24,31.41,high,low,12,porkbun,,,29/09/2026 23:26
 141ba56e-6867-459f-bb7f-de1fe7b92730,ecosystem.beer,available,25.2,25.2,high,low,9,cloudflare,,,06/10/2026 08:32
+45a2081d-a197-4c0c-99b3-35daea70473a,green.contractors,premium,68.51,68.51,high,high,5,spaceship,,,25/10/2026 23:21
+86bcf43a-00fb-44b9-ac2b-f64ab80b3c74,habitat.icu,premium,,,high,high,7,united-domains GmbH,06/06/2021 07:07,06/06/2027 23:59,25/10/2026 19:45
 0e01c131-35bd-4b58-8a67-0607faf2e84a,ecosystem.rehab,available,36.99,36.99,high,low,9,namesilo,,,06/10/2026 08:32
-d22ba2b4-693b-49bd-a32e-5688c6625038,green.reviews,premium,828.2,828.2,high,medium,5,spaceship,,,22/10/2026 13:28
+941a7fc6-c329-4f8f-97cd-d8787e4edd62,conservation.trade,premium,385,55,high,low,12,dynadot,,,29/09/2026 23:26
+fee8238f-35ec-4a59-9665-97626a2a11d2,green.accountants,available,93.35,93.35,high,high,5,spaceship,,,25/10/2026 23:21
 ac3b4d6f-49ae-4b94-ac38-eb6397940fe3,environment.property,available,,,high,low,11,,,,23/10/2026 09:25
 0cfb5393-1e94-4874-a9fe-3e997914a20d,environment.storage,available,535.22,535.22,high,medium,11,dynadot,,,22/10/2026 15:44
-3e601e6a-36f7-4e69-aa1f-70de04966175,green.online,premium,1293.95,5175.2,high,medium,5,spaceship,,,22/10/2026 13:28
+88ac64e2-11ac-44dd-a668-1b0feb30e42a,energy.promo,premium,3450,3450,high,medium,6,namesilo,,,08/10/2026 08:27
+f8731cc5-c077-42b0-b29b-31dde72ffdc6,green.tienda,available,59.99,59.99,high,high,5,namesilo,,,25/10/2026 23:21
+88d671ea-7046-4950-87f7-8c89e5e40fd2,ecosystem.loans,available,20.99,116.99,high,low,9,namesilo,,,06/10/2026 08:32
 b5992186-6e14-4d5a-842f-24358fb49b7d,environment.protection,available,2064.2,2064.2,high,medium,11,spaceship,,,22/10/2026 15:44
 8cb726fd-0f6a-47f2-ae2b-5ca130ac60c8,environment.so,available,,,high,low,11,,,,
-a0915db3-48b0-42ef-a09a-c369ee2eb913,green.sh,resell,,,high,medium,5,Edomains LLC,26/07/2026 15:15,26/07/2027 15:15,22/10/2026 13:28
+78f9ebef-ade9-4aab-b7d7-64423c01ad05,green.luxury,premium,520,520,high,high,5,namecheap,,,25/10/2026 23:21
 b58c944d-3f04-40ce-8430-5ea59d6ad037,environment.wedding,available,32.49,32.49,high,medium,11,namesilo,,,22/10/2026 15:44
 64fb5eb4-2064-48f2-bd13-9eae8427b37a,environment.toys,available,13.14,51.95,high,medium,11,spaceship,,,22/10/2026 15:44
 54f77576-f84d-4808-a055-baf41c379e87,environment.food,available,4.35,31.25,high,medium,11,spaceship,,,22/10/2026 15:44
+14e8c290-7f2c-4a38-88ba-e681073d7242,habitat.luxury,available,26,26,high,high,7,spaceship,,,25/10/2026 19:45
+f60ccf78-1432-499b-80f7-ed578259ff36,habitat.fast,premium,51.95,51.95,high,high,7,spaceship,,,25/10/2026 19:45
 83d5217b-1562-466b-95ed-f8b491ad29c9,environment.discount,available,30.99,30.99,high,medium,11,namesilo,,,22/10/2026 15:44
 d56a0fc7-4d76-449a-8a7d-976278c38590,ecosystem.equipment,available,22.97,22.97,high,low,9,spaceship,,,06/10/2026 08:32
 dea62d43-4f37-4382-82f6-fe103dc8788f,ecosystem.moe,available,13.06,13.06,high,low,9,dynadot,,,06/10/2026 08:32
+a4648418-8c18-448d-881f-59473482ebee,conservation.healthcare,available,70.58,70.58,high,low,12,spaceship,,,29/09/2026 23:26
+21924ab4-6639-47b5-ad26-e917e6e4344a,energy.attorney,premium,1300,1300,high,medium,6,namecheap,,,08/10/2026 08:27
 692053ba-0958-40bc-b6e6-1405bbd0f6c6,ecosystem.sarl,available,6.99,6.99,high,low,9,namesilo,,,06/10/2026 08:32
-18b97485-ce6d-44cd-bbb5-75cae5982271,green.tattoo,available,2,32.32,high,medium,5,dynadot,,,22/10/2026 13:28
-3c1ad9bd-2ae3-481b-a107-d04cd5e2fcac,green.berlin,resell,,,high,medium,5,,27/11/2015 20:09,27/11/2027 20:09,22/10/2026 13:28
+f686ac41-cdb3-44f4-8ebe-f9771ec4c148,conservation.careers,premium,512,512,high,low,12,namesilo,,,29/09/2026 23:26
+a2c433dd-6825-44d1-99c0-8c1565ff709f,conservation.archi,available,18.5,,high,low,12,unstoppable,,,29/09/2026 23:26
 db0116b1-2956-44fd-9ccc-8023309345c4,environment.hair,available,1.24,13.97,high,medium,11,spaceship,,,22/10/2026 15:44
 5fde24a0-730f-4ef0-8d44-f1ad8863086b,ecosystem.taxi,available,10.5,48.2,high,low,9,unstoppable,,,06/10/2026 08:32
 d5ada53b-9395-4611-867e-8051706d106b,environment.singles,available,9.49,33.99,high,medium,11,namesilo,,,22/10/2026 15:44
-b33b06a4-e741-4c7b-9d1a-c777176f63a1,green.shop,premium,10350.2,10350.2,high,medium,5,spaceship,,,22/10/2026 13:28
+6f7db4c0-e6d6-48ee-ae3b-f174698633c9,energy.plumbing,available,58.16,58.16,high,medium,6,spaceship,,,08/10/2026 08:27
+732f9b5c-5240-4933-aec5-f1b9260a8994,energy.ing,premium,1300.2,1690,high,medium,6,unstoppable,,,08/10/2026 08:27
+c468bb93-ce92-4de3-9fec-dbe65ff0ae69,natural.farm,resell,,,high,low,7,"Spaceship, Inc.",09/07/2019 09:21,09/07/2027 09:21,09/10/2026 20:49
+017616c1-f529-4487-a54b-ebeaebad9b3e,conservation.vc,resell,,,high,low,12,,,,29/09/2026 23:26
 d71cf845-8b5f-4fc9-b054-64649face98a,ecosystem.film,available,65.99,65.99,high,low,9,namesilo,,,06/10/2026 08:32
+c9103dfd-952f-48ef-bb56-a1da7d33db7f,energy.beer,premium,2660,29.5,high,medium,6,namesilo,,,08/10/2026 08:27
+8ab00c71-36c4-4950-ac09-aa62994a7366,conservation.ong,premium,1375,687.5,high,low,12,dynadot,,,29/09/2026 23:26
+76b1a973-f8ca-474c-83a5-281cc0aee3f7,green.glass,premium,78.54,78.54,high,high,5,namesilo,,,25/10/2026 23:21
 e074f0f4-ce49-4b18-958f-7da613003a63,environment.esq,premium,159.2,164.77,high,medium,11,unstoppable,,,22/10/2026 15:44
+8cd893b2-824a-4a35-ac6e-3156b6c8bede,conservation.download,premium,448,53.92,high,low,12,namesilo,,,29/09/2026 23:26
 9e0f6722-9116-4c69-9840-09128abf6d02,ecosystem.phd,premium,164.77,164.77,high,low,9,spaceship,,,06/10/2026 08:32
+1733b503-25ce-47d8-8471-16988783d441,nature.skin,premium,2660,2660,high,low,6,namesilo,,,16/10/2026 02:22
+215c5eb6-a155-437c-b9f1-435bacbe73f8,green.ink,premium,672.95,672.95,high,high,5,spaceship,,,25/10/2026 23:21
 d967f92c-8de2-488d-8b6b-b1c77d3e89af,ecology.green,premium,640,640,high,low,7,namesilo,,,23/09/2026 18:42
 0eb6d3a0-34df-4ebd-a1fa-8ce611e3627f,environment.markets,available,5.38,15.73,high,medium,11,spaceship,,,22/10/2026 15:44
 38c8ea6d-811c-4495-9426-701befde4b64,ecosystem.haus,available,10.55,27.11,high,low,9,spaceship,,,06/10/2026 08:32
+47dcde35-7bfe-48e0-8b8c-abec4f4845c9,conservation.reisen,available,3.99,20.99,high,low,12,namesilo,,,29/09/2026 23:26
 65ad798a-37c2-4de3-9799-5d21b952fb7a,environment.kim,available,5.38,18.83,high,medium,11,spaceship,,,22/10/2026 15:44
+af898ead-7339-477c-b556-96829a41f854,climate.desi,available,19.98,22.98,high,medium,7,namecheap,,,29/09/2026 10:05
+a69c2638-0a07-471e-8a4e-1939923fbfbd,energy.esq,premium,709.01,709.01,high,medium,6,porkbun,,,08/10/2026 08:27
+fd8f5e7c-41ac-4897-b1d4-e4f6e5aac828,energy.wiki,premium,832,832,high,medium,6,namesilo,,,08/10/2026 08:27
 0c39eb92-19fe-4363-86e4-c30c3e1dadff,ecology.eco,premium,4535.05,74.75,high,low,7,namecheap,,,23/09/2026 18:42
 176d965c-cd06-4e76-b55f-51b24ec1427f,environment.clothing,available,10.81,29.35,high,medium,11,porkbun,,,22/10/2026 15:44
-5dfb46bf-afd4-4155-a15c-9a385d581ee6,green.fitness,resell,,,high,medium,5,"GoDaddy.com, LLC",27/03/2016 21:53,27/03/2027 21:53,22/10/2026 13:28
 a41ca9b0-0d9c-41a9-845f-57ddf019372f,ecosystem.style,available,6.93,31.25,high,low,9,spaceship,,,06/10/2026 08:32
+773d5019-91bb-4ac4-a081-8386685cf47f,energy.kaufen,available,23.94,23.94,high,medium,6,spaceship,,,08/10/2026 08:27
 70e20e36-ec47-429b-8d84-0c493821a387,ecosystem.lighting,available,18.83,18.83,high,low,9,spaceship,,,06/10/2026 08:32
+e4d8199d-8ccd-4b94-910f-209e4f93a97a,energy.adult,available,,,high,medium,6,,,,12/10/2026 09:53
 88589d08-a7f7-4658-8e6a-5af51a505df0,ecosystem.bio,resell,,,high,low,9,Dynadot Inc,17/05/2026 06:17,17/05/2027 06:17,06/10/2026 08:32
+d07dc2d7-3621-43af-9227-ea60eaf5c54c,energy.pub,resell,,,high,medium,6,"Chengdu West Dimension Digital Technology Co., Ltd.",16/06/2020 21:40,16/06/2027 21:40,08/10/2026 08:27
 a7850834-b354-424b-b446-d9395e4c2b4c,environment.band,available,15.73,25.04,high,medium,11,spaceship,,,22/10/2026 15:44
 773ae74b-0a75-4805-a34a-1209b0220cac,environment.broker,available,28.2,28.2,high,medium,11,cloudflare,,,22/10/2026 15:44
-45a2081d-a197-4c0c-99b3-35daea70473a,green.contractors,premium,68.51,68.51,high,medium,5,spaceship,,,22/10/2026 13:28
+46cbf028-f2b1-47d4-bfba-8d31af5204da,green.reise,premium,207.2,207.2,high,high,5,spaceship,,,25/10/2026 23:21
 925abc79-bd3d-4566-bc51-8f96020bf971,ecosystem.video,available,14.99,36.49,high,low,9,namesilo,,,06/10/2026 08:32
 ccd0a2d0-4c6f-4f72-94a2-b1b4a6551ca7,environment.show,available,18.99,44.49,high,medium,11,namesilo,,,22/10/2026 15:44
 2ac18d6e-3a2c-4b70-b5ce-c80522c0fdc4,ecosystem.exchange,available,5.38,31.25,high,low,9,spaceship,,,06/10/2026 08:32
-9d0f1cbd-909a-4504-ae1d-51bc6850a745,green.builders,resell,,,high,medium,5,"Spaceship, Inc.",23/03/2014 16:00,23/03/2027 16:00,22/10/2026 13:28
 8d34b5fa-0d20-4edd-94a2-4b000989c381,environment.store,premium,500.2,517.7,high,medium,11,unstoppable,,,22/10/2026 15:44
-78f9ebef-ade9-4aab-b7d7-64423c01ad05,green.luxury,premium,520,520,high,medium,5,namecheap,,,22/10/2026 13:28
+9593d1f7-cd41-4900-9181-bb2ca6d2cfd8,energy.movie,available,36.43,279.65,high,medium,6,spaceship,,,08/10/2026 08:27
 654884e2-6391-4760-9de9-6456387de528,biodiversity.organic,available,66.2,66.2,high,low,12,cloudflare,,,09/10/2026 01:34
 742bc52f-d53b-4aab-affa-8e2d22cd9839,ecosystem.vana,available,2070.2,2070.2,high,low,9,spaceship,,,06/10/2026 08:32
 c36b2ae3-67c7-4be3-bd67-c11caf1a335b,ecosystem.law,available,95.99,95.99,high,low,9,namesilo,,,06/10/2026 08:32
-20cb08da-945a-4b4f-ad22-0f36fcbc88d4,green.center,resell,,,high,medium,5,"Spaceship, Inc.",16/03/2014 22:00,16/03/2027 22:00,22/10/2026 13:28
 6f5eb6cc-2792-4b26-ac71-8220512d6c06,environment.tools,available,28.2,28.2,high,medium,11,cloudflare,,,22/10/2026 15:44
-db7e484f-02d3-41d9-8169-515f4b4b28e4,environment.farm,available,15.99,38.99,high,medium,11,namesilo,,,22/10/2026 15:44
 edc5359e-8a37-4e8a-b794-651fcf9a0fad,environment.luxe,available,15.2,15.2,high,medium,11,cloudflare,,,22/10/2026 15:44
 45d9b2b1-8353-4b66-8106-d190663fe6b2,environment.locker,premium,58.72,8.8,high,medium,11,namesilo,,,22/10/2026 15:44
 0eb8ed8c-df80-4fcd-99b5-d66046406119,environment.menu,available,27.99,27.99,high,medium,11,namesilo,,,22/10/2026 15:44
 4a22aedc-5afc-4670-a4d0-f9f0357c4d2a,environment.host,premium,258.95,517.7,high,medium,11,spaceship,,,22/10/2026 15:44
+a4f4476d-80aa-4013-99e9-616a8a0aad8e,conservation.health,available,60.2,60.2,high,low,12,cloudflare,,,29/09/2026 23:26
 d21c0289-4ee1-47eb-9f0a-0b8793291f52,environment.surf,available,1.24,26.08,high,medium,11,spaceship,,,22/10/2026 15:44
 47bfafbc-9f52-488f-b65c-8ba1a64dc6f0,environment.how,premium,40.57,40.57,high,medium,11,spaceship,,,22/10/2026 15:44
-fee8238f-35ec-4a59-9665-97626a2a11d2,green.accountants,available,93.35,93.35,high,medium,5,spaceship,,,22/10/2026 13:28
 a19c8232-a3cc-4ba3-95cd-4a1556653524,environment.ceo,premium,218.9,218.9,high,medium,11,dynadot,,,22/10/2026 15:44
 b6845e4c-ae49-4e51-aaba-1ce43ccfb32e,environment.berlin,available,79.98,89.98,high,medium,11,namecheap,,,22/10/2026 15:44
+2fd234d4-a81e-48b8-9742-4db4f9514ec0,conservation.today,resell,,,high,low,12,,,,29/09/2026 23:26
 742a4673-65c0-4077-b87a-5dc8fb17a573,environment.ryukyu,available,17.98,22.98,high,medium,11,namecheap,,,22/10/2026 15:44
-f8731cc5-c077-42b0-b29b-31dde72ffdc6,green.tienda,available,47.81,47.81,high,medium,5,spaceship,,,22/10/2026 13:28
+51b19300-2479-4283-928d-e6b50f84a696,habitat.channel,premium,133.72,133.72,high,high,7,spaceship,,,25/10/2026 19:45
 f9c43623-f531-4fd0-9de5-44d4ff47bb5e,ecosystem.supply,available,23.76,23.76,high,low,9,dynadot,,,06/10/2026 08:32
 7de903a9-30fc-49f9-88eb-fb42f365c6ea,environment.channel,premium,167.7,167.7,high,medium,11,namecheap,,,22/10/2026 15:44
 be2d3976-d1c7-414c-8ea5-df8a47d172d3,ecosystem.singles,available,3.31,27.11,high,low,9,spaceship,,,06/10/2026 08:32
-76b1a973-f8ca-474c-83a5-281cc0aee3f7,green.glass,premium,68.51,68.51,high,medium,5,spaceship,,,22/10/2026 13:28
+e82c2cf2-a449-4cb1-a9b8-5032fafb6bbc,conservation.golf,available,7,,high,low,12,unstoppable,,,29/09/2026 23:26
+ce3c5985-50f8-46fe-90b2-8720a05ccf1b,green.cloud,premium,,,high,high,5,NAMECHEAP,12/08/2020 09:04,12/08/2027 09:04,25/10/2026 23:21
+5ff426ef-ab72-4aa8-b493-bc40d3d3b73c,conservation.moi,available,27,,high,low,12,unstoppable,,,29/09/2026 23:26
+e4b68cc7-0c18-4978-bfcb-01762e9d8005,nature.lifestyle,premium,455,650,high,low,6,namecheap,,,08/09/2026 02:43
 c623f0c1-7449-4dc4-a49c-8780c4ee97c7,ecosystem.doctor,available,90.2,90.2,high,low,9,cloudflare,,,06/10/2026 08:32
+9ba35928-4808-4037-9b55-b58fa78e3198,natural.garden,premium,854,29.5,high,low,7,namesilo,,,09/10/2026 20:49
 9184761e-058f-46fb-b81c-01c34e2918dc,environment.paris,available,14.64,38.68,high,medium,11,dynadot,,,22/10/2026 15:44
+1f7f0d36-a841-4f6b-bf88-11bbd9ebac47,nature.hair,premium,2600,2600,high,low,6,namecheap,,,16/10/2026 02:22
 a08ff3fb-5aaf-4606-9025-847f8387f33e,ecosystem.feedback,available,9,310.7,high,low,9,spaceship,,,06/10/2026 08:32
+6a3f9dae-9e13-4fe6-8a99-e54bc4cf790e,energy.directory,resell,,,high,medium,6,Porkbun LLC,18/08/2026 15:27,18/08/2027 15:27,08/10/2026 08:27
+5e44d84f-8074-4644-a791-ac5f15054c15,energy.tickets,available,359.99,488.88,high,medium,6,namesilo,,,08/10/2026 08:27
+01629ddb-eebf-4d07-8d1e-0b55e09c09c2,conservation.recipes,available,4.86,62.3,high,low,12,spaceship,,,29/09/2026 23:26
+e64319c9-89ab-4a6b-b2a9-01d1cbbd6c7b,energy.run,resell,,,high,medium,6,"DNSPod, Inc.",30/05/2019 05:27,30/05/2027 05:27,08/10/2026 08:27
+82d0e1d7-a1e6-4ffd-bc6f-6b3bd53a251c,conservation.gifts,premium,78.54,78.54,high,low,12,namesilo,,,29/09/2026 23:26
 74853c02-3c05-4766-ab47-b7baaf9fb8b2,environment.llc,premium,650,650,high,medium,11,namecheap,,,22/10/2026 15:44
+8a11dd32-a677-4826-9d1a-703a65c81b92,conservation.vision,available,45.99,45.99,high,low,12,namesilo,,,29/09/2026 23:26
 0a9c3c51-dd5d-45b8-aec6-61692cd83fa7,environment.fans,premium,51.95,103.7,high,medium,11,spaceship,,,22/10/2026 15:44
+810da0aa-f159-449a-b206-b09e57952c64,conservation.email,available,5.57,25.9,high,low,12,dynadot,,,29/09/2026 23:26
 c0bd3fbb-70cc-4cf4-b8da-3ba7d0fb54f1,environment.cx,available,18.99,18.99,high,medium,11,namesilo,,,22/10/2026 15:44
 f4977e1c-9020-4eff-9e81-bc032f45109e,ecosystem.fast,available,23.49,23.49,high,low,9,spaceship,,,06/10/2026 08:32
+44985b36-1855-4f17-acfb-86ca08c8c82d,energy.online,premium,6875,27500,high,medium,6,dynadot,,,08/10/2026 08:27
+93a633ec-c9ea-4be9-be0f-f4e54b3cb826,conservation.gripe,available,5.57,5.57,high,low,12,dynadot,,,29/09/2026 23:26
 c463d2fc-db4b-43f6-9e8e-8cecbee3d04c,environment.tattoo,available,2.99,34.99,high,medium,11,namesilo,,,22/10/2026 15:44
 d6f0769e-f39d-4abd-878a-fd328ecfbf06,environment.fishing,premium,47.2,29.5,high,medium,11,namesilo,,,22/10/2026 15:44
 a6ba6b71-dc32-4963-86cb-eb92f3ee3148,environment.domains,available,34.36,34.36,high,medium,11,spaceship,,,22/10/2026 15:44
+51bb8bab-9dc1-4b58-b0d3-d6d4fa51aa37,energy.voto,premium,102.67,102.67,high,medium,6,spaceship,,,08/10/2026 08:27
 216c90a2-2e13-45f7-8659-3c12fd21cfc8,environment.baby,available,1.18,51.8,high,medium,11,spaceship,,,22/10/2026 15:44
-215c5eb6-a155-437c-b9f1-435bacbe73f8,green.ink,premium,715,715,high,medium,5,dynadot,,,22/10/2026 13:28
+2775e99a-5fd1-4c0b-89a8-b2c892cebf56,conservation.baby,available,1.18,51.8,high,low,12,spaceship,,,29/09/2026 23:26
+169bc905-b437-4ccb-afb8-89a9e0a7da61,energy.forum,resell,,,high,medium,6,NAMECHEAP,31/07/2025 12:49,31/07/2027 12:49,08/10/2026 08:27
 3efbb3c3-78da-4681-b465-35704c6b24b6,ecosystem.reisen,available,3.99,20.99,high,low,9,namesilo,,,06/10/2026 08:32
 9337c286-2d24-4df2-bc87-0c5138d0a97d,ecosystem.claims,available,10.55,51.95,high,low,9,spaceship,,,06/10/2026 08:32
+6e04f107-2f79-4385-8cc0-e90c3008d7a7,green.webcam,premium,517.7,67.48,high,high,5,spaceship,,,25/10/2026 23:21
 150e384d-38af-4a8c-bf88-04c3c81ffbd8,environment.nyc,available,,,high,low,11,,,,23/10/2026 09:25
 2e01b1a1-bf83-4635-ac44-e3959d15fc67,environment.pub,available,39.99,39.99,high,medium,11,namesilo,,,22/10/2026 15:44
 56e3ce35-d97f-4eda-9d88-0fc4383f237c,environment.supplies,available,24.99,24.99,high,medium,11,namesilo,,,22/10/2026 15:44
-41e974e0-a6f3-4d43-8b07-5ff610daf8ca,green.healthcare,resell,,,high,medium,5,Dynadot Inc,28/02/2019 08:50,28/02/2027 08:50,22/10/2026 13:28
+52e8c6cf-6ea8-42f8-88d5-3ad38240aac5,climate.surgery,available,43.77,43.77,high,medium,7,porkbun,,,29/09/2026 10:05
+ffed8642-6118-451c-9a07-9213acbaf796,energy.property,available,,,high,medium,6,,,,12/10/2026 09:54
+1e71f6c3-a961-4571-89c0-9b2329675122,energy.casino,resell,,,high,medium,6,"Spaceship, Inc.",30/12/2024 15:15,30/12/2026 15:15,08/10/2026 08:27
+1d209e19-6b36-49d8-beaf-7669b070ea4b,conservation.car,available,1863.2,2064.2,high,low,12,spaceship,,,29/09/2026 23:26
 c59910e3-cf00-403f-8caa-64cf78e2c3fb,environment.lat,available,1.99,32.49,high,medium,11,namesilo,,,22/10/2026 15:44
 3d7ff9d1-9121-4507-bff5-85be26c3ef26,ecosystem.free,available,38.98,44.98,high,low,9,namecheap,,,06/10/2026 08:32
-46cbf028-f2b1-47d4-bfba-8d31af5204da,green.reise,premium,207.2,207.2,high,medium,5,spaceship,,,22/10/2026 13:28
+5783d791-51c0-4564-93a9-099957a7e5f8,habitat.vegas,available,18.99,43.99,high,high,7,namesilo,,,25/10/2026 19:45
+f2d43097-0669-42e8-829d-ee00a5ff4fdb,energy.giving,available,,,high,medium,6,,,,12/10/2026 09:53
 9bde8430-54c6-4dbe-968b-1e28ee91e089,ecosystem.beauty,resell,,,high,low,9,Dynadot Inc,15/02/2026 18:14,15/02/2027 23:59,06/10/2026 08:32
+11c9f64c-02f0-4e8c-9d8d-3efd02f5b025,climate.sydney,available,,,high,medium,7,,,,11/10/2026 09:13
+b3233f1d-45b5-4aa8-99f5-76c1ed746ccb,climate.monster,resell,,,high,medium,7,"Spaceship, Inc.",17/01/2026 15:57,17/01/2027 23:59,29/09/2026 10:05
+4c1dfdc5-dfd5-4724-b1d3-7037483d3f15,energy.vin,resell,,,high,medium,6,"Xiamen ChinaSource Internet Service Co., Ltd",06/03/2024 08:55,06/03/2027 08:55,08/10/2026 08:27
+62a0ea8b-46ae-40f1-9ac2-4bb8ab5c4589,conservation.bid,premium,382.61,55.11,high,low,12,porkbun,,,29/09/2026 23:26
+35b434d6-2582-40a1-b302-067a428f4298,natural.cv,resell,14.98,,high,low,7,Porkbun,28/12/2025 15:34,28/12/2026 15:34,09/10/2026 20:49
 ec52e67d-9f47-4c87-81a3-50e63f2473d2,ecosystem.software,premium,207.2,207.2,high,low,9,spaceship,,,06/10/2026 08:32
 c501edc6-76b4-42cb-8d63-a82f0c5922b8,environment.poker,available,10.99,67.99,high,medium,11,namesilo,,,22/10/2026 15:44
+d8475c07-54dc-4bfb-8993-9acf7fd89177,conservation.build,premium,1638.01,1638.01,high,low,12,porkbun,,,29/09/2026 23:26
+03ac09fd-fcb5-4817-ae31-2713cf980281,conservation.audio,available,93.35,103.4,high,low,12,spaceship,,,29/09/2026 23:26
+97e70772-fbb0-4074-a7b4-446a51edde24,nature.red,resell,,,high,low,6,"Sav.com, LLC - 43",26/09/2025 15:16,26/09/2027 15:16,28/09/2026 04:42
+d6ea96c1-ae14-48aa-91e1-6fd8ad9ca69c,natural.soy,premium,164.77,164.77,high,low,7,spaceship,,,09/10/2026 20:49
+3dc91c13-d7c6-4d7a-b2ee-7f0a38dc3134,climate.blackfriday,available,114.99,114.99,high,medium,7,namesilo,,,29/09/2026 10:05
+17f4ff3a-1436-48fa-aa83-034158acd25f,conservation.game,available,310.98,547.98,high,low,12,namecheap,,,29/09/2026 23:26
+e3456b80-b923-4e1b-9657-943fd804ae4d,climate.run,resell,,,high,medium,7,"DNSPod, Inc.",06/05/2025 15:15,06/05/2027 15:15,29/09/2026 10:05
 dd39d95f-b51e-4e53-a5c4-4cb67eb80c2b,environment.cab,available,26.08,26.08,high,medium,11,spaceship,,,22/10/2026 15:44
-afbced82-d7f0-4705-8dfa-f0633fccc4af,green.show,resell,,,high,medium,5,"Chengdu West Dimension Digital Technology Co., Ltd.",16/10/2017 02:49,16/10/2027 02:49,22/10/2026 13:28
 c8ac9475-57e0-4f14-b7e4-424bdc205435,environment.futbol,available,7.49,7.49,high,medium,11,namesilo,,,22/10/2026 15:44
+55491f43-2789-4133-b487-56c0e8b25373,energy.gallery,resell,85.8,85.8,high,medium,6,Porkbun LLC,20/06/2026 14:44,20/06/2027 14:44,08/10/2026 08:27
+02c1bbc6-bdc8-4e21-8bd6-1661d60d7ac5,conservation.gay,available,1.75,31.28,high,low,12,spaceship,,,29/09/2026 23:26
 90e10d55-bcc4-47aa-a4e7-aaaba9b57dfb,environment.meme,premium,51.95,51.95,high,medium,11,spaceship,,,22/10/2026 15:44
 bb68b514-67db-4c24-9a55-d24dc6022aa6,environment.consulting,premium,200.5,242,high,medium,11,unstoppable,,,22/10/2026 15:44
+549ff3f7-9c24-4003-a534-1ea4db8c7b1e,energy.blue,resell,,,high,medium,6,"Spaceship, Inc.",23/09/2022 13:15,23/09/2027 13:15,08/10/2026 08:27
 e799fd07-94de-4519-bfbc-631bab5a2a38,ecosystem.to,resell,,,high,low,9,Tonic,25/09/2024 04:32,01/08/2027 00:00,06/10/2026 08:32
 dbec63e5-7f0a-476b-b18f-877469156378,ecosystem.store,premium,6900,6900,high,low,9,namesilo,,,06/10/2026 08:32
+56fa34fe-5ef8-41d8-a362-34378c1856c2,green.soccer,available,25.99,25.99,high,high,5,namesilo,,,25/10/2026 23:21
 9f1719bf-f862-4526-9b62-ee4035835ccc,ecosystem.rip,available,18.83,18.83,high,low,9,spaceship,,,06/10/2026 08:32
+c4030a15-e075-46c1-a72f-22b2436554d4,green.villas,premium,207.2,207.2,high,high,5,spaceship,,,25/10/2026 23:21
+94b09b10-79c3-48b3-a4b7-e645f7a61f18,green.airforce,available,103.99,103.99,high,high,5,namesilo,,,25/10/2026 23:21
+91bf4750-82f0-4f4c-b87f-7188ef7074d4,energy.services,resell,,,high,medium,6,Dynadot Inc,09/09/2016 07:56,09/09/2027 07:56,08/10/2026 08:27
 dab4a0db-0baf-4a34-aa5c-5a489b4a414f,ecosystem.rich,available,94.99,1999,high,low,9,namesilo,,,06/10/2026 08:32
 a08bf20e-8489-46be-893e-38b7e2881e5d,environment.autos,available,1.24,13.97,high,medium,11,spaceship,,,22/10/2026 15:44
+b16dc684-d434-4025-982b-f14eda8a4d97,habitat.how,premium,89.2,97.68,high,high,7,unstoppable,,,25/10/2026 19:45
+20d22541-7991-4af3-ade4-33c2c088609b,habitat.hair,available,1.8,21.98,high,high,7,namecheap,,,25/10/2026 19:45
 1389a57c-0a03-44fa-9233-62e5febcf005,ecosystem.contractors,available,27.2,27.2,high,low,9,cloudflare,,,06/10/2026 08:32
 8697bf1e-41fe-4bf4-9114-45d64a4e996f,ecosystem.kitchen,available,10.99,64.99,high,low,9,namesilo,,,06/10/2026 08:32
-d73b133a-52aa-40cc-9eae-d7ef76004867,green.voyage,resell,,,high,medium,5,"Sav.com, LLC",11/10/2026 23:06,11/10/2027 23:06,22/10/2026 13:28
+e32d73c9-5f93-44ab-9407-0eb9552b57d0,climate.hiphop,available,23.99,23.99,high,medium,7,namesilo,,,29/09/2026 10:05
+f69eb8fa-2f46-4bfb-b605-28290097d8e5,climate.family,resell,,,high,medium,7,Dynadot Inc,24/08/2026 12:50,24/08/2027 12:50,11/10/2026 09:13
+dfaa5cdb-37c7-4bdd-95d9-1789e0188640,habitat.theatre,available,465.95,500.18,high,high,7,spaceship,,,25/10/2026 19:45
+87c813f3-1757-421c-90f3-96a16b54997b,conservation.moe,available,13.02,13.05,high,low,12,porkbun,,,29/09/2026 23:26
+7410f560-d416-4839-9f62-38e9dc3e7026,conservation.buzz,premium,130,65,high,low,12,namecheap,,,29/09/2026 23:26
+6f9d03e9-db2f-4148-88a6-0d5d5e62967e,ecology.sh,available,34.98,76.98,high,low,7,namecheap,,,23/09/2026 18:42
 0b259ece-19ec-4d8f-815e-b2117fa03e36,environment.hiv,available,184.9,184.9,high,medium,11,spaceship,,,22/10/2026 15:44
 14f62fbc-910e-44a8-a544-974b36087604,ecosystem.fan,available,6.64,50.51,high,low,9,dynadot,,,06/10/2026 08:32
 ac3a8515-9779-475c-88e6-a46bf0d8cdb3,environment.yachts,available,1.24,13.97,high,medium,11,spaceship,,,22/10/2026 15:44
+53f1acb0-79b5-48fc-8298-99fc36c1653c,habitat.phd,premium,164.77,164.77,high,high,7,spaceship,,,25/10/2026 19:45
 e2c59315-08f6-47b8-9acb-a89f576739d0,environment.works,resell,7.99,,high,medium,11,"Spaceship, Inc.",17/07/2026 12:22,17/07/2027 12:22,22/10/2026 15:44
 2ef489df-4015-4075-a4a4-e75931a0b85a,environment.bingo,available,53.99,53.99,high,medium,11,namesilo,,,22/10/2026 15:44
+7c72d0a5-576b-4f04-822c-21967e77a853,conservation.town,available,6.98,47.48,high,low,12,namecheap,,,29/09/2026 23:26
+2e45ca82-38d7-443c-9543-af76e99b062d,conservation.boo,premium,37.7,37.7,high,low,12,namecheap,,,29/09/2026 23:26
+1aef31a1-3a87-4cb3-9029-34f90129c67d,energy.moi,premium,89.25,89.25,high,medium,6,namesilo,,,08/10/2026 08:27
+9f36dd18-262d-4f73-855f-3f0193809db3,conservation.graphics,available,18.2,18.2,high,low,12,cloudflare,,,29/09/2026 23:26
+b1273089-0986-4c90-816e-0ebf5ae33a67,energy.apartments,available,67.98,81.48,high,medium,6,namecheap,,,08/10/2026 08:27
 9f28131b-24cf-41d6-9319-e30db33eceab,ecosystem.gives,available,6.41,22.39,high,low,9,spaceship,,,06/10/2026 08:32
 6825d0d6-1a37-45a1-9cb6-67176601bb20,ecosystem.today,available,5.99,28.49,high,low,9,namesilo,,,06/10/2026 08:32
 b7979c3f-5803-4c84-a159-34ff8cfec037,environment.ing,premium,150.2,155.45,high,medium,11,unstoppable,,,22/10/2026 15:44
+4d7e6a05-c744-4af9-83cf-f3f5e19c3d11,climate.osaka,available,26.68,26.88,high,medium,7,porkbun,,,29/09/2026 10:05
+b71255db-c173-4a32-89b5-98a7b3eaa6d5,habitat.review,premium,362.45,51.95,high,high,7,spaceship,,,25/10/2026 19:45
 5dc5c013-caf7-4f26-92ee-90ce1fd3797d,ecosystem.soy,available,18.78,18.78,high,low,9,spaceship,,,06/10/2026 08:32
 796bb652-d125-4465-a7d8-664659c587d7,ecosystem.sbs,premium,68.43,147.2,high,low,9,namesilo,,,06/10/2026 08:32
-5bb51629-2162-4c73-87e3-cbefcfdc916f,green.gallery,resell,,,high,medium,5,Dynadot Inc,17/06/2015 16:00,17/06/2027 16:00,22/10/2026 13:28
-6e04f107-2f79-4385-8cc0-e90c3008d7a7,green.webcam,premium,517.7,67.48,high,medium,5,spaceship,,,22/10/2026 13:28
 4318e0a8-5c72-45cf-b523-1e4771715ee4,environment.credit,available,11.49,104.99,high,medium,11,namesilo,,,22/10/2026 15:44
 1aa324ac-1c37-485c-a975-ab616ccb67db,environment.company,available,20.99,20.99,high,medium,11,namesilo,,,22/10/2026 15:44
+484f5362-155f-498f-ad0e-32cd26f289b2,conservation.wedding,available,25.2,25.2,high,low,12,cloudflare,,,29/09/2026 23:26
+16a2da03-d48a-4081-9adb-dde3d93dd07f,energy.viajes,available,35.18,35.18,high,medium,6,spaceship,,,08/10/2026 08:27
 f73628f0-1cf3-4815-96e8-400f497fd8c5,ecosystem.deals,available,30.2,30.2,high,low,9,cloudflare,,,06/10/2026 08:32
+ad8dadc4-6342-427a-9945-7f0c2df493f9,energy.voting,available,1398,1448,high,medium,6,namecheap,,,08/10/2026 08:27
 db1e3737-cd2c-4f36-9550-4b4c253d7cb4,environment.attorney,premium,3900,3900,high,medium,11,namecheap,,,22/10/2026 15:44
 56339abb-c167-4ba8-935d-b3343549c56c,environment.link,premium,750.2,960,high,medium,11,unstoppable,,,22/10/2026 15:44
-dc5f27fe-8c41-4e5f-bffc-22adfd2719fe,green.works,resell,,,high,medium,5,"GoDaddy.com, LLC",09/08/2015 16:00,09/08/2027 16:00,22/10/2026 13:28
+1a54bad0-eb8d-4a8b-8e97-8cedf34cbac5,climate.futbol,available,5.57,14.13,high,medium,7,dynadot,,,29/09/2026 10:05
 318a3a36-b4a6-46e7-ad71-1fbb372ace9f,environment.makeup,available,1.8,21.98,high,medium,11,namecheap,,,22/10/2026 15:44
-d64819be-f008-4487-bf09-7002f45cf4ce,environment.desi,available,19.98,22.98,high,low,11,namecheap,,,03/10/2026 01:47
+71c994a3-a8c9-4405-9a66-3af97bf851a0,climate.poker,available,10.99,67.99,high,medium,7,namesilo,,,29/09/2026 10:05
+3e139f9e-7af0-4550-80b9-d399ed4dc65a,climate.skin,available,1.99,17.29,high,medium,7,namesilo,,,29/09/2026 10:05
+683c4fdd-2211-421f-bc0d-4dcd5c3055f0,habitat.beauty,available,1.99,14.45,high,high,7,dynadot,,,25/10/2026 19:45
 f54b5c94-a27e-4b57-88b6-370838ee2f57,ecosystem.car,available,1863.2,2064.2,high,low,9,spaceship,,,06/10/2026 08:32
-9c938920-88d0-4751-b005-de183e9af212,green.bid,resell,,,high,medium,5,Dynadot Inc,26/07/2019 15:58,26/07/2027 15:58,22/10/2026 13:28
-1ab8d166-8671-4871-a7c5-e7c19cd5a77a,green.mom,resell,,,high,medium,5,"Spaceship, Inc.",24/02/2020 22:37,24/02/2027 23:59,22/10/2026 13:28
+45c53568-2a3b-4b5a-86b1-2c7ac3e3fdd7,energy.nexus,premium,516.67,516.67,high,medium,6,spaceship,,,08/10/2026 08:27
+40aaca85-69d2-40d4-bd25-03abbf7058db,conservation.maison,available,57.99,57.99,high,low,12,namesilo,,,29/09/2026 23:26
+1ffca2fd-2ddd-4cf3-b258-bbaa580ec942,energy.gold,resell,,,high,medium,6,"DNSPod, Inc.",12/05/2018 10:04,12/05/2027 10:04,08/10/2026 08:27
+ee7368fb-2ed1-4bb0-aea6-d6799a076d7e,nature.berlin,premium,405.6,405.6,high,low,6,namecheap,,,08/09/2026 02:43
 284c6bfc-3b99-4841-a046-7bd88ea07508,ecosystem.makeup,available,1.99,17.29,high,low,9,namesilo,,,06/10/2026 08:32
 3897759f-0de4-48e2-ac3c-ea6b101a4d99,ecosystem.host,available,4.68,81.97,high,low,9,spaceship,,,06/10/2026 08:32
+0e62d32b-1bae-45de-b503-f447c52f1250,climate.bayern,available,31.99,30.8,high,medium,7,porkbun,,,29/09/2026 10:05
+983e5052-1137-4c5b-a705-4626753ad9b5,habitat.shop,premium,1107,1107,high,high,7,namesilo,,,25/10/2026 19:45
+9053174d-20e8-4c48-9ff0-07ea54612da1,climate.to,resell,,,high,medium,7,Tonic,17/01/2024 02:27,01/08/2028 00:00,29/09/2026 10:05
+4ea443fc-3373-4039-9b5d-2bfe4259af43,nature.support,resell,,,high,low,6,"Global Domains International, Inc. DBA DomainCostClub.com",24/02/2018 18:30,24/02/2027 18:30,26/09/2026 07:43
+9c62def1-545f-4bfb-bf19-2a4dd75f110f,energy.cars,available,1863.2,2064.2,high,medium,6,spaceship,,,08/10/2026 08:27
 91ee064d-1185-4337-8c93-1c2526fb1a2f,environment.porn,available,53.72,101.87,high,medium,11,dynadot,,,22/10/2026 15:44
-56fa34fe-5ef8-41d8-a362-34378c1856c2,green.soccer,available,20.9,20.9,high,medium,5,spaceship,,,22/10/2026 13:28
-c4030a15-e075-46c1-a72f-22b2436554d4,green.villas,premium,260,260,high,medium,5,namecheap,,,22/10/2026 13:28
+6d68f88a-6347-4f65-9759-42f329da8a8c,nature.melbourne,premium,58,58,high,low,6,namesilo,,,08/09/2026 02:43
+990402b4-ad9a-4307-9a91-529e81244e2a,conservation.hockey,available,61,,high,low,12,unstoppable,,,29/09/2026 23:26
+80969c90-3850-4022-8dac-140d524fd11f,energy.luxe,resell,37060.64,,high,medium,6,Dynadot Inc,19/08/2025 04:11,19/08/2027 04:11,08/10/2026 08:27
+656afc3d-e5b5-46d8-9e01-8a07d396bd80,habitat.prof,premium,164.77,164.77,high,high,7,spaceship,,,25/10/2026 19:45
+48051668-35b6-43a5-9116-e9826a87829e,energy.osaka,available,,,high,medium,6,,,,12/10/2026 09:54
+30aa2fd4-8b41-4651-ab00-7ce92058177c,climate.cheap,available,5.57,30.18,high,medium,7,dynadot,,,29/09/2026 10:05
+411d0742-9ebd-4ddc-abc9-6771f7799a64,energy.ltda,premium,52.8,30.18,high,medium,6,dynadot,,,08/10/2026 08:27
 822e79dc-119b-4685-9abf-2ba52433b1f4,ecosystem.actor,available,8.48,35.39,high,low,9,spaceship,,,06/10/2026 08:32
+fe5f902f-d418-4ad2-83d5-197a6e69f5e0,surroundings.green,available,10.55,64.37,high,low,12,spaceship,,,01/10/2026 17:40
 8fe9720e-6623-465c-9a6e-1f17ee47466e,environment.dental,available,70.84,70.84,high,medium,11,dynadot,,,22/10/2026 15:44
-bfd55509-70b2-4a8a-ae8a-1867f5415ab9,green.llc,available,,,high,low,5,,,,23/10/2026 09:31
+200bb903-11bc-4f64-9d2a-0032361d6510,climate.properties,available,18.99,39.99,high,medium,7,namesilo,,,29/09/2026 10:05
 ef270667-c803-47a6-b8a7-c7bfab76044f,ecosystem.investments,available,100.2,100.2,high,low,9,cloudflare,,,06/10/2026 08:32
+0d119eea-3291-4e50-b37d-95935d178e85,sustainable.co,resell,,,high,low,11,,,,01/10/2026 22:43
+932c95ff-3ba6-4321-b838-06bf7459ac1d,natural.study,premium,650,650,high,low,7,namecheap,,,09/10/2026 20:49
 c621fe44-a02b-4aee-970b-740c92919f06,ecosystem.guru,available,4.49,42.99,high,low,9,namesilo,,,06/10/2026 08:32
+919bbf7d-6ef6-4d95-99d1-5ffc72a4727f,energy.glass,premium,512,512,high,medium,6,namesilo,,,08/10/2026 08:27
 46b7e1d5-e2ae-4f6b-a8b8-f22200680d50,environment.careers,available,26.08,57.13,high,medium,11,spaceship,,,22/10/2026 15:44
-2a2e15b3-5481-42eb-938d-4773a6920a58,environment.lifestyle,available,1.24,31.25,high,medium,11,spaceship,,,22/10/2026 15:44
 88560ae3-5c0d-4540-a4b0-e78ac62c5021,environment.fitness,available,8.99,41.99,high,medium,11,namesilo,,,22/10/2026 15:44
 fe46ddd2-ccfd-431c-97ea-d01be2d0981f,ecosystem.casino,available,125.2,125.2,high,low,9,cloudflare,,,06/10/2026 08:32
+a329b07c-892f-4768-805f-930439f9b5f2,habitat.tattoo,available,2.99,34.99,high,high,7,namesilo,,,25/10/2026 19:45
+2941d1cc-1c5b-4ee9-99c1-bd32ff24e659,energy.gay,premium,2660,2660,high,medium,6,namesilo,,,08/10/2026 08:27
+f6981067-9747-4935-b372-0c20502e3c86,climate.creditcard,available,144.99,144.99,high,medium,7,namesilo,,,29/09/2026 10:05
+60070def-6ff9-4646-95b8-e1e755b3518a,green.protection,available,2064.2,2064.2,high,high,5,spaceship,,,25/10/2026 23:21
+70fa551d-7d1f-442e-80b4-95a70275f832,nature.tattoo,available,2.98,48.98,high,low,6,namecheap,,,08/09/2026 02:43
+3fcc88f9-1bd1-43b6-8a4a-5ff3759ed80e,nature.bingo,available,,,high,low,6,,,,
 ab47c495-e268-418f-9e54-b75e33d4e253,ecosystem.reise,available,27.89,97.99,high,low,9,namesilo,,,06/10/2026 08:32
-a10fbfbe-d72f-4f8a-b889-a85c59b55318,environment.space,available,,,high,low,11,,,,23/10/2026 09:25
 bd262b8a-aaa2-4009-bb16-5648f7065b79,ecosystem.clothing,available,32.99,32.99,high,low,9,namesilo,,,06/10/2026 08:32
+6f7e7e2f-74f3-4f30-afd9-e4c89c1214d3,natural.tattoo,available,2.99,34.99,high,low,7,namesilo,,,09/10/2026 20:49
 482647a4-6e70-4bde-9dbe-c4cdb64952e8,environment.monster,available,1.54,14.21,high,medium,11,porkbun,,,22/10/2026 15:44
-94b09b10-79c3-48b3-a4b7-e645f7a61f18,green.airforce,available,83,83,high,medium,5,spaceship,,,22/10/2026 13:28
+c5080e21-ffdd-427a-a614-b2166a0ad98a,nature.at,available,,,high,low,6,,,,
+2899cf43-a829-4344-8543-f9cf64ba2fe7,conservation.space,premium,129.58,517.7,high,low,12,spaceship,,,29/09/2026 23:26
+e0673301-1c38-42c6-a642-7c3b755a2c46,habitat.free,premium,116,116,high,high,7,namesilo,,,25/10/2026 19:45
+7282c6c2-24e2-424b-adc9-39b5e1c689c9,natural.giving,available,6.41,22.39,high,low,7,spaceship,,,09/10/2026 20:49
+5db09fd4-1070-4725-be5b-7e276991eae1,ecology.ong,premium,3250,1625,high,low,7,namecheap,,,23/09/2026 18:42
+0ac0c8cb-45c2-4a72-b0eb-93a677e05034,climate.vacations,available,31.25,31.25,high,medium,7,spaceship,,,29/09/2026 10:05
+228a9270-74ee-45a5-a38e-30d863e6dfd3,ecology.moe,available,14.98,17.88,high,low,7,namecheap,,,23/09/2026 18:42
 5f55a07d-1ed7-4169-8ebf-1e8ee9ef6792,environment.parts,available,9.52,33.32,high,medium,11,spaceship,,,22/10/2026 15:44
+febe8ab0-978d-485b-8a72-b6f83a45be61,habitat.blackfriday,available,107.22,107.22,high,high,7,dynadot,,,25/10/2026 19:45
+d502e6b5-215b-4bdd-99fa-7733ed912053,nature.miami,premium,5200,23.4,high,low,6,namecheap,,,08/09/2026 02:43
+fd98643e-c2fd-448c-a08b-ef83915b02cf,natural.sarl,available,5.2,5.2,high,low,7,cloudflare,,,09/10/2026 20:49
+e2122357-9dc5-4625-a4b0-b58fc96fd546,habitat.gay,available,2.99,38.99,high,high,7,namesilo,,,25/10/2026 19:45
+5f0a6580-8870-436d-b2fa-e2f144536b69,natural.direct,available,10.92,35.53,high,low,7,dynadot,,,09/10/2026 20:49
+00b9e2f7-a7ff-4235-a8a7-53e0c730c1f7,nature.ltd,resell,,,high,low,6,"Xiamen ChinaSource Internet Service Co., Ltd",07/09/2024 15:15,07/09/2027 15:15,26/09/2026 07:43
 3e05651e-3671-4914-947f-14f1aef753f0,ecosystem.london,premium,135.36,31.2,high,low,9,namesilo,,,06/10/2026 08:32
-fd73ec02-cd12-4650-a9b1-7a631b6e4f34,environment.city,available,7.25,34.99,high,medium,11,namesilo,,,22/10/2026 15:44
+131c929c-fbd3-4861-97ee-212275c2a0c6,conservation.wtf,available,7,,high,low,12,unstoppable,,,29/09/2026 23:26
+13ead16c-592c-454a-9b0a-f87335516034,natural.skin,premium,2660,2660,high,low,7,namesilo,,,09/10/2026 20:49
+ae35aa6c-0c08-42c9-b633-32e939577b9f,conservation.shop,premium,1035.2,1035.2,high,low,12,spaceship,,,29/09/2026 23:26
+12fead26-ee13-4c01-be02-7090c8c3d253,climate.review,premium,3450,116,high,medium,7,namesilo,,,29/09/2026 10:05
 a48ac225-4b57-45fa-ad20-69bf54a2b374,environment.racing,premium,103.7,103.7,high,medium,11,spaceship,,,22/10/2026 15:44
 3beda699-8459-4c29-951e-497e2c5a3739,ecosystem.new,available,412.2,412.2,high,low,9,spaceship,,,06/10/2026 08:32
 37198638-3936-4e6f-b032-7520ba23ee4e,ecosystem.hair,available,1.99,17.29,high,low,9,namesilo,,,06/10/2026 08:32
+01f34357-5861-4739-93e5-cc26a442e1c3,natural.ski,premium,99.5,102.67,high,low,7,unstoppable,,,09/10/2026 20:49
 ff152f1d-4c7c-49e2-ad12-a1c84cd4bdd5,ecosystem.futbol,available,5.98,21.98,high,low,9,namecheap,,,06/10/2026 08:32
+6a9295c0-0d9c-456a-85a8-a35017914e48,energy.prof,premium,671.92,671.92,high,medium,6,spaceship,,,08/10/2026 08:27
 fc0a65c2-fcd9-4837-a23c-80c57fb86e56,environment.graphics,available,23.99,23.99,high,medium,11,namesilo,,,22/10/2026 15:44
+83da379f-2bc5-4af9-aab2-0b5f14a6c47f,habitat.miami,premium,104,23.4,high,high,7,namecheap,,,25/10/2026 19:45
+99e3ac6e-30e4-47c0-b486-6476dddc83c6,energy.repair,resell,,,high,medium,6,"Spaceship, Inc.",22/02/2026 17:45,22/02/2027 17:45,08/10/2026 08:27
+d1816eaf-4dca-44cc-b25c-f1d18567bca0,conservation.pw,resell,,,high,low,12,,,,29/09/2026 23:26
+fad2e60a-d0e7-40df-8f93-66398a0c3991,conservation.vin,available,6.69,47.89,high,low,12,porkbun,,,29/09/2026 23:26
+0112e7eb-8f2a-4521-9de3-4731b9b74968,conservation.academy,available,17,,high,low,12,unstoppable,,,29/09/2026 23:26
 d1de9ae0-e776-48da-85a5-390701522b44,environment.voting,available,978.6,978.6,high,medium,11,dynadot,,,22/10/2026 15:44
 9a713ec9-59af-4201-87d5-670b531d3b01,environment.hockey,available,8.24,54.79,high,medium,11,dynadot,,,22/10/2026 15:44
-88fc2a54-f722-4efa-b479-2e975a97f23e,green.digital,resell,,,high,medium,5,"GoDaddy.com, LLC",19/08/2015 18:45,19/08/2028 18:45,22/10/2026 13:28
-51d59b4d-69ce-4382-a258-90006af09f62,environment.cat,available,18.83,25.04,high,medium,11,spaceship,,,22/10/2026 15:44
+a386b226-3d4e-452a-9d7c-986bc1da47db,nature.builders,resell,,,high,low,6,"Sav.com, LLC",12/04/2023 17:00,12/04/2027 17:00,26/09/2026 07:43
+b4015914-6cf2-4e34-9198-50d728286260,nature.news,premium,650,1300,high,low,6,namecheap,,,08/09/2026 02:43
+84c911bd-d0c7-414e-9964-59ab2491331d,nature.training,available,21.99,,high,low,6,name.com,,,
+eb73e80a-97f0-4edb-8b18-5d6448eab411,climate.industries,available,45.99,45.99,high,medium,7,namesilo,,,29/09/2026 10:05
+f7fb058f-048b-4930-baaa-94054267847a,climate.hockey,available,47.81,47.81,high,medium,7,spaceship,,,29/09/2026 10:05
 6545bfb7-a578-447e-bb16-25d6de38832f,ecosystem.realty,available,280.2,280.2,high,low,9,cloudflare,,,06/10/2026 08:32
 4c16da04-36a8-44c0-b992-ef5471f96aa5,environment.reviews,premium,109.53,218.86,high,medium,11,porkbun,,,22/10/2026 15:44
-4ef6cfaa-e3c0-4ed2-a1f3-65bb68eb3872,green.style,resell,,,high,medium,5,"GoDaddy.com, LLC",21/05/2015 23:38,21/05/2027 23:38,22/10/2026 13:28
+fb20af1a-124a-484c-b79f-ba5519e42e40,climate.fishing,available,32.49,32.49,high,medium,7,namesilo,,,29/09/2026 10:05
+5990c75d-cde4-42bc-b452-ebf1c31de253,conservation.kids,premium,384,21.24,high,low,12,namesilo,,,29/09/2026 23:26
+6248518e-5e2c-4fef-87ee-13d3884b21ce,conservation.cx,available,18.99,18.99,high,low,12,namesilo,,,29/09/2026 23:26
+4c043e41-656c-4b8a-ad91-972dd0837b72,biodiversity.fish,available,34.2,34.2,high,low,12,cloudflare,,,09/10/2026 01:34
 a8555bf8-db33-45f6-83a0-8273aae5d340,environment.church,available,14.99,58.99,high,medium,11,namesilo,,,22/10/2026 15:44
-cf1c788d-db48-4e36-a296-136641e089e1,green.bayern,premium,247.15,33.94,high,medium,5,dynadot,,,22/10/2026 13:28
+941e5f01-5d89-46c4-9ee8-5927ffc597ef,conservation.lawyer,premium,,,high,low,12,,,,29/09/2026 23:26
+820d5cc6-6f89-48c7-ab01-fcf7f5fa599e,energy.pw,premium,3450,3450,high,medium,6,namesilo,,,08/10/2026 08:27
+71b528e5-569a-423f-939b-530d0b7e3279,natural.enterprises,available,9.48,53.48,high,low,7,namecheap,,,09/10/2026 20:49
+e59f9027-d32d-42db-b852-191a784f712d,green.rsvp,premium,516.67,516.67,high,high,5,spaceship,,,25/10/2026 23:21
+06389975-d34f-4162-a16f-6394c2c74db0,nature.reisen,available,3.99,20.99,high,low,6,namesilo,,,08/09/2026 02:43
+16d9c271-c78c-479a-acfa-7c5573bca313,natural.gold,premium,414.2,414.2,high,low,7,spaceship,,,09/10/2026 20:49
 8c5577c4-e78e-46a1-9fbe-1467be6a84bf,ecosystem.flights,available,58.99,58.99,high,low,9,namesilo,,,06/10/2026 08:32
 99d8868d-4663-4712-9de1-2427b0787f27,environment.vana,available,2060.25,2060.25,high,medium,11,porkbun,,,22/10/2026 15:44
+6b4f68c9-e4c5-4a26-8b81-c89d2cc64009,ecology.engineering,available,16.99,64.99,high,low,7,namesilo,,,23/09/2026 18:42
+c25c8f51-72dc-4b57-83e1-d22468a802f1,energy.melbourne,premium,2297.46,2297.46,high,medium,6,dynadot,,,08/10/2026 08:27
+e037092f-7163-47cc-aef2-68f76c396980,natural.boo,premium,323.7,323.7,high,low,7,namecheap,,,09/10/2026 20:49
 eaa9fbf4-c2e0-478b-b9b9-4511e5e6a072,ecosystem.art,premium,127.51,72.65,high,low,9,spaceship,,,06/10/2026 08:32
-7b34ec06-2c56-41e9-adec-cf9a49c39db1,green.lgbt,available,,,high,low,5,,,,23/10/2026 09:31
-ad89fc54-ac16-4908-88df-470945b96b8b,environment.reise,available,27.89,97.99,high,medium,11,namesilo,,,22/10/2026 15:44
+756720f2-343f-49e8-bbcc-7e0f4b6a4c63,energy.cleaning,premium,102.67,102.67,high,medium,6,spaceship,,,08/10/2026 08:27
+9de790cb-8d7e-46e3-8b15-40d01377f8c8,ecology.engineer,available,38.99,38.99,high,low,7,namesilo,,,23/09/2026 18:42
+9611e110-a72c-46ea-bb63-f143be3ec22e,conservation.limited,available,8.24,30.18,high,low,12,dynadot,,,29/09/2026 23:26
+fda99066-971b-4e36-b500-b7e9d55ed6ae,conservation.mov,premium,30.22,30.22,high,low,12,spaceship,,,29/09/2026 23:26
+d5b29c37-e8dd-4308-bda9-5541ef4bfba5,habitat.storage,available,509.99,529.99,high,high,7,namesilo,,,25/10/2026 19:45
 8934b255-f70e-442d-ae0c-4d24106f7520,ecosystem.army,available,17.48,48.98,high,low,9,namecheap,,,06/10/2026 08:32
+48a1e1a1-fd2b-4322-894e-0e546d7a0c06,ecology.schule,available,28.99,28.99,high,low,7,namesilo,,,23/09/2026 18:42
 a75f8b20-16cd-4ae5-9b2e-ef0599977036,ecosystem.schule,available,29.98,32.98,high,low,9,namecheap,,,06/10/2026 08:32
+b855a3d9-6f3c-4175-9eb7-8e3505dc1baa,nature.furniture,available,23.98,127.98,high,low,6,namecheap,,,08/09/2026 02:43
 81bb0ed5-88f1-4b96-aa43-ab2f094b8b05,ecosystem.discount,available,29.98,39.98,high,low,9,namecheap,,,06/10/2026 08:32
 02ff2a55-db75-4e07-bdc9-522a85cf8880,ecosystem.graphics,available,21.62,21.62,high,low,9,dynadot,,,06/10/2026 08:32
 a84fdb1f-012a-4668-a397-f47a525e4371,natural.organic,resell,,,high,low,7,"Sav.com, LLC - 37",23/02/2023 15:16,23/02/2027 15:16,09/10/2026 20:49
 e44fc271-b86e-4e40-8397-2fb981ac94a0,environment.film,premium,242,242,high,medium,11,namesilo,,,22/10/2026 15:44
-10053415-d21e-4de5-b785-c9e20dddbecf,environment.reisen,available,3.99,20.99,high,medium,11,namesilo,,,22/10/2026 15:44
+902b0190-814f-455f-a4b9-36c3ea1c60b2,natural.town,available,8.99,36.49,high,low,7,namesilo,,,09/10/2026 20:49
+3d573667-f1dc-4a53-9a73-a1579af5b946,climate.foo,premium,129.2,,high,medium,7,unstoppable,,,29/09/2026 10:05
 2d0180be-09cb-475d-8f10-3e66b495a061,nature.organic,resell,,,high,low,6,"Sav.com, LLC - 26",16/08/2025 15:15,16/08/2027 15:15,26/09/2026 07:43
-a6b714b0-2c5e-407e-9ab7-cd347ffdecf7,environment.army,available,30.2,30.2,high,medium,11,cloudflare,,,22/10/2026 15:44
+0f909f3c-7de6-47e3-83d4-901d25a0dc71,green.community,premium,78.54,78.54,high,high,5,namesilo,,,25/10/2026 23:21
+a5b6052f-a02e-48e5-9bf8-c6c77f8a9c2f,conservation.srl,available,31.99,31.99,high,low,12,namesilo,,,29/09/2026 23:26
+ec13c451-effa-4662-a6ec-aaefd059cb91,natural.talk,premium,640,640,high,low,7,namesilo,,,09/10/2026 20:49
+3e870d2a-acdd-4062-9ee5-fb0b584ff3a1,green.guide,premium,118.8,118.8,high,high,5,namesilo,,,25/10/2026 23:21
+07078476-6903-4d7d-b832-74c48337a8ab,ecology.nyc,available,32.98,43.98,high,low,7,namecheap,,,23/09/2026 18:42
+622a7f77-115e-4ee9-b94f-be3bcd843255,natural.fans,available,,,high,low,7,,,,18/10/2026 09:29
+6a8ac887-be6d-459b-8dda-14dc72fd5fb7,natural.bayern,available,34.99,34.99,high,low,7,namesilo,,,09/10/2026 20:49
 a5b50f13-fafa-43e7-9949-eaf801c2dfa8,ecosystem.dental,available,81.98,100.98,high,low,9,namecheap,,,06/10/2026 08:32
-9cf87db6-d714-4994-b2e9-28f03beea517,environment.financial,available,45.2,45.2,high,medium,11,cloudflare,,,22/10/2026 15:44
+117d52e0-a31a-4e86-aff8-37fa70d2b647,green.racing,premium,103.7,103.7,high,high,5,spaceship,,,25/10/2026 23:21
 0c6b7fd4-2022-4eff-8e3c-d8b6d6b397cf,ecosystem.food,premium,640,640,high,low,9,namesilo,,,06/10/2026 08:32
-d8833d78-989e-41d5-8fd4-33c05f9d5a5c,environment.education,premium,85.8,85.8,high,medium,11,namecheap,,,22/10/2026 15:44
-a0c6c855-259e-4472-a9a1-eb430bc53c16,environment.estate,available,15,38.99,high,medium,11,unstoppable,,,22/10/2026 15:44
+6372d4f0-f3ce-4163-8877-b3b485a8cc8c,ecology.live,resell,,,high,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",16/01/2021 10:25,16/01/2027 10:25,26/09/2026 05:45
+f7762792-9e7f-4033-80c4-b6024fa3e884,climate.bargains,available,17.99,26.49,high,medium,7,namesilo,,,29/09/2026 10:05
+d8b2b5e7-985f-499d-8f08-4e07d06a0468,nature.coach,resell,,,high,low,6,Squarespace Domains II LLC,08/08/2021 08:19,08/08/2028 08:19,26/09/2026 07:43
 5f5b1d8c-3a73-44ea-a727-817e1843c62b,ecosystem.forsale,available,12.62,29.18,high,low,9,spaceship,,,06/10/2026 08:32
-11f8d6c8-a00e-4fbf-a579-e1e1e9f9f275,green.trading,resell,,,high,medium,5,Dynadot Inc,21/07/2019 08:13,21/07/2027 23:59,22/10/2026 13:28
-0138e3c4-47a5-4749-88f9-84fcd54029d8,environment.vip,resell,,,high,medium,11,"Chengdu West Dimension Digital Technology Co., Ltd.",28/05/2025 00:00,28/05/2027 00:00,22/10/2026 15:44
-60070def-6ff9-4646-95b8-e1e755b3518a,green.protection,available,2064.2,2064.2,high,medium,5,spaceship,,,22/10/2026 13:28
-b2a33d1d-9a8f-49a0-bb0c-c11a6b5cd5b2,green.media,resell,,,high,medium,5,Dynadot Inc,08/10/2022 13:15,08/10/2027 13:15,22/10/2026 13:28
-203e0ccc-014f-4436-953c-4f82db36c66a,environment.contractors,available,35.49,35.49,high,medium,11,namesilo,,,22/10/2026 15:44
+6fc02d32-b99a-46c0-8fc2-70848de71f40,natural.florist,premium,207.2,207.2,high,low,7,spaceship,,,09/10/2026 20:49
+6fbb8cc6-f07b-43e1-be89-9ff9490620f1,conservation.ing,premium,,,high,low,12,,,,29/09/2026 23:26
+e2c219b3-ab5c-4e40-81bc-ccc967695e1f,ecology.mortgage,available,62.99,62.99,high,low,7,namesilo,,,23/09/2026 18:42
+40d2b30b-a484-4ede-aa3b-963c9b6e8ff5,energy.lgbt,available,10.55,64.37,high,medium,6,spaceship,,,08/10/2026 08:27
+e78a404e-4340-4a7d-b053-f64e3db96704,ecology.cleaning,available,75.49,75.49,high,low,7,namesilo,,,23/09/2026 18:42
+fb0408d7-07c9-4463-b2e7-f0ef1cb6e985,green.vana,available,2140.22,2140.22,high,high,5,dynadot,,,25/10/2026 23:21
+2759a978-8197-42f8-a732-4f2bdd211334,energy.tax,resell,,,high,medium,6,"Chengdu West Dimension Digital Technology Co., Ltd.",21/04/2020 09:45,21/04/2027 09:45,08/10/2026 08:27
+84018907-bc3d-4e6b-a86e-42d5d8fa3fe8,conservation.fan,available,43.67,43.67,high,low,12,spaceship,,,29/09/2026 23:26
+2736da5f-9aeb-41fa-bfb2-eeaa0f9fe064,nature.accountant,premium,448,53.92,high,low,6,namesilo,,,08/09/2026 02:43
+be7ea61c-5c59-499d-8fb0-256e786a2b95,conservation.kaufen,available,23.94,23.94,high,low,12,spaceship,,,29/09/2026 23:26
+dce3432d-d4ef-4dd6-98ab-ea8e78dcd3b4,ecology.fun,premium,302.5,302.5,high,low,7,namesilo,,,23/09/2026 18:42
+6236b67c-c6c5-4fb0-a730-803050c9add8,conservation.bond,premium,68.43,147.2,high,low,12,namesilo,,,29/09/2026 23:26
+bfa53cb3-b162-4334-9c34-90a1cab81b4e,ecology.black,available,17.48,82.98,high,low,7,namecheap,,,23/09/2026 18:42
+7f7b3963-d005-45b7-bd2f-e3a37d47c01b,ecology.la,resell,,,high,low,7,LA Domain Names,14/06/2012 18:57,14/06/2027 23:59,26/09/2026 05:45
+273dafa7-98ac-4115-b9c4-a067d1dadee7,natural.gift,available,,,high,low,7,,,,18/10/2026 09:29
+bec91130-cd3f-4244-adbc-4302b29f4ca7,climate.christmas,available,34.99,34.99,high,medium,7,namesilo,,,29/09/2026 10:05
+2c6cd30e-53b7-4063-9078-b0728e931ef7,ecological.dog,available,5.38,51.95,high,low,10,spaceship,,,05/10/2026 17:06
+f74fa184-48ea-4155-be37-5ca41f77340e,energy.education,resell,,,high,medium,6,"GoDaddy.com, LLC",22/12/2015 12:54,22/12/2026 12:54,08/10/2026 08:27
+fb72a325-0972-46b4-a7af-dc5ee12d260c,energy.irish,available,7.49,22.49,high,medium,6,namesilo,,,08/10/2026 08:27
+160eceb6-7fb3-418b-9543-183539370e05,climate.fans,available,4.98,13.98,high,medium,7,namecheap,,,29/09/2026 10:05
+63ff03f5-ecca-41c3-b46f-735a6d0df40e,green.fan,premium,520,520,high,high,5,namecheap,,,25/10/2026 23:21
+cffe2f03-7e6e-494c-8c3c-8d61404eecd8,natural.immo,available,28.15,28.15,high,low,7,spaceship,,,09/10/2026 20:49
+3c340e94-f910-4261-8269-a6a92441f54a,nature.engineer,available,38.99,38.99,high,low,6,namesilo,,,08/09/2026 02:43
+e481d1bb-6138-43ab-b975-dc593aaa7f06,nature.gift,premium,153.6,153.6,high,low,6,namesilo,,,08/09/2026 02:43
+cfa7ad81-30cc-4fa9-8334-57984f7ea095,conservation.loans,available,20.99,116.99,high,low,12,namesilo,,,29/09/2026 23:26
 532591f7-8ac6-47ec-8015-6931b1cce111,ecosystem.lawyer,available,62.99,62.99,high,low,9,namesilo,,,06/10/2026 08:32
+f79a4052-912c-4c1b-8aa2-66229fa2edd8,green.kids,premium,310.7,18.83,high,high,5,spaceship,,,25/10/2026 23:21
+ef508b29-e3ad-4916-872a-770255b19e8e,natural.adult,premium,256.88,256.88,high,low,7,spaceship,,,09/10/2026 20:49
 4b369793-f188-4f75-9edf-6d815f0cc913,ecosystem.bike,available,12,31.25,high,low,9,unstoppable,,,06/10/2026 08:32
+6abcf09d-7e74-4e3d-ba5e-9d795f0f82f4,green.gratis,premium,207.2,207.2,high,high,5,spaceship,,,25/10/2026 23:21
+0c890ca3-5ba4-49e1-9b38-61926638d40e,conservation.hair,available,1.99,17.29,high,low,12,namesilo,,,29/09/2026 23:26
+d3f8f6da-1e10-4a48-af5e-5eef86b96978,natural.kitchen,resell,14.99,,high,low,7,"Sav.com, LLC",25/06/2026 17:46,25/06/2027 17:46,09/10/2026 20:49
+cac52b72-fe59-4b02-b68d-9054e6474f15,climate.maison,available,57.99,57.99,high,medium,7,namesilo,,,29/09/2026 10:05
+39f65bc2-314e-479b-9e96-6d2601e42be7,natural.cyou,premium,384,768,high,low,7,namesilo,,,09/10/2026 20:49
+5abfccbc-be0e-4d6a-a73d-2957cbbafd65,natural.hair,premium,2660,2660,high,low,7,namesilo,,,09/10/2026 20:49
+cc051db9-546d-4e42-af4a-34b900696430,conservation.beer,available,2.19,32.49,high,low,12,namesilo,,,29/09/2026 23:26
+2a660a64-e570-432c-8d44-09a032f21f89,nature.lighting,available,22.98,31.98,high,low,6,namecheap,,,08/09/2026 02:43
 aaee8004-111f-4ea2-b3ff-db04aef32482,ecosystem.cfd,premium,59.71,119.23,high,low,9,spaceship,,,06/10/2026 08:32
-40ccaa6f-a915-4b2c-afcf-a6e3f5b26001,environment.trade,premium,362.45,51.95,high,medium,11,spaceship,,,22/10/2026 15:44
+6750fac0-42f6-4fc1-81c2-ee2241e303f6,nature.party,available,,,high,low,6,,,,
+05d8fc75-cef7-4b72-b5e1-aa1bd82593a1,nature.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,08/09/2026 02:43
+5e9af626-af72-42e7-b5c7-44353700eb9f,biodiversity.ing,premium,150.2,,high,low,12,unstoppable,,,09/10/2026 01:34
+fc6b2e7a-22b6-4920-b748-c80a65ff555e,nature.zone,resell,,,high,low,6,"DNSPod, Inc.",31/01/2019 15:28,31/01/2027 15:28,26/09/2026 07:43
 0f4dafbd-442c-42ed-a500-35d5d2439cbf,energy.so,resell,,,high,medium,6,NameCheap,18/08/2020 03:02,18/08/2025 03:02,
+a53cf902-9204-4c93-b5ab-2b8dcd5ba8fe,ecological.support,available,8.99,26.99,high,low,10,namesilo,,,05/10/2026 17:06
+85a88c63-641e-4e14-9bde-149f1aa98d3b,nature.pw,premium,1107,1107,high,low,6,namesilo,,,08/09/2026 02:43
+cb76a8cb-27a1-454b-bc90-2a7bc03eff84,ecology.finance,resell,,,high,low,7,Dynadot Inc,03/01/2024 16:06,03/01/2027 16:06,26/09/2026 05:45
+88d76365-ff69-4d11-8ad4-78797cf2290d,ecology.camera,available,58.99,58.99,high,low,7,namesilo,,,23/09/2026 18:42
+4165be7b-17b2-42aa-91c6-06c4b6bbb7ce,ecology.tattoo,available,34.99,34.99,high,low,7,namesilo,,,23/09/2026 18:42
 c7f6f0d5-0a95-48e8-ab1a-4bc7f553282e,ecosystem.dance,available,9.52,21.94,high,low,9,spaceship,,,06/10/2026 08:32
-2b49a237-c8b0-4169-ab7d-ae5fc922b1da,environment.haus,available,14.99,33.99,high,medium,11,namesilo,,,22/10/2026 15:44
-15176889-ce68-47a9-a303-9b95e0501510,green.football,resell,,,high,medium,5,Dynadot Inc,20/05/2020 18:47,20/05/2027 18:47,22/10/2026 13:28
-c3751e4f-42d0-47fb-ad64-a3020ff000cc,environment.zone,available,12,30.2,high,medium,11,unstoppable,,,22/10/2026 15:44
-cfc75890-3dd3-4090-b9bc-7c8528f3b069,environment.gratis,available,21.11,21.11,high,medium,11,porkbun,,,22/10/2026 15:44
+30803689-6bcb-458d-9ce8-f92ad9d0c5be,green.discount,premium,102.67,102.67,high,high,5,spaceship,,,25/10/2026 23:21
+9772784e-b417-4159-8e50-008776bbd879,energy.hot,premium,517.7,517.7,high,medium,6,spaceship,,,08/10/2026 08:27
+36f61fa5-2b96-416a-8d72-1a0e974645b5,conservation.you,premium,53.92,53.92,high,low,12,namesilo,,,29/09/2026 23:26
+16e7c29d-36c7-4418-80c4-e4577b9e2d88,natural.monster,premium,,,high,low,7,,,,09/10/2026 20:49
+286d2b04-a7d4-469a-a4cc-8de1bfca7575,ecology.hot,premium,116,116,high,low,7,namesilo,,,23/09/2026 18:42
+689c4a1f-c684-4199-8bd2-8e432b2ee146,natural.email,resell,,,high,low,7,Dynadot Inc,22/01/2026 17:01,22/01/2027 17:01,09/10/2026 20:49
+d0e84282-dcdd-4937-ba5c-c689ef62a389,natural.mobi,available,,,high,low,7,,,,18/10/2026 09:29
+e02f8871-ac81-4dc5-92bc-1d9b92cb5c5f,energy.lawyer,premium,1035.2,1035.2,high,medium,6,spaceship,,,08/10/2026 08:27
+53115c4c-4ed7-4723-a95f-6ba72a2b220c,conservation.forsale,available,16.99,36.99,high,low,12,namesilo,,,29/09/2026 23:26
+d27d412b-d72c-4468-a149-7bf4ee639c2a,sustainable.lifestyle,premium,1449.2,2070.2,high,low,11,spaceship,,,01/10/2026 22:43
+e672513f-9478-46fc-bda2-0cae88017db9,conservation.bayern,available,34.99,34.99,high,low,12,namesilo,,,29/09/2026 23:26
+0fcee524-7ca5-48e7-b05c-1b422312859a,natural.company,resell,,,high,low,7,"Spaceship, Inc.",21/09/2025 15:15,21/09/2027 15:15,09/10/2026 20:49
+ae0d966f-dcf8-4965-9360-5d2f01c018a3,sustainable.furniture,resell,,,high,low,11,,,,01/10/2026 22:43
+91536906-720c-4c06-8b06-bc78f33ec9a2,natural.rent,available,17.99,59.99,high,low,7,namesilo,,,09/10/2026 20:49
+6575be5a-ea85-4341-8171-7bdf01694beb,sustainable.moi,available,25.99,25.99,high,low,11,namesilo,,,01/10/2026 22:43
+7818c3db-9b2b-4a9d-9df0-cd05dbf5b901,climate.life,resell,,,high,medium,7,Edomains LLC,20/03/2025 15:15,20/03/2027 15:15,29/09/2026 10:05
+eed37bb8-2dc2-424f-bacc-19b3e4bdab8b,ecology.estate,available,15.99,38.99,high,low,7,namesilo,,,23/09/2026 18:42
 b074b14b-ac73-4947-9057-d933c9492f92,ecosystem.spot,available,25.99,25.99,high,low,9,namesilo,,,06/10/2026 08:32
-10bb7592-0ba0-4697-bfef-d8483744a618,habitat.rent,available,45.2,45.2,high,high,7,cloudflare,,,24/10/2026 02:30
-0f909f3c-7de6-47e3-83d4-901d25a0dc71,green.community,premium,,,high,medium,5,,,,24/10/2026 04:49
-e59f9027-d32d-42db-b852-191a784f712d,green.rsvp,premium,499.2,516.67,high,medium,5,unstoppable,,,22/10/2026 13:28
-9f7dc31c-62ef-453b-bd84-4d201151f565,environment.hospital,available,74.99,74.99,high,medium,11,namesilo,,,22/10/2026 15:44
+37810a85-256d-4d86-a1d4-2f0601812bbc,climate.adult,available,51.95,98.53,high,medium,7,spaceship,,,29/09/2026 10:05
+f76b67fc-9a92-4410-92bc-bc9725787553,natural.flights,available,58.99,58.99,high,low,7,namesilo,,,09/10/2026 20:49
+113f3c4d-2224-487d-a522-ecbfa698ffe2,conservation.protection,available,1999.99,2049.99,high,low,12,namesilo,,,29/09/2026 23:26
+10bb7592-0ba0-4697-bfef-d8483744a618,habitat.rent,available,1.18,51.95,high,high,7,spaceship,,,25/10/2026 19:45
+dc07fe3b-3455-4cc2-be46-a061e1263d77,climate.clothing,available,32.99,32.99,high,medium,7,namesilo,,,29/09/2026 10:05
+c8ce1ed7-1414-418f-b1d9-7a339e1bc3a2,conservation.party,premium,5500,110,high,low,12,dynadot,,,29/09/2026 23:26
+65869edc-2ac7-4512-8f2d-adfdcf3d3e6a,natural.cleaning,premium,260,260,high,low,7,namecheap,,,09/10/2026 20:49
+ba8cefdb-b2b0-4efe-a449-03e99a094f51,natural.gmbh,available,36.43,36.43,high,low,7,spaceship,,,09/10/2026 20:49
+ba396f72-be24-4791-a282-75abc7847b85,energy.study,premium,650,650,high,medium,6,namecheap,,,08/10/2026 08:27
+4c7c8a5c-5390-41be-8f7e-e8a804535641,ecology.vin,available,6.98,75.98,high,low,7,namecheap,,,23/09/2026 18:42
+1e9cdda2-e09c-4f4e-969f-ba5ad4553c74,ecology.kiwi,available,31.98,35.68,high,low,7,namecheap,,,23/09/2026 18:42
+09d30caf-43df-48ae-89b7-f1f3c19f2582,green.gripe,premium,38.94,38.94,high,high,5,namesilo,,,25/10/2026 23:21
+1b9f4c08-fa5c-4d09-b3ee-4b70913fa551,natural.chat,resell,,,high,low,7,Xin Net Technology Corporation,27/07/2024 15:15,27/07/2027 15:15,09/10/2026 20:49
+dea19eb2-4970-4da4-8bbf-5099be782e78,biodiversity.business,available,24.99,24.99,high,low,12,namesilo,,,09/10/2026 01:34
+11d77b74-9804-4672-9606-d009efe87efc,ecology.luxury,available,,,high,low,7,,,,23/09/2026 18:42
+09348985-183b-4ab8-bf1c-3e229c19774a,natural.republican,available,25.2,25.2,high,low,7,cloudflare,,,09/10/2026 20:49
+d579e7ab-ad8f-471e-9b16-4e7b03d72187,ecology.moda,available,41.99,41.99,high,low,7,namesilo,,,23/09/2026 18:42
 e47add81-5714-47ed-ac14-54cefedf31d4,ecosystem.boutique,available,2.27,26.08,high,low,9,spaceship,,,06/10/2026 08:32
+91cbcbd8-9f08-4fa3-bb26-1b56b49b2396,energy.cfd,premium,384,768,high,medium,6,namesilo,,,08/10/2026 08:27
 4d8f46d8-2bd0-4f72-aa9d-243ad97b27d4,ecosystem.broker,available,13.5,29.18,high,low,9,unstoppable,,,06/10/2026 08:32
-fb0408d7-07c9-4463-b2e7-f0ef1cb6e985,green.vana,available,2298,2498,high,medium,5,namecheap,,,22/10/2026 13:28
-3a79cf91-8a52-44be-8020-467ea2d838ec,green.careers,resell,,,high,medium,5,"GoDaddy.com, LLC",28/01/2024 10:52,28/01/2027 10:52,22/10/2026 13:28
-5905889f-7b25-4f7e-8314-20a1e78644b1,energy.rodeo,premium,104,13,high,medium,6,namecheap,,,08/10/2026 08:27
-3e870d2a-acdd-4062-9ee5-fb0b584ff3a1,green.guide,premium,102.67,102.67,high,medium,5,spaceship,,,22/10/2026 13:28
-1b4bb1c1-fef1-4ce1-b2bf-903960ff56e7,ecosystem.diy,premium,362.45,517.7,high,low,9,spaceship,,,06/10/2026 08:32
-f3a41b92-4cc9-4894-8f0b-cec1505c2d77,environment.beer,available,1.98,43.98,high,medium,11,namecheap,,,22/10/2026 15:44
-758a0145-b218-4101-a2e1-21d2e7ae041f,green.plus,resell,,,high,medium,5,"Xiamen ChinaSource Internet Service Co., Ltd",04/10/2025 15:15,04/10/2027 15:15,22/10/2026 13:28
-117d52e0-a31a-4e86-aff8-37fa70d2b647,green.racing,premium,103.7,103.7,high,medium,5,spaceship,,,22/10/2026 13:28
-1dde2d9d-d48b-48b1-97db-a67fa46728b1,environment.construction,available,31.25,31.25,high,medium,11,spaceship,,,22/10/2026 15:44
-63ff03f5-ecca-41c3-b46f-735a6d0df40e,green.fan,premium,520,520,high,medium,5,namecheap,,,22/10/2026 13:28
-7037c75c-b47b-4a64-b951-1a34df4afbf8,energy.contact,resell,,,high,medium,6,Porkbun LLC,09/12/2020 16:00,09/12/2026 16:00,08/10/2026 08:27
-f79a4052-912c-4c1b-8aa2-66229fa2edd8,green.kids,premium,310.7,18.83,high,medium,5,spaceship,,,22/10/2026 13:28
-6abcf09d-7e74-4e3d-ba5e-9d795f0f82f4,green.gratis,premium,207.2,207.2,high,medium,5,spaceship,,,22/10/2026 13:28
-cad4172c-de70-41cd-9a7d-7679b5650f4a,environment.tube,available,,,high,low,11,,,,23/10/2026 09:25
-f06f77f4-de27-455b-af9e-afef4b4d47d3,habitat.ryukyu,available,17.98,22.98,high,high,7,namecheap,,,24/10/2026 02:30
-ed6618fa-3603-4844-a13f-77d57d037a00,ecosystem.solutions,resell,,,high,low,9,Dynadot Inc,01/02/2026 17:00,01/02/2027 17:00,06/10/2026 08:32
-ca4e12c7-76a3-4fac-b03e-61a4808cbc5b,environment.gallery,available,22.2,22.2,high,medium,11,cloudflare,,,22/10/2026 15:44
-81946ff4-569d-4b46-8cd0-382fa6c08ee0,energy.paris,premium,308.03,308.03,high,medium,6,dynadot,,,08/10/2026 08:27
-742f2552-8a78-4376-93cc-35bb73fbef16,conservation.cc,resell,,,high,low,12,,,,29/09/2026 23:26
-7cd2b644-46d5-4ed2-9042-f483677fd978,habitat.feedback,available,300.2,300.2,high,high,7,cloudflare,,,24/10/2026 02:30
-f03e2e26-1957-418c-8993-a7fedf45c492,habitat.film,available,65.99,65.99,high,high,7,namesilo,,,24/10/2026 02:30
-c113ef65-ded3-4139-89d6-4104edb21fe5,green.exchange,resell,,,high,medium,5,Unstoppable Domains Inc,26/05/2021 08:28,26/05/2027 08:28,22/10/2026 13:28
-b1384e51-e65e-4b8e-b0ad-8a15fcec1856,ecosystem.webcam,available,11.99,11.99,high,low,9,namesilo,,,06/10/2026 08:32
-30803689-6bcb-458d-9ce8-f92ad9d0c5be,green.discount,premium,108.9,108.9,high,medium,5,dynadot,,,22/10/2026 13:28
-e280e2c6-0d2e-4ee2-8a33-458edfe7bd67,environment.to,resell,,,high,medium,11,Tonic,01/06/2023 02:27,01/08/2027 00:00,22/10/2026 15:44
-e18ab276-97db-4605-95f9-96334aa7a365,habitat.mom,available,1.99,27.99,high,high,7,namesilo,,,24/10/2026 02:30
-2213017c-fd62-4f46-9554-84df1926d668,energy.charity,premium,260,260,high,medium,6,namecheap,,,08/10/2026 08:27
-a9b817cd-31ce-4947-9815-7ef8d5a9be08,green.mobi,available,,,high,low,5,,,,23/10/2026 09:31
-81f880af-0e97-4fe9-8df7-f624ab46ba0f,environment.science,premium,1107,116,high,medium,11,namesilo,,,22/10/2026 15:44
-7a24fee3-093c-4dae-9017-f3fdd21e887b,ecosystem.villas,available,47.81,47.81,high,low,9,spaceship,,,06/10/2026 08:32
-8f5550c7-7b5b-4465-a617-3a5ddffa85e7,energy.taxi,resell,,,high,medium,6,"GoDaddy.com, LLC",20/10/2025 20:21,20/10/2027 20:21,21/10/2026 05:28
-c8241092-940f-461f-8934-25f00132ec2e,energy.vegas,premium,260,129.94,high,medium,6,namecheap,,,08/10/2026 08:27
-287eac85-057c-4dad-87b8-f8f23effeab0,energy.website,premium,1107,1107,high,medium,6,namesilo,,,08/10/2026 08:27
-8c89284f-c39c-4ca5-b282-d51605724f4f,energy.rest,premium,576,576,high,medium,6,namesilo,,,08/10/2026 08:27
-41e9690a-696b-49a3-8795-f014f0d6f878,environment.fan,available,43.67,43.67,high,medium,11,spaceship,,,22/10/2026 15:44
-e8a99906-358b-4b87-bf67-dbcd2dedad2e,environment.voto,available,10.92,58,high,medium,11,dynadot,,,22/10/2026 15:44
-8b4df7f1-f750-40b1-b627-8dcdde973cfd,energy.store,premium,3450,3450,high,medium,6,namesilo,,,08/10/2026 08:27
-720607d7-581b-4fc3-8636-dc0c0da94300,ecosystem.racing,premium,116,116,high,low,9,namesilo,,,06/10/2026 08:32
-0aefbf66-ca76-46b2-bcc7-d9bf2fcaa6dc,environment.democrat,available,5.98,8.48,high,medium,11,namecheap,,,22/10/2026 15:44
-ff29a61d-1c05-4117-816f-ec43c2b3f5be,ecosystem.parts,available,9.52,33.32,high,low,9,spaceship,,,06/10/2026 08:32
-382d0ee3-4761-446c-8aa7-58ef90d300b5,ecosystem.shop,premium,5175.2,5175.2,high,low,9,spaceship,,,06/10/2026 08:32
-a58c93a8-b8c1-44a9-a6ae-1f0a8fba6135,green.blog,available,,,high,low,5,,,,23/10/2026 09:31
-4494d5d8-0207-4366-ae78-db213490cd71,ecosystem.kiwi,available,31.98,35.68,high,low,9,namecheap,,,06/10/2026 08:32
-c7eacb5c-8718-49ff-8ae9-8e93911fb5e1,environment.land,available,8.78,35.53,high,medium,11,dynadot,,,22/10/2026 15:44
-07e07fd5-903b-47d7-a825-224ea65b2477,conservation.cars,available,1863.2,2064.2,high,low,12,spaceship,,,29/09/2026 23:26
-30745a5f-6131-4124-a062-a6928a1b6199,habitat.christmas,available,1.24,31.16,high,high,7,spaceship,,,24/10/2026 02:30
-abe769d2-3d2e-44d1-b30d-997cde9efba3,green.pet,available,,,high,low,5,,,,23/10/2026 09:31
-51a79725-89af-4da2-b5d3-2d91d0f0fac2,green.vin,resell,,,high,medium,5,"Xiamen ChinaSource Internet Service Co., Ltd",30/01/2022 13:15,30/01/2027 13:15,22/10/2026 13:28
-ea0c7b78-5029-4cd5-bf71-c648ab4158e9,ecosystem.diet,available,104.99,114.99,high,low,9,namesilo,,,06/10/2026 08:32
-db08819e-232b-4901-973b-228ec98737d5,energy.maison,premium,118.8,118.8,high,medium,6,namesilo,,,08/10/2026 08:27
-a8d2f9dc-4d2f-4ad9-b978-fa55f0adabbf,energy.family,resell,,,high,medium,6,Squarespace Domains II LLC,20/06/2021 18:53,20/06/2027 18:53,08/10/2026 08:27
-d69f32cf-5fc7-4a20-833d-c01904e8bec0,habitat.makeup,available,1.99,17.29,high,high,7,namesilo,,,24/10/2026 02:30
-216a8962-8598-4324-b5f5-ff9e30a9afe0,ecosystem.camp,available,49.88,49.88,high,low,9,spaceship,,,06/10/2026 08:32
-95b35920-6e57-4c88-89f0-e1a71c242f49,environment.cars,available,1863.2,2064.2,high,medium,11,spaceship,,,22/10/2026 15:44
-09d30caf-43df-48ae-89b7-f1f3c19f2582,green.gripe,premium,38.94,38.94,high,medium,5,namesilo,,,22/10/2026 13:28
-b00493d0-0489-400e-806f-4cf24b1cc14a,environment.villas,available,47.81,47.81,high,medium,11,spaceship,,,22/10/2026 15:44
-ab221325-723d-4b50-886d-6db449925747,environment.webcam,premium,550,71.5,high,medium,11,dynadot,,,22/10/2026 15:44
-65aef167-48c2-4eff-90af-7310acbc8c86,green.free,premium,1100,1100,high,medium,5,dynadot,,,22/10/2026 13:28
-4ef56baa-8c13-4b48-bea1-5a5321be5b07,environment.travel,available,27.99,149.99,high,medium,11,namesilo,,,22/10/2026 15:44
-8f06f79d-3717-4258-a3d4-8de97088e06a,environment.bz,available,,,high,low,11,,,,23/10/2026 09:25
-9bd9632b-bf0b-4c64-983b-337cd2d87d13,environment.one,premium,650,650,high,medium,11,namecheap,,,22/10/2026 15:44
-55f587e3-74c9-4e2f-b73f-825ba5610511,green.food,premium,1449.2,2070.2,high,medium,5,spaceship,,,22/10/2026 13:28
-f63f2c73-b0ce-4414-a790-e41faa7c6722,energy.florist,available,26.08,26.08,high,medium,6,spaceship,,,08/10/2026 08:27
-7bab281c-8b7a-4b6b-bad6-ec76f94b47d6,environment.flights,available,58.99,58.99,high,medium,11,namesilo,,,22/10/2026 15:44
-0254b2a1-1536-4913-a426-467d8a60a856,environment.fish,premium,102.67,102.67,high,medium,11,spaceship,,,22/10/2026 15:44
-432b3682-a9f4-4efb-830a-7316242c61cb,green.sexy,resell,,,high,medium,5,Porkbun LLC,25/02/2014 16:20,25/02/2027 16:20,22/10/2026 13:28
-e70e35c2-7233-4789-b226-2216e5b27bf8,environment.pictures,available,12.2,12.2,high,medium,11,cloudflare,,,22/10/2026 15:44
-d29801cb-1dde-487e-bec5-b7e388c01ac0,environment.motorcycles,available,1.99,17.29,high,medium,11,namesilo,,,22/10/2026 15:44
-1571da0d-1b90-48e6-95ab-95b385801fee,green.ing,premium,13000,13000,high,medium,5,namecheap,,,22/10/2026 13:28
-f371fc5e-7036-44ac-b0d1-36c69c1dc545,energy.mom,premium,832,832,high,medium,6,namesilo,,,08/10/2026 08:27
-7b907cc8-c07a-4bb0-85c3-fe6e5e8d5f53,habitat.ong,available,16.72,16.72,high,high,7,dynadot,,,24/10/2026 02:30
-82b51c78-8b9d-4c89-aacb-fbdd518a8b74,conservation.zone,available,12,,high,low,12,unstoppable,,,29/09/2026 23:26
-4ab47a6b-b798-4474-8834-cf717572b1ed,ecosystem.direct,available,10.92,35.53,high,low,9,dynadot,,,06/10/2026 08:32
-9b6dd97f-71cf-441d-83cc-7bd1b122e9e9,environment.vodka,available,32.49,32.49,high,medium,11,namesilo,,,22/10/2026 15:44
-b86591fc-d3d2-455b-b15a-7730cad18c46,green.store,premium,5000.2,6900,high,medium,5,unstoppable,,,22/10/2026 13:28
-184dafb6-9d30-4afe-aacb-147cfa083635,conservation.gallery,available,28.99,28.99,high,low,12,namesilo,,,29/09/2026 23:26
-5ccc1661-74e1-4da9-bea6-6dea92e80ebd,green.sucks,premium,2198.9,2198.9,high,medium,5,dynadot,,,22/10/2026 13:28
-23f3a12f-fe13-4f77-9b2c-0abb4f4fa450,environment.fashion,premium,207.2,26.08,high,medium,11,spaceship,,,22/10/2026 15:44
-051fd047-63c6-4f9c-8923-f456b717c94e,environment.security,available,2000.2,2000.2,high,medium,11,cloudflare,,,22/10/2026 15:44
-9db7f372-6217-4d2f-a629-82b836d8fa06,energy.villas,premium,242,242,high,medium,6,namesilo,,,08/10/2026 08:27
-055aecfc-b751-49d3-be79-b3d09d2e64fd,ecosystem.attorney,available,49.88,49.88,high,low,9,spaceship,,,06/10/2026 08:32
-eb513169-848f-458e-8094-5a88b3dcb62b,green.sarl,available,5.2,5.2,high,medium,5,cloudflare,,,22/10/2026 13:28
-446bbe6a-5b68-459a-bf36-42222e49a486,green.condos,premium,68.51,68.51,high,medium,5,spaceship,,,22/10/2026 13:28
-189039f7-51cf-47de-8d37-933862cdeea0,sustainability.ninja,available,42.98,,high,low,14,namecheap,,,
-a86c5437-13f8-411c-a7f2-7ef2c09ad50e,ecosystem.kim,available,12.99,23.49,high,low,9,namesilo,,,06/10/2026 08:32
-7db76e80-1265-490c-b0c7-29c71fd8528d,environment.kids,premium,310.7,18.83,high,medium,11,spaceship,,,22/10/2026 15:44
-70e89e42-0923-410e-845d-83455257adef,energy.love,premium,4347.2,6210.2,high,medium,6,spaceship,,,08/10/2026 08:27
-cdba2446-870c-42a4-826f-074444d16da8,ecosystem.condos,available,45.2,45.2,high,low,9,cloudflare,,,06/10/2026 08:32
-646ef56f-e92a-4e1f-bf11-4ac2a628290b,green.enterprises,resell,,,high,medium,5,Dynadot Inc,16/05/2018 18:34,16/05/2027 18:34,22/10/2026 13:28
-eaa077e9-4445-428c-bc40-bb80436c46a4,conservation.parts,available,32.2,32.2,high,low,12,cloudflare,,,29/09/2026 23:26
-2ac8be19-47a0-4a9a-97ed-f2f7aad62995,habitat.cam,available,2.98,22.98,high,high,7,namecheap,,,24/10/2026 02:30
-54e34ee4-9b56-4bdc-9ac1-74b2d9e96f2f,energy.me,resell,5750,27.99,high,medium,6,"GoDaddy.com, LLC",15/08/2008 09:59,15/08/2027 09:59,08/10/2026 08:27
-7a8d561b-7487-4648-9a9e-33e18bdda67b,energy.auto,available,1999.99,2199,high,medium,6,namesilo,,,08/10/2026 08:27
-57bf4205-c1af-47a1-871b-84acfb64b820,green.today,premium,207.2,207.2,high,medium,5,spaceship,,,22/10/2026 13:28
-5033b158-3d6f-4bc9-a738-920e636e3d1b,ecosystem.vodka,available,32.49,32.49,high,low,9,namesilo,,,06/10/2026 08:32
-de656120-79db-47f2-9212-2fe7bc84edf7,environment.market,premium,242,242,high,medium,11,namesilo,,,22/10/2026 15:44
-7f2a84f8-186c-48fe-bc4c-c393889fd886,environment.london,available,31.99,31.99,high,medium,11,namesilo,,,22/10/2026 15:44
-d640f173-818f-4d87-9513-202aaa41c3c1,ecosystem.salon,available,44.2,44.2,high,low,9,cloudflare,,,06/10/2026 08:32
-5efb5ae5-3002-49c7-9349-85aab2081097,environment.sbs,premium,63.25,126.5,high,medium,11,dynadot,,,22/10/2026 15:44
-2ec10888-9250-4c4b-995f-e6204764f07d,ecosystem.sexy,available,2749.99,2749.99,high,low,9,namesilo,,,06/10/2026 08:32
-9e14ce13-6ce6-4ce2-b971-663c6323980c,environment.associates,available,30.2,30.2,high,medium,11,cloudflare,,,22/10/2026 15:44
-bf147252-d046-4d45-a779-f8666eabdff6,environment.cash,available,9.85,35.53,high,medium,11,dynadot,,,22/10/2026 15:44
-d97740b2-1f23-412f-b044-2166170af8bc,environment.gifts,available,8.24,33.39,high,medium,11,dynadot,,,22/10/2026 15:44
-a3c0a247-379e-4212-8e91-559ff25c1744,ecosystem.org,resell,,,high,low,9,"GoDaddy.com, LLC",07/08/1996 04:00,06/08/2027 04:00,06/10/2026 08:32
-6c323c57-9906-4259-9bb6-af3ca2e98eb8,energy.dating,available,11.59,51.95,high,medium,6,spaceship,,,08/10/2026 08:27
-7280fb47-dd05-4d87-9e01-6544eb582465,habitat.bond,premium,384,768,high,high,7,namesilo,,,24/10/2026 02:30
-14c6ebce-1162-4a22-9428-dfff41c6c999,conservation.contact,available,14.99,14.99,high,low,12,namesilo,,,29/09/2026 23:26
-1f1d7239-ad18-4f55-bb0f-cb16e05fc95f,energy.band,premium,102.67,102.67,high,medium,6,spaceship,,,08/10/2026 08:27
-8871e4c4-7d2b-4037-97ef-201462c997ad,ecosystem.dog,available,7.49,64.99,high,low,9,namesilo,,,06/10/2026 08:32
-e45b90a1-0cc2-40e3-937c-e6a66bc52f63,ecosystem.gg,resell,,,high,low,9,Dynadot Inc. (https://www.dynadot.com),,,06/10/2026 08:32
-fc749b95-7c93-4dec-9323-729ec8e7638a,energy.boo,premium,516.67,516.67,high,medium,6,spaceship,,,08/10/2026 08:27
-966d5c59-7f9c-4dcb-bb56-be15973b2e29,conservation.living,available,30.2,30.2,high,low,12,cloudflare,,,29/09/2026 23:26
-ab3c70db-a493-4e58-92c7-3eec7ef5b6db,green.observer,premium,854,854,high,medium,5,namesilo,,,22/10/2026 13:28
-596e8344-0ceb-48f5-a431-dade4f06af45,climate.organic,available,17.99,85.99,high,medium,7,namesilo,,,29/09/2026 10:05
-4701eeb5-d50c-45b5-af84-607b4c199619,green.tools,resell,,,high,medium,5,"Sav.com, LLC - 14",28/08/2026 15:16,28/08/2027 15:16,22/10/2026 13:28
-b728b57a-f7c2-4571-8644-9c0c7de95f68,energy.training,resell,,,high,medium,6,IONOS SE,24/07/2015 10:13,24/07/2027 10:13,08/10/2026 08:27
-3203a877-d165-44b7-a455-35252bec7e7a,environment.jewelry,available,64.99,64.99,high,medium,11,namesilo,,,22/10/2026 15:44
-6c0120aa-e262-462e-bf01-582e366467a8,green.voting,available,1398,1448,high,medium,5,namecheap,,,22/10/2026 13:28
-b5cc1368-5b64-478d-a660-302c09e1883a,energy.gift,available,14.99,14.99,high,medium,6,namesilo,,,08/10/2026 08:27
-99fd8bb1-077b-4b3f-963b-cc14a5a1d89c,conservation.icu,premium,,,high,low,12,,,,29/09/2026 23:26
-f45d7411-a469-4204-b8f3-603c8dbb0fc6,ecosystem.tax,available,14.99,67.49,high,low,9,namesilo,,,06/10/2026 08:32
-673960a5-07ac-494e-b777-1e1e4d13443c,environment.phd,premium,159.2,164.77,high,medium,11,unstoppable,,,22/10/2026 15:44
-62ebb469-3aab-4cd6-949c-9acd39e3aef9,green.chat,resell,,,high,medium,5,Dynadot Inc,21/06/2024 15:15,21/06/2027 15:15,22/10/2026 13:28
-b08f80dc-f97e-4486-af02-21a71cca7ab8,conservation.live,resell,,,high,low,12,,,,29/09/2026 23:26
-c2de6bc4-b53c-4d06-a2a4-cf57e613069f,energy.network,resell,,,high,medium,6,"Go France Domains, LLC",10/12/2014 16:00,10/12/2026 16:00,08/10/2026 08:27
-20c0106f-c33f-439c-81ec-25906c23a74f,energy.black,available,15.73,51.95,high,medium,6,spaceship,,,08/10/2026 08:27
-c549ee41-afdf-4c08-97a8-875c7a80a9a6,green.ventures,resell,,,high,medium,5,Dynadot Inc,10/07/2019 13:00,10/07/2027 13:00,22/10/2026 13:28
-00a917da-77bd-471e-af05-b4917e734ec9,environment.pet,available,13.5,20.9,high,medium,11,unstoppable,,,22/10/2026 15:44
-e2327f6d-78a9-44fc-a97a-e635396f5efd,ecosystem.cab,available,26.08,26.08,high,low,9,spaceship,,,06/10/2026 08:32
-124f768c-3f60-4d87-bcf4-51606ffecd87,ecosystem.fm,available,88.99,88.99,high,low,9,namesilo,,,06/10/2026 08:32
-64238d8a-6a40-4d88-a80b-fff60cef76ac,conservation.rent,available,1.18,51.95,high,low,12,spaceship,,,29/09/2026 23:26
-51a9b906-3bfc-444b-a749-dfc93d0776ed,habitat.online,premium,275,1100,high,high,7,dynadot,,,24/10/2026 02:30
-d2bc2660-4104-44b4-8724-cac63e52edb0,environment.study,premium,6900,6900,high,medium,11,namesilo,,,22/10/2026 15:44
-e1fcdcb8-4e01-413f-8dbf-3aaafd56da1d,conservation.taxi,available,10.99,62.99,high,low,12,namesilo,,,29/09/2026 23:26
-2b190a47-d613-427f-ad88-2ad2b4a3d7ef,conservation.family,available,5.57,32.21,high,low,12,dynadot,,,29/09/2026 23:26
-4b67461d-9d88-4b91-a2bf-e7283d5b9576,environment.plumbing,available,56.2,56.2,high,medium,11,cloudflare,,,22/10/2026 15:44
-d00d5f89-6bfb-4394-b4af-9720baad558b,ecosystem.auto,available,2140.22,2140.22,high,low,9,dynadot,,,06/10/2026 08:32
-0b80fda9-f2d0-407b-9e30-ce5acb12d606,green.page,premium,516.67,516.67,high,medium,5,spaceship,,,22/10/2026 13:28
-eb707744-774b-4abd-89b0-0baf4f337363,energy.realty,premium,724.7,1035.2,high,medium,6,spaceship,,,08/10/2026 08:27
-5fd94b15-4771-4e07-b8ad-6a9bc4b3f4f8,conservation.financial,available,15.96,46.86,high,low,12,porkbun,,,29/09/2026 23:26
-da73730f-b8e0-40d7-9162-05e655853a98,conservation.irish,available,5.57,18.41,high,low,12,dynadot,,,29/09/2026 23:26
-78bf6627-51bd-4c2c-96ff-8bba6153e591,conservation.hot,premium,116,116,high,low,12,namesilo,,,29/09/2026 23:26
-e0ad0304-e4ff-427e-8627-05606a7eb94f,energy.dealer,premium,4278,2660,high,medium,6,namesilo,,,08/10/2026 08:27
-1189638d-444b-4694-90d9-a117a554f8b7,green.uno,premium,1300,1300,high,medium,5,namecheap,,,22/10/2026 13:28
-fa7af5e4-d8ae-4ab9-8d9b-eda936f9d069,conservation.blackfriday,available,107.22,107.22,high,low,12,dynadot,,,29/09/2026 23:26
-ab29f5f0-b5c8-4adc-b449-cd998de90851,ecosystem.tennis,available,65.99,65.99,high,low,9,namesilo,,,06/10/2026 08:32
-8ef6d148-d733-4c0c-9722-f952643e925b,environment.navy,available,109.98,114.98,high,medium,11,namecheap,,,22/10/2026 15:44
-c66ab8d0-1c6d-4e8d-90f3-c2f39963b7e8,ecosystem.locker,premium,1100,32.32,high,low,9,dynadot,,,06/10/2026 08:32
-4b23345c-ca60-445e-9104-62d8f0b3954a,environment.camera,available,58.99,58.99,high,medium,11,namesilo,,,22/10/2026 15:44
-48accfd4-d790-49a8-ad73-4d29ed253518,habitat.esq,premium,164.77,164.77,high,high,7,spaceship,,,24/10/2026 02:30
-be49416b-6492-464d-8cbb-81d06b2814ca,environment.run,resell,6.99,,high,medium,11,"Spaceship, Inc.",17/07/2026 13:11,17/07/2027 13:11,22/10/2026 15:44
-ab089131-11f1-4b21-ab76-657f09dd7eef,green.fail,premium,72.6,72.6,high,medium,5,dynadot,,,22/10/2026 13:28
-72d5483d-b337-402f-a578-5a6ec94593f4,conservation.channel,premium,30.22,30.22,high,low,12,spaceship,,,29/09/2026 23:26
-095d2736-0a0b-4ed7-b6f7-e127f78c0a12,green.credit,resell,,,high,medium,5,Dynadot Inc,23/06/2018 22:46,23/06/2027 22:46,22/10/2026 13:28
-79509222-f533-45fa-8bd4-599e83e3c81e,green.cool,premium,414.2,414.2,high,medium,5,spaceship,,,22/10/2026 13:28
-b6ead73d-40d7-42b1-91d9-344fc2764119,energy.sydney,available,,,high,medium,6,,,,12/10/2026 09:54
-9a290a9b-9919-4fdc-bf3b-bc2e331b8579,ecosystem.security,available,1999.99,2049.99,high,low,9,namesilo,,,06/10/2026 08:32
-b633bb46-ebc1-4683-b051-278b17d6c0e2,habitat.zip,premium,129.2,133.72,high,high,7,unstoppable,,,24/10/2026 02:30
-27e6e8e2-e434-4bc5-928c-321760a53a11,green.run,resell,,,high,medium,5,Dynadot Inc,24/06/2020 08:34,24/06/2027 08:34,22/10/2026 13:28
-5e04914c-4763-4fd6-b966-0ac31b1e7d76,conservation.porn,available,51.95,98.53,high,low,12,spaceship,,,29/09/2026 23:26
-38a90281-5b65-457b-a1f4-b6ce0784f4d2,energy.singles,available,3.31,27.11,high,medium,6,spaceship,,,08/10/2026 08:27
-a6ae2766-f27a-416c-94bc-edfdc58d3981,ecosystem.enterprises,available,8.48,28.15,high,low,9,spaceship,,,06/10/2026 08:32
-60537f1f-e1d6-4026-90c0-69745b1f85c0,ecosystem.ac,available,34.99,47.99,high,low,9,namesilo,,,06/10/2026 08:32
-e8469a7b-0de0-467f-bcac-a4e4637b46b2,ecosystem.bz,available,21.98,26.98,high,low,9,namecheap,,,06/10/2026 08:32
-83046249-ba49-4978-90a9-3fb99aa7befe,green.kim,available,5.38,18.83,high,medium,5,spaceship,,,22/10/2026 13:28
-6d5a5daf-28ed-4c24-bfb5-cf55d9f88fb8,conservation.locker,available,5.68,31.25,high,low,12,spaceship,,,29/09/2026 23:26
-fa1b96cf-b71b-4402-870c-452cafd30321,environment.archi,available,19.99,103.99,high,medium,11,namesilo,,,22/10/2026 15:44
-fc999ac1-0ddb-41ca-a71a-5cf7c82c0f63,environment.properties,available,14.17,31.25,high,medium,11,spaceship,,,22/10/2026 15:44
-583e5680-02a7-458e-97cf-a7ce54b2b4ba,ecosystem.guitars,available,104.99,114.99,high,low,9,namesilo,,,06/10/2026 08:32
-d6c03217-7b89-4b23-b9e3-556d0e5c337b,environment.bike,available,5.38,31.25,high,medium,11,spaceship,,,22/10/2026 15:44
-ab2667a0-cd05-4da1-b6f9-f22499d7a31b,conservation.futbol,available,7.49,17.99,high,low,12,namesilo,,,29/09/2026 23:26
-b18219cc-7a69-4776-ad76-7a0b7e1d1e0f,ecosystem.pet,available,13.5,27.59,high,low,9,unstoppable,,,06/10/2026 08:32
-dde51ba7-7396-4b98-bcea-c6f3c223cbd1,conservation.gift,available,16.91,16.91,high,low,12,dynadot,,,29/09/2026 23:26
-6e29ef32-03f6-4fd6-8acc-045d2df53393,habitat.vodka,available,26.08,26.08,high,high,7,spaceship,,,24/10/2026 02:30
-43f131fb-93f7-45fa-b18d-a7010d018325,green.city,resell,,,high,medium,5,Dynadot Inc,23/04/2021 19:42,23/04/2027 19:42,22/10/2026 13:28
-32f4de19-83b3-4591-a4e7-e26b2387b117,ecosystem.casa,available,1.54,10.55,high,low,9,spaceship,,,06/10/2026 08:32
-2ffb3c88-2547-46a5-aa09-424935f27cdc,energy.foo,premium,516.67,516.67,high,medium,6,spaceship,,,08/10/2026 08:27
-212124b2-d88d-4347-b9d5-119541e5aa24,conservation.cooking,available,26.08,26.08,high,low,12,spaceship,,,29/09/2026 23:26
-c56ee75a-9b6c-4fac-a917-1f9a3e9c4b59,conservation.domains,available,42.99,42.99,high,low,12,namesilo,,,29/09/2026 23:26
-b0a5102c-a4bb-4e4f-ad56-197f91a5f064,energy.protection,available,2064.2,2064.2,high,medium,6,spaceship,,,08/10/2026 08:27
-ace9a856-9627-42f6-ab28-ffac33dedda8,environment.partners,available,9.52,57.13,high,medium,11,spaceship,,,22/10/2026 15:44
-13ef2dee-861f-40e5-aed2-29ebb112d50d,environment.rich,available,94.99,1999,high,medium,11,namesilo,,,22/10/2026 15:44
-fda94f99-6b92-4da8-a38f-ccdfcb41f375,conservation.watch,available,5.5,,high,low,12,unstoppable,,,29/09/2026 23:26
-7b542284-af11-4627-932c-53018289d4b7,environment.diet,available,93.35,103.4,high,medium,11,spaceship,,,22/10/2026 15:44
-507c1844-f774-4281-97f7-53ae534b764f,energy.support,premium,128.7,128.7,high,medium,6,namecheap,,,08/10/2026 08:27
-da92b1cf-55f8-4188-8cd2-f6133b8ee6a4,green.adult,available,95.2,95.2,high,medium,5,cloudflare,,,22/10/2026 13:28
-1a9f9dc3-475d-4811-8001-066fc5a3666f,environment.mba,available,17.99,39.99,high,medium,11,namesilo,,,22/10/2026 15:44
-9bc6adfd-3680-47b6-835d-364c459bb171,ecosystem.band,available,20,24.2,high,low,9,unstoppable,,,06/10/2026 08:32
-0b396a17-4ca2-469c-b592-df14a26d6759,conservation.group,resell,,,high,low,12,,,,29/09/2026 23:26
-fa5fa989-58b0-4626-90d7-827ff207be13,conservation.design,available,2.79,46.78,high,low,12,spaceship,,,29/09/2026 23:26
-735a5d0c-0bb3-4ddf-9cdf-22f4ba9d7fb5,ecosystem.tattoo,available,1.75,31.25,high,low,9,spaceship,,,06/10/2026 08:32
-b29987a5-767b-4796-b42d-215e390b45f7,environment.shopping,available,29.98,37.98,high,medium,11,namecheap,,,22/10/2026 15:44
-7cae1535-c7f1-4232-bba1-b36d379fc639,green.ltda,premium,66.3,66.3,high,medium,5,namecheap,,,22/10/2026 13:28
-b9349a3b-c7b4-4138-963d-4678e8f62141,environment.adult,available,53.72,101.87,high,medium,11,dynadot,,,22/10/2026 15:44
-81b361d0-7766-47ba-a7d8-98539f9fcc4f,environment.business,premium,118.8,118.8,high,medium,11,namesilo,,,22/10/2026 15:44
-071b682b-240f-49f5-b9b2-aadd3614663a,energy.vana,available,2298,2498,high,medium,6,namecheap,,,08/10/2026 08:27
-6487b59c-325b-41a7-912b-ae6511274088,environment.casa,available,2.19,12.99,high,medium,11,namesilo,,,22/10/2026 15:44
-ebf6d8f6-1821-413a-90ef-074782a17503,conservation.trading,available,16.76,16.76,high,low,12,spaceship,,,29/09/2026 23:26
-f6d57a76-71d2-487e-a484-2646adab94e6,green.qpon,premium,2750,21.94,high,medium,5,dynadot,,,22/10/2026 13:28
-0b6fb192-0ed1-4c45-a70d-58717e7e077e,environment.tel,available,9.49,9.49,high,medium,11,spaceship,,,22/10/2026 15:44
-d7fe0dc1-05fe-46bf-bce5-1b2a5c9c171e,conservation.hosting,available,309.99,429.99,high,low,12,namesilo,,,29/09/2026 23:26
-672dedb5-1954-4645-8067-62044fb9e9ad,energy.blog,premium,640,2660,high,medium,6,namesilo,,,08/10/2026 08:27
-5feff415-f880-4938-8d8b-cfced2ba957b,environment.ltda,premium,56.64,33.04,high,medium,11,namesilo,,,22/10/2026 15:44
-9b19959e-d9f3-4264-95c0-7328a548fd2c,conservation.clothing,available,32.99,32.99,high,low,12,namesilo,,,29/09/2026 23:26
-e0300566-04b3-40fa-9efc-7095779754a0,ecosystem.sucks,available,218.99,218.99,high,low,9,namesilo,,,06/10/2026 08:32
-947ed655-e5f2-44ad-83b9-637c489f877e,conservation.hiv,available,195.99,195.99,high,low,12,namesilo,,,29/09/2026 23:26
-f5d3c956-ab9e-44e6-8e29-d0dc31e82352,conservation.boats,available,1.24,13.97,high,low,12,spaceship,,,29/09/2026 23:26
-7c324981-c5c3-47eb-aa30-954cf55566be,ecology.xyz,resell,,,high,low,7,Dynadot Inc,11/11/2017 04:01,11/11/2029 23:59,26/09/2026 05:45
-e228af1a-6fe8-4c3b-bbd9-7ca7a00849a6,environment.photo,premium,103.7,103.7,high,medium,11,spaceship,,,22/10/2026 15:44
-bdf06bf6-fe7e-4366-8e8e-dced69a0cc00,green.theater,available,51.95,51.95,high,medium,5,spaceship,,,22/10/2026 13:28
-3e4b3152-ce7f-49be-a45f-d1bdc2a04447,ecosystem.hiv,available,195.99,195.99,high,low,9,namesilo,,,06/10/2026 08:32
-e15eab36-3cae-495c-b3c2-63244f3995e7,ecosystem.protection,available,2140.22,2140.22,high,low,9,dynadot,,,06/10/2026 08:32
-b41d0ce2-e675-482e-b69c-c4a16b29819d,ecosystem.associates,available,30.2,30.2,high,low,9,cloudflare,,,06/10/2026 08:32
-ccd50c93-ec86-4500-8441-33aa45563b99,green.dentist,premium,207.2,207.2,high,medium,5,spaceship,,,22/10/2026 13:28
-38537ade-8ece-48a3-a208-ad2f0215f79b,habitat.help,premium,83.3,116,high,high,7,namesilo,,,24/10/2026 02:30
-36d73e1c-928d-49c7-ae4c-69f477cb7bd3,ecosystem.immobilien,available,37.99,37.99,high,low,9,namesilo,,,06/10/2026 08:32
-4b20d511-7e28-413b-822d-e8389d6e0e03,conservation.autos,available,1.8,21.98,high,low,12,namecheap,,,29/09/2026 23:26
-ce7d9114-597d-4e43-823c-43cc747b9847,ecosystem.homes,resell,,,high,low,9,Dynadot Inc,01/07/2026 14:32,01/07/2027 23:59,06/10/2026 08:32
-a17a63d1-1698-49b6-ae49-4c6dcc0d9994,environment.casino,available,14.99,179.99,high,medium,11,namesilo,,,22/10/2026 15:44
-d176f97a-67c2-4042-b6bf-19ef42fc46cd,green.team,resell,,,high,medium,5,"GoDaddy.com, LLC",29/07/2015 13:22,29/07/2027 13:22,22/10/2026 13:28
-cfd9d9d7-7870-4a79-b5db-366ef442ed4c,green.shopping,resell,,,high,medium,5,united-domains GmbH,28/06/2019 10:50,28/06/2027 10:50,22/10/2026 13:28
-a13f8ea5-b6a3-4cf2-84b9-a1a7d957e7b6,environment.direct,available,13.14,33.32,high,medium,11,spaceship,,,22/10/2026 15:44
-f9b99ba3-a598-496b-b175-6301e8895fea,conservation.food,available,4.63,31.41,high,low,12,porkbun,,,29/09/2026 23:26
-972e5026-64f3-429e-8541-8cc66b1d6b62,conservation.coupons,available,5.99,54.99,high,low,12,namesilo,,,29/09/2026 23:26
-5ff41181-27d2-48c7-b5af-73a41bb971fc,energy.sucks,premium,2658.67,2658.67,high,medium,6,namesilo,,,08/10/2026 08:27
-32f2bb83-3638-4843-bcfc-42ed65f26ec2,green.viajes,available,35.18,35.18,high,medium,5,spaceship,,,22/10/2026 13:28
-c127f62e-a7dd-4d9f-8a5a-f80027bea1ac,conservation.sexy,available,2675.22,2675.22,high,low,12,dynadot,,,29/09/2026 23:26
-4abf2c24-ad93-43d3-8249-2b82a80cc4f7,green.photo,premium,130,130,high,medium,5,namecheap,,,22/10/2026 13:28
-ce3dd8e5-4347-43a3-87ef-74e668ca9358,environment.restaurant,available,10.55,51.95,high,medium,11,spaceship,,,22/10/2026 15:44
-a9d0032b-98fc-42a9-94b4-4cc1f3c42944,ecosystem.porn,available,95.2,95.2,high,low,9,cloudflare,,,06/10/2026 08:32
-92ec65d4-2ab7-4fc4-b86d-3b8bb81e6745,environment.mx,available,39.99,43.99,high,medium,11,namesilo,,,22/10/2026 15:44
-1f626f67-06a8-4844-9637-d019ce25f14e,ecosystem.blackfriday,available,114.99,114.99,high,low,9,namesilo,,,06/10/2026 08:32
-4a6401af-f685-43ae-bbff-54962292ea7b,ecosystem.productions,available,5.89,32.29,high,low,9,spaceship,,,06/10/2026 08:32
-8f4644d9-71e9-4632-8eb6-692718df67ad,ecosystem.day,premium,167.7,167.7,high,low,9,namecheap,,,06/10/2026 08:32
-8af13089-1632-4869-b2a3-2f91d379307c,environment.photos,available,8.24,28.04,high,medium,11,dynadot,,,22/10/2026 15:44
-932f2b76-4f1e-432b-aac4-1738599d2a10,conservation.pro,resell,,,high,low,12,IONOS SE,02/10/2023 17:00,02/10/2027 17:00,29/09/2026 23:26
-38b3f12c-a374-40c6-813c-f63bd17c9dca,ecosystem.gratis,available,18.83,18.83,high,low,9,spaceship,,,06/10/2026 08:32
-b08885a5-b486-45ef-8410-5f84d341d034,energy.horse,premium,96,29.5,high,medium,6,namesilo,,,08/10/2026 08:27
-e84dc161-0a0c-429b-bf6c-b3de4b53de90,conservation.voyage,available,45.2,45.2,high,low,12,cloudflare,,,29/09/2026 23:26
-5ee8a93b-7588-49aa-9d57-8b732d808bf6,habitat.press,premium,129.58,258.95,high,high,7,spaceship,,,24/10/2026 02:30
-37c0f159-47a4-44e1-9543-15888fefe487,ecosystem.lifestyle,premium,640,640,high,low,9,namesilo,,,06/10/2026 08:32
-0b2adaa7-2f08-4bed-a58e-60fb4c8fc274,conservation.horse,available,33.98,43.98,high,low,12,namecheap,,,29/09/2026 23:26
-ac59a1c6-15f6-4a03-b54a-30b5af3dd318,green.tours,resell,,,high,medium,5,Dynadot Inc,23/09/2020 08:15,23/09/2027 08:15,22/10/2026 13:28
-dec9a26c-70ff-4aee-a8b7-9b728b376bf7,climate.country,available,,,high,medium,7,,,,11/10/2026 09:13
-1ea88954-f429-41c7-9a16-72510978bf57,conservation.tires,available,5.99,78.99,high,low,12,namesilo,,,29/09/2026 23:26
-d80ae952-df8e-4714-a40b-721c7c643082,ecosystem.mortgage,available,62.99,62.99,high,low,9,namesilo,,,06/10/2026 08:32
-d75d919c-b801-482a-ab35-a7224adbf8d9,conservation.furniture,available,27.99,94.99,high,low,12,namesilo,,,29/09/2026 23:26
-e56b9679-dd9f-4218-94c4-b868b26b28bf,conservation.cab,available,25.2,25.2,high,low,12,cloudflare,,,29/09/2026 23:26
-d9b9e63a-37e6-42ad-9b7e-60b3f8e283e7,conservation.systems,available,10.55,28.15,high,low,12,spaceship,,,29/09/2026 23:26
-3c7da736-defe-4c6d-8254-6ba858f441fc,green.forsale,premium,1000.5,1035.2,high,medium,5,unstoppable,,,22/10/2026 13:28
-f8ea6cc1-6831-43f8-8122-75b105967f25,ecosystem.movie,available,47.99,349.99,high,low,9,namesilo,,,06/10/2026 08:32
-ef79482d-762c-47ca-ae5b-8c0b3ba996fe,green.properties,premium,828.2,828.2,high,medium,5,spaceship,,,22/10/2026 13:28
-e4742680-eb12-41b1-89bc-2b3bea235fcb,conservation.sucks,available,218.99,218.99,high,low,12,namesilo,,,29/09/2026 23:26
-dcbf0730-cae2-44b7-bb75-7300d6a8efcd,environment.realty,available,88.18,289.16,high,medium,11,spaceship,,,22/10/2026 15:44
-fe74d3f4-36a1-4ed0-b70a-4c51c2126ddf,conservation.football,available,20.2,20.2,high,low,12,cloudflare,,,29/09/2026 23:26
-c3aa3b2b-62b8-482d-961d-0cf26da480b0,green.zip,premium,1034.17,1034.17,high,medium,5,spaceship,,,22/10/2026 13:28
-6807a47a-0e17-4ebe-ad82-4c75680075c0,ecosystem.theatre,available,465.95,500.18,high,low,9,spaceship,,,06/10/2026 08:32
-a3648030-1b8c-4fc2-b85f-c58aa2e0b572,energy.hockey,available,69.98,80.98,high,medium,6,namecheap,,,08/10/2026 08:27
-d03d06ec-0ef4-4d08-91e1-29a2fa9ac0c6,environment.vacations,available,5.57,35.53,high,medium,11,dynadot,,,22/10/2026 15:44
-fbaf4000-e979-47dc-a691-d806cfbf2e00,environment.horse,available,32.49,32.49,high,medium,11,namesilo,,,22/10/2026 15:44
-18772dd5-ce78-4313-8a7e-7a77fbd501de,habitat.law,available,83,83,high,high,7,spaceship,,,24/10/2026 02:30
-176e171a-19e6-4aa8-9aff-5c315a134cbb,environment.lawyer,premium,1639.13,3275.5,high,medium,11,porkbun,,,22/10/2026 15:44
-59d263e3-9bc2-4d92-b525-ad6eb239fd1b,green.menu,available,,,high,low,5,,,,23/10/2026 09:31
-63f1f00d-7228-4865-b79d-b2774bdee532,environment.club,premium,750.5,17.7,high,medium,11,unstoppable,,,22/10/2026 15:44
-ff11f47b-dff0-4a73-ad70-5e31482aeadd,green.soy,premium,548.9,548.9,high,medium,5,dynadot,,,22/10/2026 13:28
-79eaee31-4446-4b26-a311-b05c0a2b0c24,energy.dentist,premium,118.8,118.8,high,medium,6,namesilo,,,08/10/2026 08:27
-20b69f4f-b658-4ea2-964a-3a03ac428207,environment.osaka,available,,,high,low,11,,,,23/10/2026 09:25
-3af8bc1e-53b5-4bc1-a377-17873a6158a8,green.website,premium,1107,1107,high,medium,5,namesilo,,,22/10/2026 13:28
-2216ba8f-3c94-40fb-952d-22f9a6050c8f,nature.green,premium,1107,1107,high,low,6,namesilo,,,09/10/2026 02:19
-c12d1bae-7f67-4729-822c-19f78a4e8233,environment.football,available,10.92,23.76,high,medium,11,dynadot,,,22/10/2026 15:44
-b67aac81-f37e-450b-be3e-277be6919e31,green.gay,premium,2200,2200,high,medium,5,dynadot,,,22/10/2026 13:28
-5063ff3d-9056-46c0-b88a-6d681a428d24,conservation.bot,available,51.95,51.95,high,low,12,spaceship,,,29/09/2026 23:26
-b426f059-b878-4f3c-9d26-62e6a2b4c5a6,climate.bz,available,21.98,26.98,high,medium,7,namecheap,,,29/09/2026 10:05
-8cb7f5d0-c46e-4bd7-8ee0-a0e95ca7b33b,conservation.mortgage,available,65.98,76.98,high,low,12,namecheap,,,29/09/2026 23:26
-d9e4cec1-98d5-4845-87c7-abca2e350bdc,climate.vip,resell,,,high,medium,7,"DNSPod, Inc.",28/11/2019 15:58,28/11/2032 15:58,29/09/2026 10:05
-b7c8f562-746d-4e43-8c1a-3e18c9064c97,green.lease,premium,102.67,102.67,high,medium,5,spaceship,,,22/10/2026 13:28
-21fba7c2-6474-4b70-ad51-05a9b1c5599f,energy.republican,available,5.98,8.48,high,medium,6,namecheap,,,08/10/2026 08:27
-f6796a85-f1f8-487b-9018-945aec72c024,ecosystem.help,premium,83.3,116,high,low,9,namesilo,,,06/10/2026 08:32
-cdf14401-3e0e-4515-b988-6cc384d94742,conservation.run,available,6.99,26.99,high,low,12,namesilo,,,29/09/2026 23:26
-e4728a98-27ab-453a-88d5-0e19b7b6120d,ecosystem.plumbing,available,72.99,72.99,high,low,9,namesilo,,,06/10/2026 08:32
-63bcf2be-e894-4127-9181-46a160fbac30,green.auto,available,2140.22,2140.22,high,medium,5,dynadot,,,22/10/2026 13:28
-9d3187cc-a757-4e25-9297-82f712461784,sustainable.so,resell,,,high,low,11,SOSTEC TECHNOLOGIES_LR,02/02/2024 08:47,02/02/2026 08:47,
-c57bef07-fd9e-477f-b89f-69b36a53223c,conservation.markets,available,5.38,15.73,high,low,12,spaceship,,,29/09/2026 23:26
-a6dbe88e-bce2-4666-9662-2be512732c2e,energy.bayern,available,,,high,medium,6,,,,12/10/2026 09:54
-c69d19d1-ba26-425b-ae5f-c87a025ba3d7,environment.news,premium,1107,1107,high,medium,11,namesilo,,,22/10/2026 15:44
-e86c8aef-7d16-4223-a726-677d050f9c53,climate.domains,available,42.99,42.99,high,medium,7,namesilo,,,29/09/2026 10:05
-f084810d-087d-49ba-a8d6-189e0b95cf32,conservation.life,resell,,,high,low,12,,,,29/09/2026 23:26
-adadc7cb-ce7c-41a5-b2e3-1eb8f4e3c6f2,green.equipment,premium,414.2,414.2,high,medium,5,spaceship,,,22/10/2026 13:28
-320597ef-fa98-497d-a454-bc61cd27208c,environment.software,available,32.2,32.2,high,medium,11,cloudflare,,,22/10/2026 15:44
-00c53cde-68d5-4a61-9901-fd4c2441485f,conservation.flowers,available,93.35,103.4,high,low,12,spaceship,,,29/09/2026 23:26
-145211ec-e51e-4f28-9ce4-7f2ca640bc9c,ecosystem.sale,available,7.49,38.99,high,low,9,namesilo,,,06/10/2026 08:32
-8bda59f1-d31e-4516-afc6-58e21fff333f,ecosystem.wedding,available,26.08,26.08,high,low,9,spaceship,,,06/10/2026 08:32
-5de539af-e770-45d3-a3f6-659e603275d2,ecosystem.insure,available,56.2,56.2,high,low,9,cloudflare,,,06/10/2026 08:32
-7c0c98aa-828e-4c25-8994-e1117c40610a,energy.buzz,available,,,high,medium,6,,,,12/10/2026 09:53
-d1c2ff5a-5170-452e-9770-2dcd98d7bf26,conservation.skin,available,1.24,13.97,high,low,12,spaceship,,,29/09/2026 23:26
-5211edd1-8b65-4995-bf56-00efe788b04d,climate.rehab,available,36.99,36.99,high,medium,7,namesilo,,,29/09/2026 10:05
-bf0a2c41-5a92-4664-859b-aabc52af1097,environment.game,available,279.65,341.75,high,medium,11,spaceship,,,22/10/2026 15:44
-ae357434-94f7-4808-8c73-4f54f925a61b,conservation.business,available,15.34,15.34,high,low,12,namesilo,,,29/09/2026 23:26
-be1e07b4-0fb6-44de-bf1b-f166ece6768e,climate.singles,available,26.2,26.2,high,medium,7,cloudflare,,,29/09/2026 10:05
-e9e08653-620c-48f9-aeee-c2042347287d,environment.rent,available,5,81.98,high,medium,11,namecheap,,,22/10/2026 15:44
-a1bf2cbf-579d-4580-a1d7-742602c6ecf3,energy.camera,available,61.98,72.98,high,medium,6,namecheap,,,08/10/2026 08:27
-582c64d1-5fbe-43f7-be0d-3d36f023f771,green.download,premium,517.7,67.48,high,medium,5,spaceship,,,22/10/2026 13:28
-b00ac980-6a44-43b4-8d11-485fb4ab3d01,habitat.faith,premium,455,65,high,high,7,namecheap,,,24/10/2026 02:30
-a8a9f198-b586-432b-bdcd-7abb6773ac61,natural.makeup,premium,2660,2660,high,low,7,namesilo,,,09/10/2026 20:49
-546d1586-8044-494f-8688-4984dbbc8e63,green.sbs,premium,390,780,high,medium,5,namecheap,,,22/10/2026 13:28
-1f999081-5d28-468c-8a34-4a97916fb3fa,green.reisen,premium,207.2,207.2,high,medium,5,spaceship,,,22/10/2026 13:28
-c1a2ae33-f498-424c-99b8-97e637958f62,climate.camera,available,46.78,46.78,high,medium,7,spaceship,,,29/09/2026 10:05
-a915894e-12e8-468f-ac7a-f8d82ca3d2f2,environment.taxi,available,6.1,58,high,medium,11,dynadot,,,22/10/2026 15:44
-6a92ea87-17f2-494a-9523-7e707e19f2a3,green.systems,resell,,,high,medium,5,Dynadot Inc,04/06/2018 08:06,04/06/2027 08:06,22/10/2026 13:28
-f96fb004-9346-4304-8945-23133024c7d1,conservation.sh,available,39.99,47.99,high,low,12,namesilo,,,29/09/2026 23:26
-75a7cb9c-10ea-4c67-87a0-e1700a091150,conservation.rip,available,18.83,18.83,high,low,12,spaceship,,,29/09/2026 23:26
-8a16bd84-1599-4912-85d7-1d3f80d8401b,ecosystem.network,resell,,,high,low,9,Dynadot Inc,10/02/2026 17:00,10/02/2027 17:00,06/10/2026 08:32
-57408d77-2073-4ec7-8b83-23f80641761f,conservation.properties,available,18.99,39.99,high,low,12,namesilo,,,29/09/2026 23:26
-2a04732e-1d51-4adf-849f-8c418e958a07,ecosystem.institute,available,21.2,21.2,high,low,9,cloudflare,,,06/10/2026 08:32
-862a3bf3-065f-4b56-8ab0-6e80f7b38425,environment.enterprises,available,8.48,28.15,high,medium,11,spaceship,,,22/10/2026 15:44
-db63003e-83a8-4777-98be-63372cb2ac2b,ecosystem.biz,resell,,,high,low,9,Sav.com LLC,16/03/2022 17:40,16/03/2027 17:40,06/10/2026 08:32
-f15d154d-d4ca-43f4-918a-af0c8a523baa,energy.wedding,premium,41.6,26.08,high,medium,6,spaceship,,,08/10/2026 08:27
-1a2f1da9-c6f9-49fb-a3f8-6ff741e7a5ed,green.gold,resell,,,high,medium,5,"DNSPod, Inc.",22/09/2018 08:21,22/09/2035 08:21,22/10/2026 13:28
-72f872b3-7c14-4cde-8088-df84188f5eb7,green.security,available,1863.2,2000.18,high,medium,5,spaceship,,,22/10/2026 13:28
-730a5b4f-36f4-4ffe-89e4-d0e3210441eb,conservation.ltda,available,34.99,34.99,high,low,12,namesilo,,,29/09/2026 23:26
-2abee951-dbcc-47c4-a478-5fe7ca82ad29,climate.auction,resell,,,high,medium,7,"NameCheap, Inc.",07/02/2024 14:18,07/02/2027 14:18,29/09/2026 10:05
-98c0cef1-6d21-4e0f-8445-5dd1d48cd551,conservation.flights,available,20.9,46.78,high,low,12,spaceship,,,29/09/2026 23:26
-0b2fcb19-011d-47b2-ad0a-27f31e56a221,conservation.desi,available,19.98,22.98,high,low,12,namecheap,,,29/09/2026 23:26
-28af148b-d67b-4fe6-a223-b2400a022ada,environment.productions,available,5.89,32.29,high,medium,11,spaceship,,,22/10/2026 15:44
-9ce4de49-0b7a-40ed-be80-437a2f1477ac,climate.cooking,available,26.08,26.08,high,medium,7,spaceship,,,29/09/2026 10:05
-f90980c6-b929-46b8-8848-874b8c114759,conservation.cricket,premium,448,53.92,high,low,12,namesilo,,,29/09/2026 23:26
-d6cf6cdf-55bc-43e0-8683-4d290f53e28e,ecosystem.events,available,15.99,45.99,high,low,9,namesilo,,,06/10/2026 08:32
-8c3f9304-ee6b-42d4-9f69-22354ec1914f,energy.engineer,available,,,high,medium,6,,,,12/10/2026 09:53
-cc1dfb1b-4d76-4616-b6c1-dd9fdeb68cf9,green.diy,premium,1449.2,2070.2,high,medium,5,spaceship,,,22/10/2026 13:28
-dd035153-89c8-48ba-b0a8-d40085c9eacd,environment.lgbt,available,10.55,64.37,high,medium,11,spaceship,,,22/10/2026 15:44
-640cf246-6a34-4bef-b5bc-169800e84bc7,energy.democrat,available,7.25,7.25,high,medium,6,namesilo,,,08/10/2026 08:27
-fd62a752-a79a-4700-bdf7-f7ff941aad8b,green.mba,available,10.55,31.25,high,medium,5,spaceship,,,22/10/2026 13:28
-cf2b518b-a717-4270-8301-3152f69a0962,green.onl,premium,162.5,325,high,medium,5,namecheap,,,22/10/2026 13:28
-5a715905-b0ed-4d69-aa95-d1a998b14fa4,natural.life,resell,,,high,low,7,"NameSilo, LLC",14/09/2018 23:27,14/09/2027 23:27,09/10/2026 20:49
-6342e2f3-73d7-4c47-b5c2-49c0b74a5348,conservation.dad,premium,30.22,30.22,high,low,12,spaceship,,,29/09/2026 23:26
-c6b00527-8dcc-4d6b-aae9-3af2b85cd385,green.markets,resell,,,high,medium,5,"Spaceship, Inc.",26/07/2023 15:15,26/07/2027 15:15,22/10/2026 13:28
-3f9cdfc7-c967-4c24-80cc-2262c4b714b7,habitat.gift,available,14.99,14.99,high,high,7,namesilo,,,24/10/2026 02:30
-7a450f0f-94ac-4066-abe2-2f1cc810c3c0,biosphere.eco,premium,625,113.99,high,low,9,name.com,,,23/09/2026 19:04
-66adfe24-4e81-47db-86c5-c1023cab2294,natural.bz,available,21.98,26.98,high,low,7,namecheap,,,09/10/2026 20:49
-8647fb32-8f61-446f-aef7-f6309341b46c,climate.mx,resell,,,high,medium,7,GoDaddy.com,27/12/2018 00:00,27/12/2026 00:00,29/09/2026 10:05
-e3aff8b6-959b-4419-a642-d74e6becce41,green.wiki,premium,465.95,465.95,high,medium,5,spaceship,,,22/10/2026 13:28
-df4aa87a-acac-4c80-889a-3038be4300ca,conservation.melbourne,available,58,58,high,low,12,namesilo,,,29/09/2026 23:26
-b1c5301e-37f6-4ed8-8f5b-7dc66bb46bfa,habitat.homes,premium,2070.2,2070.2,high,high,7,spaceship,,,24/10/2026 02:30
-620c80b0-9eb0-49e8-8511-ee499257d505,conservation.money,available,27.2,27.2,high,low,12,cloudflare,,,29/09/2026 23:26
-bf42fbf3-0a94-4bb0-9292-f3b89d54b5d8,green.channel,premium,516.67,516.67,high,medium,5,spaceship,,,22/10/2026 13:28
-34f56397-696a-4a43-973e-40cc773c533d,environment.kaufen,available,5.99,26.99,high,medium,11,namesilo,,,22/10/2026 15:44
-fdf24c0c-b93c-4b8d-8573-bd70b40ca51b,climate.games,resell,,,high,medium,7,"Xiamen ChinaSource Internet Service Co., Ltd",22/10/2025 15:15,22/10/2027 15:15,21/10/2026 05:34
-0bf87f6a-d28e-48dd-beed-d00ec70ba42e,ecosystem.country,available,2140.22,2140.22,high,low,9,dynadot,,,06/10/2026 08:32
-42bd6457-8158-47a6-9026-91249ea17703,ecosystem.melbourne,available,58,58,high,low,9,namesilo,,,06/10/2026 08:32
-6807fdfa-1a23-47fe-aae5-ad9559de24b9,green.deal,premium,517.7,517.7,high,medium,5,spaceship,,,22/10/2026 13:28
-854f3c5f-b0d4-42d7-8a64-70aeaa1c1141,climate.republican,available,5.38,26,high,medium,7,spaceship,,,29/09/2026 10:05
-51fed6b5-7791-408c-bd03-3784caf412ed,ecosystem.name,available,8.98,9.98,high,low,9,namecheap,,,06/10/2026 08:32
-0e310a59-1636-4297-9069-028cce8ee88e,energy.town,resell,42.9,42.9,high,medium,6,Porkbun LLC,20/06/2026 14:44,20/06/2027 14:44,08/10/2026 08:27
-08bdba59-48e6-4ff8-8088-b03f9ceabe6e,environment.claims,available,17.99,64.99,high,medium,11,namesilo,,,22/10/2026 15:44
-b744938a-f85c-45cf-85d5-3e71592393a6,green.skin,premium,2070.2,2070.2,high,medium,5,spaceship,,,22/10/2026 13:28
-40e4fccb-60df-4a4d-84ec-30b0669fc0c5,climate.juegos,available,,,high,medium,7,,,,11/10/2026 09:13
-30237bb2-7bcf-4b46-bae9-603e4ee60666,conservation.dating,available,20.99,64.99,high,low,12,namesilo,,,29/09/2026 23:26
-32168f3c-62de-4cf2-b2e4-caafc9fbc58a,green.melbourne,premium,773.2,773.2,high,medium,5,dynadot,,,22/10/2026 13:28
-fbe2c97e-b609-4040-8ead-76dbcb403229,environment.free,premium,116,116,high,medium,11,namesilo,,,22/10/2026 15:44
-3c8677f9-aa92-4e95-9cf9-de271ccb665c,ecosystem.bingo,available,53.99,53.99,high,low,9,namesilo,,,06/10/2026 08:32
-539ad3e0-ce90-4734-be53-73b75ab8ff1b,ecosystem.skin,available,1.8,21.98,high,low,9,namecheap,,,06/10/2026 08:32
-5417bc51-de72-43ff-ae3b-a695341bcd82,habitat.qpon,available,2.19,11.49,high,high,7,namesilo,,,24/10/2026 02:30
-3089eb8b-a043-4e5a-8523-0d56ebc2e889,conservation.fail,available,38.99,38.99,high,low,12,namesilo,,,29/09/2026 23:26
-f96832ae-9760-40ce-b2ed-135df4659994,climate.day,premium,161.25,,high,medium,7,name.com,,,29/09/2026 10:05
-75a1a3b9-790a-4d20-a7ad-73dd873f5666,nature.bike,resell,,,high,low,6,"Spaceship, Inc.",06/04/2023 17:02,06/04/2027 17:02,26/09/2026 07:43
-7a42fb41-b49c-4d85-b778-0b38b7b6e003,conservation.link,premium,362.45,362.45,high,low,12,spaceship,,,29/09/2026 23:26
-edcf86ed-c41b-46b1-ada4-d5f4e5c12f09,ecosystem.motorcycles,available,1.24,13.97,high,low,9,spaceship,,,06/10/2026 08:32
-75547dab-71c6-4d30-bcb6-8a386c62ce7e,habitat.giving,available,6.41,22.39,high,high,7,spaceship,,,24/10/2026 02:30
-bbf4f471-8262-44ff-9035-554c9f9c7466,climate.accountant,premium,448,53.92,high,medium,7,namesilo,,,29/09/2026 10:05
-1ae8196d-01fc-48ca-b7d1-69cf9ae9f7be,energy.bid,available,,,high,medium,6,,,,12/10/2026 09:53
-ada12b7b-4f59-4e21-839f-35ac3e9f4bc0,environment.vin,available,8.99,59.99,high,medium,11,namesilo,,,22/10/2026 15:44
-b50bfe10-5690-461e-a50c-e986687d7046,environment.recipes,available,6.64,70.84,high,medium,11,dynadot,,,22/10/2026 15:44
-c218bfd2-3c7e-4669-92cf-dd5ee55f2fe1,ecosystem.garden,available,2.19,32.49,high,low,9,namesilo,,,06/10/2026 08:32
-2e35d908-aa2d-4286-8d5e-574f6b752d1c,environmental.earth,premium,71.4,71.4,high,low,13,namesilo,,,01/10/2026 06:15
-9a7240b0-b8e7-4784-83e7-1da2a462cad2,conservation.rodeo,available,12.99,12.99,high,low,12,namesilo,,,29/09/2026 23:26
-e59dcb7b-3089-48fa-b5f7-d4d6e31e694e,energy.review,available,,,high,medium,6,,,,12/10/2026 09:54
-7dfb5d3a-7234-4f1a-9399-b0912d5ad2d5,conservation.supply,available,20.9,20.9,high,low,12,spaceship,,,29/09/2026 23:26
-81df63af-840e-449c-a1cd-53a0224fc430,energy.loan,premium,2587.7,103.7,high,medium,6,spaceship,,,08/10/2026 08:27
-b0f99ec2-3c9e-4b1b-ba8f-02d5b93d6e35,climate.asia,resell,,,high,medium,7,"GoDaddy.com, LLC",26/06/2008 07:02,26/06/2027 07:02,29/09/2026 10:05
-b5122f55-72c8-4ddb-90bd-91ff27b691c7,ecosystem.holiday,available,50.2,50.2,high,low,9,cloudflare,,,06/10/2026 08:32
-1de852db-9c19-43a1-b673-44124905f878,environment.music,available,38.5,38.5,high,medium,11,spaceship,,,22/10/2026 15:44
-0515b68f-ca31-4dc4-916f-856008c36c73,ecology.lgbt,available,11.98,93.98,high,low,7,namecheap,,,23/09/2026 18:42
-692b5f4a-eb94-4903-acef-522fe1d348ae,habitat.car,available,1863.2,2064.2,high,high,7,spaceship,,,24/10/2026 02:30
-042e9712-03dd-40e7-887a-aa1c4e188505,environment.stream,premium,362.45,51.95,high,medium,11,spaceship,,,22/10/2026 15:44
-34c7baee-01dd-4241-8965-52d8f0937a87,green.coupons,premium,66.5,78.54,high,medium,5,unstoppable,,,22/10/2026 13:28
-dd954bfb-a73d-4a40-a64b-420d2ee161ab,climate.vegas,available,12.99,43.99,high,medium,7,namesilo,,,29/09/2026 10:05
-73635312-8e1e-4c54-b33d-2c2280062068,nature.software,available,,,high,low,6,,,,
-496711ac-cbbf-47cd-bc4b-f08761db3b24,climate.community,resell,,,high,medium,7,Porkbun LLC,18/06/2014 16:00,18/06/2027 16:00,29/09/2026 10:05
-ac644c0d-ee0c-4b66-962d-9d83ee15fec2,habitat.gives,available,11.99,23.01,high,high,7,dynadot,,,24/10/2026 02:30
-705eadeb-090d-4b7b-97eb-9056665ad0e4,natural.vip,premium,1107,17.7,high,low,7,namesilo,,,09/10/2026 20:49
-99cbed85-185f-4026-854c-8408f9d23eb2,conservation.phd,premium,50.92,50.92,high,low,12,spaceship,,,29/09/2026 23:26
-88144393-6d9f-4795-9d44-09efa489d33e,green.expert,premium,828.2,828.2,high,medium,5,spaceship,,,22/10/2026 13:28
-e4fafac4-cfc7-4032-b56a-023063615e69,environment.viajes,available,99.99,99.99,high,medium,11,namesilo,,,22/10/2026 15:44
-31398478-99e5-4dc3-94bc-b620d0d64d8b,habitat.buzz,premium,110,55,high,high,7,dynadot,,,24/10/2026 02:30
-ed7c8734-82c8-490f-b4cf-b14c4fbc3485,ecosystem.barcelona,available,25.04,25.04,high,low,9,spaceship,,,06/10/2026 08:32
-802b40cd-81d1-4b14-8f71-900b8baafd9b,conservation.ink,available,2,26.97,high,low,12,dynadot,,,29/09/2026 23:26
-88e4b556-0805-4f63-b4b5-3317bdc011f4,green.srl,premium,50.6,28.04,high,medium,5,dynadot,,,22/10/2026 13:28
-b95e30bd-5817-45fc-b20e-594d24838351,ecosystem.hospital,available,57.99,57.99,high,low,9,namesilo,,,06/10/2026 08:32
-49dc1175-c601-45a0-bbf3-c575bc49d7e2,nature.contractors,available,35.49,35.49,high,low,6,namesilo,,,08/09/2026 02:43
-31ce2db6-89db-4eb7-989b-0cc6037e2f26,green.audio,available,93.35,103.4,high,medium,5,spaceship,,,22/10/2026 13:28
-86594071-89b2-4a78-bf4c-7e8ea04471ad,habitat.autos,available,1.99,17.29,high,high,7,namesilo,,,24/10/2026 02:30
-8f8bee2d-af56-4c0b-953e-dd8a630a3d2a,ecosystem.industries,available,36.43,36.43,high,low,9,spaceship,,,06/10/2026 08:32
-331d8c8a-0a7e-4c1b-814e-828a01328ac6,natural.page,premium,318.72,318.72,high,low,7,namesilo,,,09/10/2026 20:49
-00546d23-dbbf-420e-a807-63fdf737acf0,environment.cam,available,8.99,17.49,high,medium,11,namesilo,,,22/10/2026 15:44
-7de3af6d-e02d-48c7-a9d5-2175b7f54baa,green.wine,resell,,,high,medium,5,"GoDaddy.com, LLC",27/01/2016 16:00,27/01/2027 16:00,22/10/2026 13:28
-078b52fb-e0c3-4719-a1e6-61ae7ac3adb4,habitat.cars,available,2070,2950,high,high,7,namecheap,,,24/10/2026 02:30
-f26eff1a-e666-49e5-8e9e-d6378624e19d,natural.accountant,premium,116,29.5,high,low,7,namesilo,,,09/10/2026 20:49
-1d142a9e-4cf2-4274-9cb0-010a83e0b571,conservation.immobilien,available,8.24,31.15,high,low,12,dynadot,,,29/09/2026 23:26
-010d7c47-7ae0-4615-ac43-c235780ed262,green.archi,premium,517.7,517.7,high,medium,5,spaceship,,,22/10/2026 13:28
-3ab42339-acb5-4335-9823-57588f9f23ed,environment.tax,available,14.99,67.49,high,medium,11,namesilo,,,22/10/2026 15:44
-54a1af9b-0e59-429f-bdae-eea7677075c4,ecosystem.lease,available,56.99,56.99,high,low,9,namesilo,,,06/10/2026 08:32
-02de41a6-95f3-475c-a3bc-31db43824c91,environment.art,premium,1552.7,72.65,high,medium,11,spaceship,,,22/10/2026 15:44
-291d65af-820d-4066-b179-1bef3186c503,conservation.agency,resell,,,high,low,12,,,,29/09/2026 23:26
-f3faa8e9-b9f8-4c21-84ea-c83074726eea,ecosystem.cheap,available,28.2,28.2,high,low,9,cloudflare,,,06/10/2026 08:32
-819c31ab-0b46-46a6-a04a-b1b22810f2ed,ecosystem.mba,available,17,30.2,high,low,9,unstoppable,,,06/10/2026 08:32
-c4566aec-2938-40f0-898a-7096d4708933,environment.bot,premium,116,116,high,medium,11,namesilo,,,22/10/2026 15:44
-c9246166-e5ba-4dfd-b861-714208868949,sustainable.green,premium,1107,1107,high,low,11,namesilo,,,01/10/2026 22:43
-20018db6-9180-4504-b6af-3fb7d6fbd329,conservation.tattoo,available,1.75,31.25,high,low,12,spaceship,,,29/09/2026 23:26
-12403b8d-a01d-42c8-a5d8-a3f0adbd3ca4,natural.fund,resell,,,high,low,7,"DNSPod, Inc.",18/11/2019 23:19,18/11/2027 23:19,09/10/2026 20:49
-00b9237d-c4fb-40a0-8770-6a7370c05b05,climate.game,available,279.65,341.75,high,medium,7,spaceship,,,29/09/2026 10:05
-800faa86-5506-41a4-9548-a5c737bb7dde,energy.dog,resell,,,high,medium,6,UM DOMAINS PTE. LTD,03/03/2026 15:15,03/03/2027 15:15,08/10/2026 08:27
-c02ede59-c377-43dd-ae77-23855d5f7c50,natural.website,premium,650,1300,high,low,7,namecheap,,,09/10/2026 20:49
-c2382bfc-d7cf-444d-9301-3d5e6c7058cd,green.living,premium,2660,2660,high,medium,5,namesilo,,,22/10/2026 13:28
-042bd629-c2bc-4c27-9725-1674b7df28b5,natural.locker,premium,159.23,8.8,high,low,7,namesilo,,,09/10/2026 20:49
-00c0da83-31dd-4b5b-9b29-e8990623cdd4,environment.hot,premium,116,116,high,medium,11,namesilo,,,22/10/2026 15:44
-c0fc630a-eab7-4538-bd6f-75d3109892cc,green.london,premium,2768.71,27.89,high,medium,5,spaceship,,,22/10/2026 13:28
-a0a5c172-9bfd-4b0a-be21-346cf2d96481,nature.storage,available,509.99,529.99,high,low,6,namesilo,,,08/09/2026 02:43
-8b76f101-0b92-437e-ad6c-ba5e35d84632,ecosystem.center,available,5.5,25.2,high,low,9,unstoppable,,,06/10/2026 08:32
-5d2e2d23-064f-4000-a66a-579c7d8e0863,environment.gift,available,14.99,14.99,high,medium,11,namesilo,,,22/10/2026 15:44
-35dac1a8-2e26-44b5-86b2-9f9926473c19,climate.chat,resell,,,high,medium,7,"DNSPod, Inc.",25/01/2020 22:01,25/01/2027 22:01,29/09/2026 10:05
-ef20c96b-ce7b-45f4-b115-dcf7766b4b65,nature.game,premium,1690,1690,high,low,6,namecheap,,,08/09/2026 02:43
-d41b0a06-696a-4581-83c7-ee95e5f38135,climate.gives,available,6.41,22.39,high,medium,7,spaceship,,,29/09/2026 10:05
-f8ebf9f3-111d-4922-b501-b93617639cd2,energy.cam,premium,828.2,14.69,high,medium,6,spaceship,,,08/10/2026 08:27
-62359932-bc50-4d91-bc84-4f3988025eeb,natural.webcam,premium,640,77.35,high,low,7,namesilo,,,09/10/2026 20:49
-93baef41-236d-471b-8f60-2e63f5402563,habitat.moe,available,13.99,13.99,high,high,7,namesilo,,,24/10/2026 02:30
-7b16f124-c90b-48fa-bc0b-3d6c1096879e,energy.download,premium,640,77.35,high,medium,6,namesilo,,,08/10/2026 08:27
-c45c0af7-8c84-4f15-8f3b-e797995459fa,habitat.hiv,available,195.99,195.99,high,high,7,namesilo,,,24/10/2026 02:30
-6d168062-fc72-4830-9e08-630364a686ed,conservation.voting,available,1398,1448,high,low,12,namecheap,,,29/09/2026 23:26
-faeca557-3253-4d2c-865b-24ddc63b83eb,ecology.living,available,5.49,39.99,high,low,7,namesilo,,,23/09/2026 18:42
-fc619806-a715-42b3-94e4-24d578e4872f,conservation.theater,available,65.99,65.99,high,low,12,namesilo,,,29/09/2026 23:26
-5da0916a-3ee6-4ef1-856c-e35b70b98be6,habitat.diet,available,100.2,100.2,high,high,7,cloudflare,,,24/10/2026 02:30
-ffd41cf0-dd0b-4013-a316-f29190b7cbfb,natural.forsale,premium,99.5,128.7,high,low,7,unstoppable,,,09/10/2026 20:49
-e25998bb-e980-4e7b-8d26-9a7f96ee9c1f,natural.broker,available,10.55,29.18,high,low,7,spaceship,,,09/10/2026 20:49
-34acca7e-add0-4b20-bb02-874984938522,conservation.forex,available,10.55,83,high,low,12,spaceship,,,29/09/2026 23:26
-107328c3-1a0b-431e-a3a1-c5a775036381,ecosystem.photo,available,26.08,26.08,high,low,9,spaceship,,,06/10/2026 08:32
-83d8cfc8-8849-4c54-a23d-ee14df6f5cb1,conservation.vet,available,32.2,32.2,high,low,12,cloudflare,,,29/09/2026 23:26
-ab24ef5b-8641-4587-87c4-fb5ac5dfeab6,energy.audio,premium,832,832,high,medium,6,namesilo,,,08/10/2026 08:27
-7dc63075-b584-48e9-9f0f-bc027a48d73d,nature.bargains,available,14.98,37.98,high,low,6,namecheap,,,08/09/2026 02:43
-c5c2ebf4-1e48-4631-ab8e-d1fdfd6e39f3,natural.limo,available,57.98,68.98,high,low,7,namecheap,,,09/10/2026 20:49
-4681783b-177b-442e-b173-fb80156b0c70,atmosphere.organic,available,17.99,85.99,high,low,10,namesilo,,,18/09/2026 16:39
-67002211-6c73-4f38-b01b-f7fea3ca95e0,green.schule,available,33.98,37.98,high,medium,5,namecheap,,,22/10/2026 13:28
-52dcbc92-44e8-46b1-93b3-2cf995a3c9f1,energy.sexy,available,2749.99,2749.99,high,medium,6,namesilo,,,08/10/2026 08:27
-b2b36ee3-7222-4899-9bc0-94383afb2041,conservation.mx,available,39.99,43.99,high,low,12,namesilo,,,29/09/2026 23:26
-43211356-402e-4df8-8b00-7b5e438a03fc,environment.tennis,available,50.2,50.2,high,medium,11,cloudflare,,,22/10/2026 15:44
-a5ba8d17-a2aa-40db-86e6-a729190be240,ecology.codes,available,3.98,92.98,high,low,7,namecheap,,,23/09/2026 18:42
-7e8ed856-1126-454b-8f86-beb64625e8fd,ecosystem.how,available,30.98,41.98,high,low,9,namecheap,,,06/10/2026 08:32
-72af9b85-6ddc-4e87-9966-101c251805b0,habitat.yachts,available,1.24,13.97,high,high,7,spaceship,,,24/10/2026 02:30
-0fd21ee9-d9a1-4357-81e0-ef8a1989fa2a,environment.quest,available,1.99,17.29,high,medium,11,namesilo,,,22/10/2026 15:44
-4ca686f0-ebd5-4746-ae2a-ac6834b46307,nature.airforce,available,103.99,103.99,high,low,6,namesilo,,,08/09/2026 02:43
-48874a93-5d32-47f8-b9d0-9771328b45e7,climate.parts,available,32.2,32.2,high,medium,7,cloudflare,,,29/09/2026 10:05
-039af2d1-f31d-41eb-879f-944ac3e2cb2b,ecosystem.cx,available,18.99,18.99,high,low,9,namesilo,,,06/10/2026 08:32
-5504fc60-ccf4-4189-82f5-f89570f2f28e,nature.broker,available,11.98,47.98,high,low,6,namecheap,,,08/09/2026 02:43
-3b5d37b3-d239-40fc-9c8d-79f456e370b3,green.ninja,available,,,high,low,5,,,,23/10/2026 09:31
-a755f766-09dd-48c8-b220-4297e966e21c,climate.condos,available,45.2,45.2,high,medium,7,cloudflare,,,29/09/2026 10:05
-37d372b2-43df-494c-b1ab-832e95e544b3,natural.one,premium,640,640,high,low,7,namesilo,,,09/10/2026 20:49
-b56ccf4b-673e-49f1-9ed6-29c75a38c29e,green.locker,premium,5175.2,31.25,high,medium,5,spaceship,,,22/10/2026 13:28
-cb7855e1-d3f5-479c-979e-8595f8ba8385,energy.parts,premium,78.54,78.54,high,medium,6,namesilo,,,08/10/2026 08:27
-7d25342e-10e7-485f-b612-dc4c9f3d0c62,energy.surf,premium,44,26.97,high,medium,6,dynadot,,,08/10/2026 08:27
-39c686cf-7158-4c48-a4d7-fd804c6f1749,energy.gripe,premium,36.3,36.3,high,medium,6,dynadot,,,08/10/2026 08:27
-c5a6bc98-be38-4009-a97c-7e6e28b40d17,conservation.codes,available,8.99,71.99,high,low,12,namesilo,,,29/09/2026 23:26
-43a0b13a-f7c9-4703-baf4-d9b412615248,nature.horse,available,32.49,32.49,high,low,6,namesilo,,,08/09/2026 02:43
-83090d80-559a-4aa4-815d-6e8bb2f913fc,natural.maison,available,45.74,45.74,high,low,7,spaceship,,,09/10/2026 20:49
-ad8ac5db-8507-45b4-899c-bc1497c9177b,habitat.lifestyle,premium,640,640,high,high,7,namesilo,,,24/10/2026 02:30
-e4ea21a4-3f5c-48e8-88c1-6eaf73dbf2e4,energy.broker,premium,5500,5500,high,medium,6,dynadot,,,08/10/2026 08:27
-b19f8a5e-11eb-411b-830f-034dfae32be8,nature.cv,premium,1309.75,9.75,high,low,6,namecheap,,,08/09/2026 02:43
-3cdda761-35e1-4448-85ad-4fcaa0690331,ecology.autos,available,1.99,17.29,high,low,7,namesilo,,,23/09/2026 18:42
-a2aa1241-6f73-483b-9743-7ca499444707,environment.actor,available,16,44.49,high,medium,11,unstoppable,,,22/10/2026 15:44
-72a332c1-1777-4e2c-b049-8a0af41e174e,energy.credit,resell,,,high,medium,6,Epik LLC,08/06/2017 17:52,08/06/2027 17:52,08/10/2026 08:27
-7df00fb5-9558-411a-9794-f0a71e096363,energy.surgery,premium,128.7,128.7,high,medium,6,namecheap,,,08/10/2026 08:27
-fe38a2d0-6f2f-466a-8e17-293fa2b5a9c8,climate.villas,available,59.99,59.99,high,medium,7,namesilo,,,29/09/2026 10:05
-65df6dcb-c29a-4dd2-bb73-9ce2ef6774f0,ecosystem.engineering,available,16.99,64.99,high,low,9,namesilo,,,06/10/2026 08:32
-c24aab06-f03e-4e62-a04b-e3f66f270a69,habitat.voting,available,1398,1448,high,high,7,namecheap,,,24/10/2026 02:30
-46307bc8-8c73-410e-b257-b53e889f5c53,natural.cars,available,1999.99,2199,high,low,7,namesilo,,,09/10/2026 20:49
-f6409bf1-7eb4-454c-ad03-33e31b9a2151,natural.immobilien,available,29.2,29.2,high,low,7,cloudflare,,,09/10/2026 20:49
-4b8372eb-dcc3-49da-854f-d6c90c4fcc30,green.express,resell,,,high,medium,5,"GoDaddy.com, LLC",30/09/2017 08:02,30/09/2027 08:02,22/10/2026 13:28
-1f77a307-bb58-4875-b792-ece849a909cd,natural.sucks,premium,2658.67,2658.67,high,low,7,namesilo,,,09/10/2026 20:49
-6809a5c4-a41d-491d-ad48-e23726f57fa6,energy.toys,available,17.99,64.99,high,medium,6,namesilo,,,08/10/2026 08:27
-5f14c727-c44c-47f1-8446-361eb2299e20,ecosystem.tips,available,15.99,30.99,high,low,9,namesilo,,,06/10/2026 08:32
-427d2333-6401-4c93-9a9b-3797c6089a45,conservation.online,resell,,,high,low,12,,,,29/09/2026 23:26
-3f68b24c-d65a-4581-be15-ef8837cc9941,ecosystem.contact,available,11.2,11.2,high,low,9,cloudflare,,,06/10/2026 08:32
-3aac6a8a-839f-47da-b650-533ba2af8913,ecosystem.flowers,available,100,100,high,low,9,cloudflare,,,06/10/2026 08:32
-2869f749-b81c-4d24-80f6-9ab14b64eb3d,environment.gripe,available,6.99,6.99,high,medium,11,namesilo,,,22/10/2026 15:44
-a5345b4b-8da4-42d7-80b4-558a86f740d4,ecology.place,available,22.49,22.49,high,low,7,namesilo,,,23/09/2026 18:42
-a119295b-94ce-4711-aab5-fe24282af0b4,energy.cricket,available,20.88,20.88,high,medium,6,spaceship,,,08/10/2026 08:27
-c04db59c-64ff-49ed-a88f-860cf0dfd9d9,climate.spot,premium,110,110,high,medium,7,dynadot,,,29/09/2026 10:05
-7e5fd16a-c45f-413b-a760-32182ee61c9b,energy.uk,resell,,,high,medium,6,Global Domains Limited t/a Global Domains Limited,24/04/2019 10:48,24/04/2027 10:48,08/10/2026 08:27
-5f66ff48-24c4-4eb1-b1a7-21e47332f98a,climate.help,premium,76.94,109.69,high,medium,7,porkbun,,,29/09/2026 10:05
-87840857-0370-4d59-8a13-95c9d702c235,climate.loan,premium,517.7,67.48,high,medium,7,spaceship,,,29/09/2026 10:05
-28a046fe-9a7d-4010-b03e-d08397a016c2,conservation.spot,premium,116,116,high,low,12,namesilo,,,29/09/2026 23:26
-5bffe7cf-65e6-43d4-b2b1-90c14035a9c7,conservation.bar,premium,230.4,230.4,high,low,12,namesilo,,,29/09/2026 23:26
-97803553-6781-41e8-bbc2-a87d1030f8a5,natural.fan,available,43.67,43.67,high,low,7,spaceship,,,09/10/2026 20:49
-9d5a1912-9956-4791-a3b7-2472ef822b4e,ecology.productions,available,10.99,40.49,high,low,7,namesilo,,,23/09/2026 18:42
-b1284c28-279e-4d79-adaf-21c21a9cf5f8,green.makeup,premium,2070.2,2070.2,high,medium,5,spaceship,,,22/10/2026 13:28
-25fe3d64-ea2a-4542-b45d-637f2e02cefb,habitat.link,premium,1995,1995,high,high,7,namesilo,,,24/10/2026 02:30
-b8e32eb2-5f5b-4dcb-b4a6-1e8a82403dbf,energy.trade,resell,,,high,medium,6,Porkbun,29/07/2019 12:42,29/07/2030 12:42,08/10/2026 08:27
-c2899d80-385e-4936-b4ca-3ea2d4a26923,nature.coupons,available,2.98,59.98,high,low,6,namecheap,,,08/09/2026 02:43
-79f6512e-25ae-4901-912c-75c23fb0f62f,environment.boats,available,1.99,14.45,high,medium,11,dynadot,,,22/10/2026 15:44
-b99ef096-4fd8-4282-8027-5fde91d94dba,climate.hot,premium,116,116,high,medium,7,namesilo,,,29/09/2026 10:05
-a4fdbf1b-c9b2-42a0-b3b2-290e8d79cb98,ecosystem.you,resell,,,high,low,9,Porkbun LLC,24/04/2026 05:32,24/04/2027 05:32,06/10/2026 08:32
-a74ff344-94c0-4ff5-9164-3e02574cc889,nature.health,premium,3250,78,high,low,6,namecheap,,,08/09/2026 02:43
-195470e4-6384-46a2-9191-07b07414ecbe,natural.green,premium,1035.2,1035.2,high,low,7,spaceship,,,09/10/2026 20:49
-b9fce40a-9c29-4c33-bed6-419e23d93b82,energy.cc,resell,,,high,medium,6,"GoDaddy.com, LLC",05/11/2002 10:38,05/11/2027 09:38,08/10/2026 08:27
-fb4f77c6-6ca0-4359-beda-fff34dbe2590,ecosystem.click,premium,72.65,103.7,high,low,9,spaceship,,,06/10/2026 08:32
-5a641c19-c9bc-42af-903c-9118a19cc3bf,ecosystem.gift,available,14.99,14.99,high,low,9,namesilo,,,06/10/2026 08:32
-e8789715-ac1c-4cf4-9d5d-c60e679a4d6f,ecology.show,available,18.99,44.49,high,low,7,namesilo,,,23/09/2026 18:42
-e280710e-2750-416d-90ee-c14ff536c7e0,energy.diet,available,93.35,103.4,high,medium,6,spaceship,,,08/10/2026 08:27
-3ed74c30-79eb-4bb4-8437-085ed492f0e5,ecology.chat,available,10.99,44.99,high,low,7,namesilo,,,23/09/2026 18:42
-88208990-9750-4518-9b20-c67b3249873b,natural.vana,available,2140.22,2140.22,high,low,7,dynadot,,,09/10/2026 20:49
-f69aef8a-b2c9-4b57-8fa0-1a97318c85e9,climate.irish,available,5.38,17.8,high,medium,7,spaceship,,,29/09/2026 10:05
-a60db222-ba8e-4d3f-bdad-b203605be2fd,ecosystem.bet,available,13.5,20.9,high,low,9,unstoppable,,,06/10/2026 08:32
-711ebd63-e8cc-4ac4-bba3-9bd09fdc648d,conservation.date,premium,,,high,low,12,,,,29/09/2026 23:26
-f1e47ec3-0a75-47fe-8037-232394b4054e,conservation.claims,available,11.98,82.98,high,low,12,namecheap,,,29/09/2026 23:26
-6cc421c5-4999-42ae-8408-874049eadeff,ecosystem.travel,available,23.98,186.98,high,low,9,namecheap,,,06/10/2026 08:32
-6dc25546-2c85-467e-b2c0-34af830497b4,climate.wiki,premium,325,325,high,medium,7,namecheap,,,29/09/2026 10:05
-1c9c6662-6faa-46e5-8e29-92ecdd70077a,conservation.luxe,available,15.73,15.73,high,low,12,spaceship,,,29/09/2026 23:26
-c2b7f2da-d54a-4990-8a09-5d6cf475573b,ecology.desi,available,19.98,22.98,high,low,7,namecheap,,,23/09/2026 18:42
-6a3d36f2-49f6-4f48-a9b9-d82812d19d88,climate.kitchen,available,8.98,83.98,high,medium,7,namecheap,,,29/09/2026 10:05
-962dadde-18ed-4896-9eef-d2606ae568e2,climate.win,available,,,high,medium,7,,,,11/10/2026 09:13
-0cd95386-f0f7-429b-956b-27622ac0cfac,habitat.wedding,available,32.49,32.49,high,high,7,namesilo,,,24/10/2026 02:30
-9ee6f892-d64c-4061-bee4-3906a8bbc6fb,climate.lease,available,58.98,73.98,high,medium,7,namecheap,,,29/09/2026 10:05
-cccabe79-059c-42c0-b65f-8d79eb8822cc,ecological.vet,available,41.99,41.99,high,low,10,namesilo,,,05/10/2026 17:06
-890fa6cc-0f0d-46e3-8415-051a9fd7e517,conservation.webcam,available,11.99,11.99,high,low,12,namesilo,,,29/09/2026 23:26
-0bdf608f-062e-4261-a0fd-7ae217b64fb1,habitat.living,premium,640,640,high,high,7,namesilo,,,24/10/2026 02:30
-5f3a752b-50c4-44f8-85e1-11284da08bb3,ecology.bot,available,64.98,78.98,high,low,7,namecheap,,,23/09/2026 18:42
-52fefe59-cea9-4d0a-b911-de37763b7bd9,ecosystem.football,available,20.9,20.9,high,low,9,spaceship,,,06/10/2026 08:32
-73ff54a3-a334-4395-ae45-d2ec531ed729,ecosystem.hosting,available,310.98,437.98,high,low,9,namecheap,,,06/10/2026 08:32
-8c4fe63f-01cd-4d05-b2c3-0dc0e0ccc758,ecological.me,resell,,,high,low,10,"eNom, LLC",22/02/2026 07:45,22/02/2027 07:45,05/10/2026 17:06
-0668e52f-a0b5-4ee7-a5e0-68d3144d1782,ecosystem.at,resell,,,high,low,9,Domainers Registrar AG ( https://nic.at/registrar/668 ),,,06/10/2026 08:32
-205b5354-d46d-45dc-9f47-113d4e967cf4,climate.forsale,available,16.99,36.99,high,medium,7,namesilo,,,29/09/2026 10:05
-38e9f5a3-24d3-4ad9-b5f9-4ce13d978211,sustainability.store,premium,781.25,3125,high,low,14,name.com,,,
-89b362c8-b035-4551-921a-c72814a48d37,natural.express,resell,,,high,low,7,Porkbun LLC,25/04/2026 00:08,25/04/2027 00:08,09/10/2026 20:49
-5ab71e39-8706-4d16-af53-1ebdaa17b43b,ecosystem.gallery,available,22.2,22.2,high,low,9,cloudflare,,,06/10/2026 08:32
-eb4833f5-2fd9-4d30-a63e-3bc1b1ae0398,ecosystem.vet,available,41.99,41.99,high,low,9,namesilo,,,06/10/2026 08:32
-7404c2b2-be93-4b33-8463-e34345bbeeec,habitat.baby,available,17.99,54.99,high,high,7,namesilo,,,24/10/2026 02:30
-a1227913-7473-42ec-96f0-eacbac6b5a90,ecology.tienda,available,59.99,59.99,high,low,7,namesilo,,,23/09/2026 18:42
-081e7ba9-faca-4622-911c-5ccbf72e0223,sustainable.farm,resell,,,high,low,11,,,,01/10/2026 22:43
-6f710d69-6059-467c-af18-cbe8c00e229a,green.tennis,available,51.95,51.95,high,medium,5,spaceship,,,22/10/2026 13:28
-7099055f-a8c6-4ad0-bb28-8b50e9ac7562,climate.theatre,available,465.95,500.18,high,medium,7,spaceship,,,29/09/2026 10:05
-bfce9614-dba5-4381-bc47-3d940dc18f9a,energy.exposed,premium,207.2,207.2,high,medium,6,spaceship,,,08/10/2026 08:27
-e7e609a7-7f2e-412b-9a6f-9278272532a9,green.country,available,,,high,low,5,,,,23/10/2026 09:31
-9d333b6e-efd5-4075-978a-8cdcf6f75548,climate.immobilien,available,37.99,37.99,high,medium,7,namesilo,,,29/09/2026 10:05
-85e1be7b-69ba-4238-bf19-01affe5e2f63,conservation.cat,available,18.83,25.04,high,low,12,spaceship,,,29/09/2026 23:26
-da877bd5-2818-4de5-9862-31988f671c1c,nature.mobi,available,,,high,low,6,,,,
-02bfec81-e7e4-490c-b1df-9b250d614b37,conservation.rentals,available,6.64,36.6,high,low,12,dynadot,,,29/09/2026 23:26
-c9d53bfd-6f61-41d7-aeb6-c6d31544be23,ecosystem.blog,premium,129.58,517.7,high,low,9,spaceship,,,06/10/2026 08:32
-43436c33-1870-49d2-81d9-bba7e6bac72c,natural.blackfriday,available,103.7,103.7,high,low,7,spaceship,,,09/10/2026 20:49
+fc2e8e00-c5fe-46b3-ade4-3f138ca37b04,nature.courses,premium,116,116,high,low,6,namesilo,,,08/09/2026 02:43
+a2245c9f-5e8a-413e-bf20-e2b769b909e2,ecological.city,available,4.5,23.76,high,low,10,dynadot,,,05/10/2026 17:06
+558d63ae-725f-4f2a-a924-dc016ed89e32,energy.vacations,available,31.25,31.25,high,medium,6,spaceship,,,08/10/2026 08:27
+6bf9392c-c692-4dc4-9084-577c8cf996fc,natural.rentals,available,10.99,44.49,high,low,7,namesilo,,,09/10/2026 20:49
+fd3c325d-8269-4780-bfda-a97cd4a69db9,nature.autos,premium,2600,2600,high,low,6,namecheap,,,08/09/2026 02:43
+13f506b0-91a3-484f-b822-f9559f67d21a,natural.foo,premium,257.92,257.92,high,low,7,spaceship,,,09/10/2026 20:49
